@@ -1,0 +1,270 @@
+---
+title: "Parsing Zammit supplementary tables"
+author: "Anh Vu Le"
+date: "4 3 2022"
+output: html_document
+---
+
+```{r}
+library(Biostrings)
+source('script_functions.R')
+```
+
+```{r}
+########################
+# Load Zammit datasets #
+########################
+mbfv <- read.csv('benchmark/Zammit/S1_csv/zammit-MBFV.csv')
+mbfv_nkv_isfv <- read.csv('benchmark/Zammit/S1_csv/zammit-MBFV-other.csv')
+tbfv <- read.csv('benchmark/Zammit/S1_csv/zammit-TBFV.csv')
+tbfv_nkv <- read.csv('benchmark/Zammit/S1_csv/zammit-TBFV-other.csv')
+cisfv <- read.csv('benchmark/Zammit/S1_csv/zammit-cISFV.csv')
+```
+
+```{r}
+#####################################
+# Extract precise MBFV SL sequences #
+#####################################
+mbfv_w_seqs <- parseMBFV_SL(mbfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(MBFV.SL1.seq = zammit_subseq(accession,  MBFV.SL1.start_rel,  MBFV.SL1.end_rel),
+         MBFV.SL2.seq =  zammit_subseq(accession,  MBFV.SL2.start_rel,  MBFV.SL2.end_rel))
+
+mbfv_sl1_seq <- mbfv_w_seqs$MBFV.SL1.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+mbfv_sl2_seq <- mbfv_w_seqs$MBFV.SL2.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(mbfv_sl1_seq, file= 'benchmark/Zammit/S1_csv/MBFV_SL1.fa')
+writeXStringSet(mbfv_sl2_seq, file= 'benchmark/Zammit/S1_csv/MBFV_SL2.fa')
+```
+
+```{r}
+##############################################################
+# Extract precise NKV + ISV (MBFV-related) MBFV-SL sequences #
+##############################################################
+mbfv_w_seqs <- parseMBFV_SL(mbfv_nkv_isfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(MBFV.SL1.seq = zammit_subseq(accession,  MBFV.SL1.start_rel,  MBFV.SL1.end_rel))
+
+mbfv_sl1_seq <- mbfv_w_seqs$MBFV.SL1.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(mbfv_sl1_seq, file= 'benchmark/Zammit/S1_csv/NKV_ISV_MBFV_SL.fa')
+```
+
+```{r}
+##########################################
+# Extract precise cISV MBFV-SL sequences #
+##########################################
+mbfv_w_seqs <- parseMBFV_SL(cisfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(MBFV.SL1.seq = zammit_subseq(accession,  MBFV.SL1.start_rel,  MBFV.SL1.end_rel),
+         MBFV.SL2.seq =  zammit_subseq(accession,  MBFV.SL2.start_rel,  MBFV.SL2.end_rel))
+
+mbfv_sl1_seq <- mbfv_w_seqs$MBFV.SL1.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+mbfv_sl2_seq <- mbfv_w_seqs$MBFV.SL2.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(mbfv_sl1_seq, file= 'benchmark/Zammit/S1_csv/cISV_MBFV_SL1.fa')
+writeXStringSet(mbfv_sl2_seq, file= 'benchmark/Zammit/S1_csv/cISV_MBFV_SL2.fa')
+```
+
+```{r}
+#######################################
+# Extract precise TBFV Y-SL sequences #
+#######################################
+tbfv_w_seqs <- parseTBFV_Y_SL(tbfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  # Ignore final 24nt as this PK region is not captured by the NA2Dsearch query
+  mutate(TBFV.Y.SL1.seq = zammit_subseq(accession,  TBFV.Y.SL1.start_rel,  TBFV.Y.SL1.end_rel - 24),
+         TBFV.Y.SL2.seq =  zammit_subseq(accession,  TBFV.Y.SL2.start_rel,  TBFV.Y.SL2.end_rel - 24))
+
+tbfv_sl1_seq <- tbfv_w_seqs$TBFV.Y.SL1.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+tbfv_sl2_seq <- tbfv_w_seqs$TBFV.Y.SL2.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(tbfv_sl1_seq, file= 'benchmark/Zammit/S1_csv/TBFV_Y_SL1.fa')
+writeXStringSet(tbfv_sl2_seq, file= 'benchmark/Zammit/S1_csv/TBFV_Y_SL2.fa')
+```
+
+```{r}
+########################################
+# Extract precise TBFV AU-SL sequences #
+########################################
+tbfv_w_au_seqs <- parseTBFV_AU_SL(tbfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(TBFV.AU.SL.seq = zammit_subseq(accession,  TBFV.AU.SL.start_rel,  TBFV.AU.SL.end_rel))
+
+tbfv_au_sl_seq <- tbfv_w_au_seqs$TBFV.AU.SL.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(tbfv_au_sl_seq, file= 'benchmark/Zammit/S1_csv/TBFV_AU_SL.fa')
+```
+
+```{r}
+#####################################################
+# Extract precise NKV (TBFV-related) Y-SL sequences #
+#####################################################
+tbfv_w_seqs <- parseTBFV_Y_SL(tbfv_nkv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  # Ignore final 24nt as this PK region is not captured by the NA2Dsearch query (only first SL)
+  mutate(TBFV.Y.SL1.seq = zammit_subseq(accession,  TBFV.Y.SL1.start_rel,  TBFV.Y.SL1.end_rel - 24),
+         TBFV.Y.SL2.seq =  zammit_subseq(accession,  TBFV.Y.SL2.start_rel,  TBFV.Y.SL2.end_rel))
+
+tbfv_sl1_seq <- tbfv_w_seqs$TBFV.Y.SL1.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+tbfv_sl2_seq <- tbfv_w_seqs$TBFV.Y.SL2.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(tbfv_sl1_seq, file= 'benchmark/Zammit/S1_csv/TBFV_NKV_Y_SL1.fa')
+writeXStringSet(tbfv_sl2_seq, file= 'benchmark/Zammit/S1_csv/TBFV_NKV_Y_SL2.fa')
+```
+
+```{r}
+######################################################
+# Extract precise NKV (TBFV-related) AU-SL sequences #
+######################################################
+tbfv_w_au_seqs <- parseTBFV_AU_SL(tbfv_nkv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(TBFV.AU.SL.seq = zammit_subseq(accession,  TBFV.AU.SL.start_rel,  TBFV.AU.SL.end_rel))
+
+tbfv_w_au_seqs <- tbfv_w_au_seqs$TBFV.AU.SL.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(tbfv_w_au_seqs, file= 'benchmark/Zammit/S1_csv/TBFV_NKV_AU_SL.fa')
+```
+
+```{r}
+########################################
+# Extract precise MBFV DB2+PK sequences #
+########################################
+db_pk_seqs <- parseDB_PK(mbfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(DB_PK1.seq = zammit_subseq(accession,  DB_PK_1.start_rel,  DB_PK_1.end_rel),
+         DB_PK2.seq = zammit_subseq(accession,  DB_PK_2.start_rel,  DB_PK_2.end_rel))
+
+db_pk1_seqs <- db_pk_seqs$DB_PK1.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+db_pk2_seqs <- db_pk_seqs$DB_PK2.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(db_pk1_seqs, file= 'benchmark/Zammit/S1_csv/MBFV_DB2_PK1.fa')
+writeXStringSet(db_pk2_seqs, file= 'benchmark/Zammit/S1_csv/MBFV_DB2_PK2.fa')
+```
+
+```{r}
+########################################
+# Extract precise MBFV DB1 sequences #
+########################################
+db1_noPK_seqs <- parseDB_withoutPK(mbfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(DB1_noPK.seq = zammit_subseq(accession,  DB_without.PK.start_rel,  DB_without.PK.end_rel))
+
+db1_noPK_seqs <- db1_noPK_seqs$DB1_noPK.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(db1_noPK_seqs, file= 'benchmark/Zammit/S1_csv/MBFV_DB1_noPK.fa')
+```
+
+```{r}
+####################################################
+# Extract precise NKV (TBFV-related) DB1 sequences #
+####################################################
+db1_noPK_seqs <- parseDB_withoutPK(tbfv_nkv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(DB1_noPK.seq = zammit_subseq(accession,  DB_without.PK.start_rel,  DB_without.PK.end_rel))
+
+db1_noPK_seqs <- db1_noPK_seqs$DB1_noPK.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(db1_noPK_seqs, file= 'benchmark/Zammit/S1_csv/TBFV_NKV_DB1_noPK.fa')
+```
+
+```{r}
+###########################################
+# Extract precise TBFV 5' GC-SL sequences #
+###########################################
+tbfv_w_seqs <- parseTBFV_5GC_SL(tbfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(five_GC_SL.seq = zammit_subseq(accession,  TBFV.5.GC.SL.start_rel,  TBFV.5.GC.SL.end_rel))
+
+five_gc_sl_seqs <- tbfv_w_seqs$five_GC_SL.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(five_gc_sl_seqs, file= 'benchmark/Zammit/S1_csv/TBFV_5_GC_SL.fa')
+```
+
+```{r}
+###########################################
+# Extract precise TBFV 3' GC-SL sequences #
+###########################################
+tbfv_w_seqs <- parseTBFV_3GC_SL(tbfv) %>%
+  select(ends_with('_rel'), accession) %>%
+  group_by(accession) %>%
+  summarise_all(mean) %>%
+  rowwise() %>%
+  mutate(three_GC_SL.seq = zammit_subseq(accession,  TBFV.3.GC.SL.start_rel,  TBFV.3.GC.SL.end_rel))
+
+three_gc_sl_seqs <- tbfv_w_seqs$three_GC_SL.seq  %>% 
+  Filter(f = function(x) {!is.na(x)}) %>%
+  RNAStringSet()
+
+writeXStringSet(three_gc_sl_seqs, file= 'benchmark/Zammit/S1_csv/TBFV_3_GC_SL.fa')
+```

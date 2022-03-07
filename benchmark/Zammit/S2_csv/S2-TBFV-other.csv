@@ -1,0 +1,14 @@
+s2_virus;accession;ORF3prime_end;structure_type;s_start;s_end;s2_structure_rank;s2_ref_deltaG;s2_delta_deltaG
+Modoc virus;NC_003635;10234;TBFV Y-SL;10264;10340;1;-39.8;
+;;;DB1(without PK);10354;10429;1;-37.8;
+;;;TBFV AU-SL;10444;10502;1;-38.6;
+Rio Bravo virus;JQ582840;10256;TBFV Y-SL;10320;10393;5;-29.9;3.3
+;;;DB1(without PK);10463;10536;1;-34.8;
+;;;TBFV AU-SL;10589;10642;1;-35.2;
+Montana myotis leukoencephalitis virus;AJ299445;10233;TBFV Y-SL;10290;10362;10;-30.3;4.2
+;;;DB1(without PK);10425;10486;1;-28.7;
+;;;TBFV AU-SL;10534;10589;1;-38.1;
+Apoi virus;AF452050;1;TBFV Y-SL;21;105;1;-38.0;
+;;;TBFV Y-SL;208;260;1;-32.3;
+;;;DB1(without PK);263;309;1;-24.5;
+;;;TBFV AU-SL;392;451;1;-35.2;

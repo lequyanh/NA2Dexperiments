@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <databaseList />
+  <score>
+    <item name="dsInnerLoopOpen" value="0.0" />
+    <item name="pseudoknotSkip" value="0.0" />
+    <item name="dsInnerLoopExtension" value="0.0" />
+    <item name="dsInsert" value="0.0" />
+    <item name="ssSkip" value="0.0" />
+    <item name="dsDelete" value="0.0" />
+    <item name="dsBulgeExtension" value="0.0" />
+    <item name="ssInsert" value="0.0" />
+    <item name="ssDelete" value="0.0" />
+    <item name="dsBulgeOpen" value="0.0" />
+    <item name="dsSkip" value="0.0" />
+  </score>
+  <preferences>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+  </preferences>
+</project>
+

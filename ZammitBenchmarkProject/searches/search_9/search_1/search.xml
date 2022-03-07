@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="SubSearchRun" searchResultsFile="results.fa">
+  <name>Search 1</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate />
+  <resultsDisplayColumnList>
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+</search>
+

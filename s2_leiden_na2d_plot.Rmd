@@ -1,0 +1,467 @@
+---
+title: "Leiden comparison plotting"
+author: "Anh Vu Le"
+date: "14 12 2021"
+output: html_document
+---
+
+```{r }
+library(ggplot2)
+library(patchwork)
+library(RColorBrewer)
+
+source('s2_leiden_na2d_integrationFunctions.R')
+load_tables() # Always call from this cell block to supply current directory
+```
+
+```{r}
+getLeidenS2_FP <- function(merged_table){
+  # False positive locations of S2 viruses
+  fp_s2 <- merged_table %>% 
+    # Filter records with S2 virus but without S2_location 
+    #(i.e. the rolling join could not find an S2 location for a given Leiden hit)
+    filter(is.na(s2_rel_start) & !is.na(s2_virus)) %>% 
+    # Create an artificial grouping column as the locations can be scattered +-2nt
+    mutate(approx.loc = 10* round(hit_loc/10)) %>% 
+    group_by(s2_virus, accession, approx.loc) %>% 
+    summarise(no_false_hits = n(), 
+              hit_loc = round(mean(hit_loc)),
+              min_deltaG = round(min(deltaG), 1))  %>%
+    arrange(min_deltaG)
+  
+  return(fp_s2)
+}
+
+getLeiden_nonS2_FP <- function(merged_table){
+  # False positive locations of non-S2 viruses
+  fp_non_s2 <- merged_table %>% 
+    # Filter records with S2 virus but without S2_location 
+    #(i.e. the rolling join could not find an S2 location for a given Leiden hit)
+    filter(!is.na(hit_loc) & is.na(s2_virus)) %>% 
+    # Create an artificial grouping column as the locations can be scattered +-2nt
+    mutate(approx.loc = 10* round(hit_loc/10)) %>% 
+    group_by(accession, seq_def, approx.loc) %>% 
+    summarise(no_false_hits = n(), 
+              hit_loc = round(mean(hit_loc)),
+              min_deltaG = round(min(deltaG), 1))  %>%
+    arrange(min_deltaG)
+  
+  return(fp_non_s2)
+}
+
+getNA2D_TP <- function(comparisonDf){
+  # Filter S2 structures that matched with NA2D result (simpl_struct is not NA and is a sub-string of NA2D_structure)
+  na2d_tp <- comparisonDf %>% 
+    filter(!is.na(simpl_struct)) %>%
+    select(-seq_def)
+  
+  # As there can be multiple hits of the same structure (due to sliding window), 
+  # pick just one record for each structure repeat (the one with the lowest energy)
+  na2d_tp_extract <- comparisonDf %>% 
+    filter(!is.na(simpl_struct)) %>%
+    group_by(accession, hit_loc) %>%
+    arrange(na2d_energy) %>%
+    summarise(across(.fns = first)) %>%
+    select(-seq_def)
+  
+  return(na2d_tp_extract)
+}
+
+getNA2D_S2_FP <- function(fp_type, comparisonDf){
+  if(fp_type == 'wrong_virus'){
+    # Viruses that NA2Dsearch flagged to contain the structure despite not having one
+    ans <- comparisonDf %>% 
+      filter(is.na(s2_virus) & !is.na(na2d_structure))
+    
+  } else if(fp_type == 'correct_virus_wrong_location_or_structure'){
+    ans <- comparisonDf %>% 
+      # Correct viruses (s2_virus col populated), wrong location/structure (simpl_struct is NA)
+      filter(!is.na(s2_virus) & is.na(simpl_struct) & !is.na(na2d_structure)) %>%
+      # Filter out hits around the true structure (bnStart is close to s2_rel_start). They belong to TP
+      filter(abs(s2_rel_start - bnStart) > 10)
+    
+  } else {
+    print('Incorrect option')
+    return()
+  }
+  
+  # Show only min energy records
+  fp_df <- ans %>% 
+    mutate(approx.loc = floor(bnStart/10) * 10) %>%
+    group_by(accession, approx.loc) %>%
+    arrange(na2d_energy) %>%
+    summarise(across(.fns = first)) %>%
+    select(-simpl_struct, -hit_loc)
+  
+  return(fp_df)
+}
+```
+
+```{r}
+getNA2D_FP_plotData <- function(structure_type, na2d_override=NA, debug_mode=F){
+  comparisonDf <- compareSlidingNa2d_S2(structure_type, na2d_override)
+  
+  # View S2 structures matched with NA2D result info (simpl_struct is not NA and is a sub-string of NA2D_structure)
+  # As there can be multiple hits of the same structure (due to sliding window), see just one record for each structure repeat
+  # True positives - TP
+  na2d_tp <- 
+    getNA2D_TP(comparisonDf)
+  
+  # Viruses that NA2Dsearch flagged to contain the structure despite not having one (FP)
+  # Show only min energy records 
+  fp_non_s2 <- 
+    getNA2D_S2_FP(fp_type = 'wrong_virus', 
+                  comparisonDf)
+  
+  # Correct viruses, wrong location/structure (FP)
+  # Show only min energy records 
+  fp_s2 <- 
+    getNA2D_S2_FP(fp_type = 'correct_virus_wrong_location_or_structure',
+                  comparisonDf)
+
+  plot_df <- rbind(fp_non_s2 %>% 
+                     select(accession, na2d_energy) %>% 
+                     mutate(type = 'Incorrect virus FP'),
+                   fp_s2 %>% 
+                     select(accession, na2d_energy) %>% 
+                     mutate(type = 'Incorrect location FP'),
+                   na2d_tp  %>% 
+                     select(accession, na2d_energy) %>%
+                     mutate(type = 'True positive structures')
+  )
+  
+  plot_df <- plot_df %>% 
+    rename(deltaG = na2d_energy)
+  
+  if(debug_mode){
+    return(list(
+      plot_df = plot_df,
+      comparisonDf = comparisonDf,
+      na2d_tp = na2d_tp,
+      fp_s2 = fp_s2,
+      fp_non_s2 = fp_non_s2
+    ))
+  } else {
+    return(plot_df)
+  }
+} # ^getNA2D_FP_plotData()
+
+getLeidenFP_PlotData <- function(structure_type, debug_mode=F){
+  # This call joins the appropriate S2 table (MBFV, cISFV,...; holding reference structure locations) 
+  # with the appropriate webapp result file targeting a specific structure (AU SL, DB+PK, ...)
+  results <- getCombined_S2_webbapp(structure_type)
+  
+  # results have 3 slots, we need only one
+  merged_table <- results$merged_s2_web   # inner join of the S2 table and webapp results
+  
+  # Get location false positives (S2 viruses; wrong location)
+  fp_s2 <- getLeidenS2_FP(merged_table)
+  # Get virus false positives (wrong virus)
+  fp_non_s2 <- getLeiden_nonS2_FP(merged_table)
+  
+  # Assign structures to elements referenced in the S2 table
+  # Group by accession and structure location
+  # Each such group has the correct structure encoded in the 'structure rank' column
+  s2_with_structures <- merged_table %>% 
+    group_by(accession, s2_rel_start) %>%
+    group_modify(~ {.x %>% 
+        arrange(deltaG) %>% 
+        dplyr::slice(dplyr::first(.x$s2_structure_rank))}
+    ) %>%
+    filter(deltaG == s2_ref_deltaG) # Take care of DB2+PK cases, where non-YFG queries detect YFG structures, but with wrong energy
+  
+  plot_df <- rbind(fp_non_s2 %>% 
+                     select(accession, min_deltaG) %>% 
+                     rename(deltaG = min_deltaG) %>%
+                     mutate(type = 'Incorrect virus FP'),
+                   fp_s2 %>% 
+                     select(accession, min_deltaG) %>% 
+                     rename(deltaG = min_deltaG) %>%
+                     mutate(type = 'Incorrect location FP'),
+                   s2_with_structures  %>% 
+                     select(accession, deltaG) %>%
+                     mutate(type = 'True positive structures')
+  )
+  
+  if(debug_mode){
+    s2_table <- results$s2_table
+    
+    print(
+      assertthat::assert_that(intersect(
+      fp_non_s2 %>% pull(accession) %>% unique(),
+      s2_table %>% pull(accession)
+    ) %>% length() == 0))
+    
+    if (length(fp_s2$accession) > 0){
+      bool_arr <- fp_s2$accession %>% unique() %in% (s2_table$accession)
+      print(assertthat::assert_that(
+        sum(bool_arr) == length(bool_arr)
+      ))
+    }
+    
+    return(list(
+      plot_df = plot_df,
+      merged_table = merged_table,
+      s2_with_structures = s2_with_structures,
+      fp_s2 = fp_s2,
+      fp_non_s2 = fp_non_s2
+    ))
+  } else {
+    return(plot_df)
+  }
+} # ^getFP_PlotData()
+
+stat_box_data <- function(y) {
+  shift <- 2
+  
+  return(data.frame(
+    y = shift + max(y),
+    label = paste('n =', length(y))
+  ))
+}
+```
+
+```{r}
+structures <- c('MBFV-SL', 'MBFV-DB1', 'MBFV-DB2-non-YFG', 
+                'TBFV-Y-SL', 'TBFV-AU-SL', 'TBFV-3GC-SL')
+
+###################################
+# LEIDEN FALSE POSITIVES ANALYSIS #
+###################################
+
+fp_plots <- lapply(
+  structures, 
+  function(x){
+    plotData <- getLeidenFP_PlotData(structure_type = x)
+    
+    # post-hoc unification of the 2 false positive types into one
+    plotData <- plotData %>%
+      mutate(type=ifelse(type != "True positive structures", "False positive structures", type)) %>%
+      mutate(type=factor(type, levels = c("True positive structures", "False positive structures")))
+    
+    p <- ggplot(plotData, aes(x=type, y=deltaG, fill=type)) +
+      geom_boxplot() +
+      stat_summary(
+        fun.data = stat_box_data, 
+        geom = "text") +
+      ggtitle(x) +
+      theme_minimal() +
+      scale_fill_brewer(palette = "Dark2") +
+      theme(axis.title.x=element_blank(),
+            axis.text.x=element_blank()) 
+    
+    # Only :border: plots will have legend
+    if (!x %in% c('MBFV-DB2-non-YFG', 'TBFV-3GC-SL')){
+      p <- p + guides(fill = "none")
+    }
+    
+    return(p)
+  }
+)
+
+final_plot <- wrap_plots(fp_plots)
+final_plot
+
+ggsave(
+  'benchmark/Zammit/plots/leiden_FP_plots.png', 
+  final_plot, 
+  width = 10
+)
+```
+
+```{r}
+# DEBUG: Look into tables, from which plot data have been assembled from 
+plotData <- getLeidenFP_PlotData(structure_type = 'TBFV-Y-SL', 
+                                 debug_mode = T)
+
+View(plotData$merged_table)
+
+# DEBUG: Tune individual plots
+ggplot(plotData$plot_df, aes(x=type, y=deltaG, fill=type)) +
+  geom_boxplot() +
+  stat_summary(
+    fun.data = stat_box_data, 
+    geom = "text") +
+  ggtitle('MBFV-SL') +
+  guides(fill = "none") +
+  theme_minimal() +
+  scale_fill_brewer(palette = "Set2") +
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank()) 
+```
+
+```{r}
+fp_plots <- lapply(
+  structures, 
+  function(x){
+    plotData <- getNA2D_FP_plotData(structure_type = x)
+    
+    plotData <- plotData %>%
+      mutate(type=ifelse(type != "True positive structures", "False positive structures", type)) %>%
+      mutate(type=factor(type, levels = c("True positive structures", "False positive structures")))
+    
+    p <- ggplot(plotData, aes(x=type, y=deltaG, fill=type)) +
+      geom_boxplot() +
+      stat_summary(
+        fun.data = stat_box_data, 
+        geom = "text") +
+      ggtitle(x) +
+      theme_minimal() +
+      scale_fill_brewer(palette = "Dark2") +
+      theme(axis.title.x=element_blank(),
+            axis.text.x=element_blank()) 
+    
+    # Only :border: plots will have legend
+    if (!x %in% c('MBFV-DB2-non-YFG', 'TBFV-3GC-SL')){
+      p <- p + guides(fill = "none")
+    }
+    
+    return(p)
+  }
+)
+
+final_plot <- wrap_plots(fp_plots)
+
+final_plot
+
+ggsave(
+  'benchmark/Zammit/plots/NA2D_FP_plots.png', 
+  final_plot, 
+  width = 10
+)
+```
+
+```{r}
+# This part plots results of a single query (for tuning and debug purposes)
+comparedStructure <- 'TBFV-Y-SL'
+
+plotData <- getNA2D_FP_plotData(structure_type = comparedStructure, 
+                                # na2d_override = 'NA2DsearchProject/searches/search_13/results.fa',
+                                debug_mode = T)
+# View(plotData$na2d_tp)
+# View(plotData$fp_s2)
+# View(plotData$fp_non_s2)
+
+ggplot(plotData$plot_df, aes(x=type, y=deltaG, fill=type)) +
+  geom_violin(draw_quantiles = c(0.5)) +
+  stat_summary(
+    fun.data = stat_box_data, 
+    geom = "text") +
+  ggtitle('MBFV-SL') +
+  guides(fill = "none") +
+  theme_minimal() +
+  scale_fill_brewer(palette = "Set2") +
+     theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank()) 
+```
+
+# --------------- Explore which structures were missed by sliding NA2Dsearch ---------
+```{r}
+comparedStructure <- 'MBFV-SL'
+na2d_override <- 'NA2DsearchProject/searches/search_13/results.fa'
+# - or -
+na2d_override <- NA  # Use pre-saved results (will be loaded automatically)
+
+# 1. Load results from both Leiden and NA2D. Leiden will serve as a reference
+plotDataNA2 <- getNA2D_FP_plotData(structure_type = comparedStructure, 
+                                   na2d_override = na2d_override,
+                                   debug_mode = T)
+plotDataLeiden <- getLeidenFP_PlotData(structure_type = comparedStructure, 
+                                       debug_mode = T)
+
+# 2. Enrich reference S2 table with simplified structures for comparability with NA2D
+refS2Table <- plotDataLeiden$s2_with_structures
+if(comparedStructure == 'TBFV-Y-SL') {
+  refS2Table$simpl_struct <- simplifyWussStructures2(refS2Table$structure)
+} else {
+  refS2Table$simpl_struct <- simplifyWussStructures(refS2Table$structure)
+}
+
+# 3.a Join NA2D hits with S2 by accession and location; select reference structures (simplified)
+ans <- full_join(plotDataNA2$na2d_tp, 
+                 refS2Table, 
+                 by=c('accession', 'hit_loc', 's2_rel_start', 's2_virus')) %>% 
+  select(na2d_structure, hit_loc, simpl_struct.y, structure.y, s2_virus, s2_rel_start, bnStart)
+# 3.b Find missed viruses and true positives
+missing <- ans %>% filter(is.na(na2d_structure))
+true_positives <- ans %>% filter(!is.na(structure.y))
+
+# 4.a View true positives (missed structures will have NA NA2Dstructure)
+View(true_positives)
+# 4.b View missed viruses and their structures
+View(missing)
+# 4.c Merge missing df with NA2D structures by accession and location 
+#     to see (any) false NA2D structures of missing viruses located close to the supposed hit
+View(inner_join(plotDataNA2$comparisonDf, 
+                missing, 
+                by=c('accession', 's2_rel_start'))%>%
+       filter(abs(s2_rel_start - bnStart.x) < 19))
+
+# Save the missing UTRs for further analysis
+saveUndetected(missing, 
+               sprintf('benchmark/Zammit/%s-not-detected-50-7.6.fa', comparedStructure))
+
+# .... Fix ....
+# 5. After making adjustments, see if the missed structures are now found
+tempComparisonDf <- compareSlidingNa2d_S2(comparedStructure, 
+                                          na2d_file_override = 'NA2DsearchProject/searches/search_13/results.fa')
+
+tempComparisonDf <- tempComparisonDf %>%
+  filter(!is.na(simpl_struct)) %>% 
+  group_by(accession, s2_rel_start, s2_virus) %>% 
+  summarise(n())
+
+View(tempComparisonDf)
+```
+
+```{r}
+# Prepare data for 'practical limitations' measurements
+u <- parseNa2dResult("/benchmark/bpRNA/bpRNA_dbns_all.fst", keep_sequences = T)
+u$length <- str_length(u$sequence)
+
+long_rna <- u[which.max(u$length), 'sequence']
+
+win <- 300 # vary me
+start <- 0
+step <- 10
+chunks <- c()
+
+while(start + win < str_length(long_rna)){
+  chunk <- substr(long_rna, start, start + win)
+  chunks <- c(chunks, chunk)
+  start <- start + step
+}
+
+chunks <- chunks[1:100]
+
+accessions <- paste0('>chunk', seq(1:length(chunks)))
+
+# Stitch together accession, sequences. Output to a FASTA file
+fasta_out <- paste(accessions, 
+                 chunks, 
+                 sep = '\n')
+
+write(fasta_out, file=sprintf('/benchmark/bpRNA/misc/CRW55322_chunks%snt.fa', win))
+```
+
+
+```{r}
+bench_csv <- read.csv('C:/Users/vuleq/Desktop/Pospisek/practical_limitations_measurements.csv', sep=';') %>%
+  rename(length=ď.żlength) %>%
+  # mutate(ddg = as.factor(ddg)) %>%
+  mutate(length = as.factor(length))
+
+library(RColorBrewer)
+ggplot(bench_csv, aes(x=ddg, y=time, col=length)) +
+  geom_line() +
+  geom_point() +
+  ylab("time (min)") +
+  xlab(expression(~Delta*Delta*G)) +
+  ggtitle("NA2DSearch sequnce search (100 seqs.)") +
+  labs(col  = 'length (nt)') +
+  theme_minimal() +
+  scale_color_brewer(palette = "Set2")
+
+```

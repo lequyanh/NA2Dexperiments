@@ -1,0 +1,534 @@
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-..........","enRel":"18.75","enAbs":"-19.00","score":"-77.0","database":"TBFV_3_GC_SL.fa","dbPos":"0","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCAUUCUAGAGCCCCCGGGCAUAACUCGGG
+((((.(((((........))))).)....)))...........((((((.....))))))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-..........","enRel":"19.05","enAbs":"-19.30","score":"-77.0","database":"TBFV_3_GC_SL.fa","dbPos":"0","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCAUUCUAGAGCCCCCGGGCAUAACUCGGG
+(((((((.((........)).))))....)))...........((((((.....))))))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-.......","enRel":"19.85","enAbs":"-20.10","score":"-21.0","database":"TBFV_3_GC_SL.fa","dbPos":"0","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCAUUCUAGAGCCCCCGGGCAUAACUCGGG
+(((((((((..........))))))....)))...........((((((.....))))))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-.......","enRel":"23.75","enAbs":"-24.00","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"0","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCAUUCUAGAGCCCCCGGGCAUAACUCGGG
+((((((((((........)))))))....)))...........((((((.....))))))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-.......","enRel":"24.45","enAbs":"-24.70","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"0","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCAUUCUAGAGCCCCCGGGCAUAACUCGGG
+((((((((((........))))))....))))...........((((((.....))))))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......","enRel":"20.45","enAbs":"-20.70","score":"-19.0","database":"TBFV_3_GC_SL.fa","dbPos":"0","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCAUUCUAGAGCCCCCGGGCAUAACUCGGG
+.(((((((((........))))))....)))............((((((.....))))))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......","enRel":"19.75","enAbs":"-20.00","score":"-19.0","database":"TBFV_3_GC_SL.fa","dbPos":"0","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCAUUCUAGAGCCCCCGGGCAUAACUCGGG
+.(((((((((........)))))))....))............((((((.....))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-..........","enRel":"24.40","enAbs":"-24.70","score":"-70.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+(((((.(((((..........))))).)).....))).......((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-..........","enRel":"24.81","enAbs":"-25.10","score":"-70.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+((((((((.((..........)).))))).....))).......((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-..........","enRel":"22.81","enAbs":"-23.10","score":"-98.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+(((((((((..(.........).)))))).....))).......((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-..........","enRel":"24.81","enAbs":"-25.10","score":"-70.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+(((((((((.(..........).)))))).....))).......((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-.......","enRel":"24.71","enAbs":"-25.00","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+((((((((((............))))))).....))).......((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-.......","enRel":"29.21","enAbs":"-29.50","score":"-11.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+(((((((((((..........)))))))).....))).......((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......","enRel":"25.90","enAbs":"-26.20","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+.((((((((((..........))))))))......)).......((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......","enRel":"26.31","enAbs":"-26.60","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+.((((((((((..........)))))))).....))........((((((((....))))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-.......-","enRel":"27.10","enAbs":"-27.40","score":"-12.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+(((((((((((..........)))))))).....)))........(((((((....))))))).
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......-","enRel":"24.21","enAbs":"-24.50","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+.((((((((((..........)))))))).....)).........(((((((....))))))).
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......-","enRel":"23.81","enAbs":"-24.10","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+.((((((((((..........))))))))......))........(((((((....))))))).
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-.......-","enRel":"23.81","enAbs":"-24.10","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"2","bnStart":"1"}
+CCCGCACCAUGGAAGGCCAAACAUGGUGCAUGAAGGGAAAGGCCCCCGGAAGCUUGCUUCCGGG
+(((((((((((..........)))))))).....))).........((((((....))))))..
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"-..........","enRel":"15.41","enAbs":"-15.60","score":"-138.0","database":"TBFV_3_GC_SL.fa","dbPos":"3","bnStart":"1"}
+ACCAUCCCUCAAGGCCGAGUGGGAUGCGUAUGAAGGCCCCUGGAGAGAUCCAGG
+(((((((..(........)..))))).)).........((((((....))))))
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"-.......","enRel":"18.41","enAbs":"-18.60","score":"-26.0","database":"TBFV_3_GC_SL.fa","dbPos":"3","bnStart":"1"}
+ACCAUCCCUCAAGGCCGAGUGGGAUGCGUAUGAAGGCCCCUGGAGAGAUCCAGG
+((((((((............)))))).)).........((((((....))))))
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"-..........","enRel":"19.11","enAbs":"-19.30","score":"-77.0","database":"TBFV_3_GC_SL.fa","dbPos":"3","bnStart":"1"}
+ACCAUCCCUCAAGGCCGAGUGGGAUGCGUAUGAAGGCCCCUGGAGAGAUCCAGG
+((((((((.(........).)))))).)).........((((((....))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-..........","enRel":"23.70","enAbs":"-24.00","score":"-107.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((.((((((((...........))))))))..)....)).....((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-..........","enRel":"25.30","enAbs":"-25.60","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((.(((((...........))))).)).....)))).....((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-..........","enRel":"25.70","enAbs":"-26.00","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((.((...........)).))))).....)))).....((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-..........","enRel":"25.70","enAbs":"-26.00","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((.(...........).)))))).....)))).....((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-.......","enRel":"27.00","enAbs":"-27.30","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((((.............))))))).....)))).....((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-.......","enRel":"30.10","enAbs":"-30.40","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((((...........)))))))).....)))).....((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-..........","enRel":"24.30","enAbs":"-24.60","score":"-107.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((.((((((((...........))))))))..)...))......((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--.......","enRel":"24.10","enAbs":"-24.40","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((.............))))))).....)))......((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--.......","enRel":"27.20","enAbs":"-27.50","score":"-11.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.(((((((((((...........)))))))).....)))......((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--.......","enRel":"23.90","enAbs":"-24.20","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+..((((((((((...........)))))))).....)).......((((((((....))))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-.......-","enRel":"24.90","enAbs":"-25.20","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((((.............))))))).....))))......(((((((....))))))).
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-.......-","enRel":"28.00","enAbs":"-28.30","score":"-11.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((((...........)))))))).....))))......(((((((....))))))).
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--.......-","enRel":"25.10","enAbs":"-25.40","score":"-12.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.(((((((((((...........)))))))).....))).......(((((((....))))))).
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-.......-","enRel":"24.70","enAbs":"-25.00","score":"-12.0","database":"TBFV_3_GC_SL.fa","dbPos":"5","bnStart":"1"}
+CCCGGCACCAUGACAAGGCCGAACAUGGUGCAAGAACGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((((...........)))))))).....)))).......((((((....))))))..
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"20.53","enAbs":"-20.80","score":"-103.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((.((((((((...........))))))))..).....))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"20.13","enAbs":"-20.40","score":"-132.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((..((((...........))))..)))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.83","enAbs":"-22.10","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((.(((((...........))))).)))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"22.43","enAbs":"-22.70","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((.((((...........)))).))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.03","enAbs":"-21.30","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((.(((...........))).)))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"22.13","enAbs":"-22.40","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((.((...........)).))))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"22.13","enAbs":"-22.40","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((.(...........).)))))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......","enRel":"23.43","enAbs":"-23.70","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((.............))))))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.63","enAbs":"-21.90","score":"-126.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((..(.......)..))))))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.23","enAbs":"-21.50","score":"-98.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((..(........).))))))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......","enRel":"26.53","enAbs":"-26.80","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........)))))))))......)))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"20.13","enAbs":"-20.40","score":"-134.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((..((((...........))))..))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.83","enAbs":"-22.10","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((.(((((...........))))).))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"22.43","enAbs":"-22.70","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((.((((...........)))).)))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.03","enAbs":"-21.30","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((.(((...........))).))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"22.13","enAbs":"-22.40","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((.((...........)).)))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"22.13","enAbs":"-22.40","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((.(...........).))))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......","enRel":"23.43","enAbs":"-23.70","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((.............)))))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.63","enAbs":"-21.90","score":"-126.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((..(.......)..)))))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"21.23","enAbs":"-21.50","score":"-98.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((..(........).)))))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......","enRel":"26.53","enAbs":"-26.80","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........))))))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"25.33","enAbs":"-25.60","score":"-67.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((.(.......).))))))))......))))......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........","enRel":"20.93","enAbs":"-21.20","score":"-107.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((.((((((((...........))))))))..)....)).......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......","enRel":"20.33","enAbs":"-20.60","score":"-20.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((.............))))))))......)).......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......","enRel":"23.43","enAbs":"-23.70","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((...........)))))))))......)).......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......","enRel":"20.33","enAbs":"-20.60","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((.............)))))))......))).......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......","enRel":"23.43","enAbs":"-23.70","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((...........))))))))......))).......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--..........","enRel":"22.23","enAbs":"-22.50","score":"-68.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((.(.......).))))))))......))).......((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......","enRel":"20.13","enAbs":"-20.40","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+..((((((((((...........))))))))......))........((((((((....))))))))
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........-","enRel":"20.33","enAbs":"-20.60","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((.((((...........)))).))))......))).......(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......-","enRel":"21.33","enAbs":"-21.60","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((.............))))))))......))).......(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......-","enRel":"24.43","enAbs":"-24.70","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........)))))))))......))).......(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........-","enRel":"20.33","enAbs":"-20.60","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((.((((...........)))).)))......)))).......(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......-","enRel":"21.33","enAbs":"-21.60","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((.............)))))))......)))).......(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......-","enRel":"24.43","enAbs":"-24.70","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........))))))))......)))).......(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-..........-","enRel":"23.23","enAbs":"-23.50","score":"-68.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((.(.......).))))))))......)))).......(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"21.33","enAbs":"-21.60","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((...........)))))))))......))........(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"21.33","enAbs":"-21.60","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((...........))))))))......)))........(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--..........-","enRel":"20.13","enAbs":"-20.40","score":"-69.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((.(.......).))))))))......)))........(((((((....))))))).
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......-","enRel":"21.13","enAbs":"-21.40","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........)))))))))......)))........((((((....))))))..
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......-","enRel":"21.13","enAbs":"-21.40","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"6","bnStart":"1"}
+CCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........))))))))......))))........((((((....))))))..
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-..........","enRel":"26.59","enAbs":"-26.90","score":"-76.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((.(((((...........))))).)))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-..........","enRel":"26.29","enAbs":"-26.60","score":"-76.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((.((((...........)))).))))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-..........","enRel":"24.59","enAbs":"-24.90","score":"-76.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((.(((...........))).)))))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-..........","enRel":"26.59","enAbs":"-26.90","score":"-76.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((.((...........)).))))))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-..........","enRel":"26.59","enAbs":"-26.90","score":"-76.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((((.(...........).)))))))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......","enRel":"27.89","enAbs":"-28.20","score":"-20.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((((.............))))))))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-..........","enRel":"24.89","enAbs":"-25.20","score":"-129.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((((.(.......)...))))))))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......","enRel":"30.99","enAbs":"-31.30","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((((((...........)))))))))....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"24.59","enAbs":"-24.90","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.(((((((((((.............)))))))).....))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"27.69","enAbs":"-28.00","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........))))))))).....))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"24.59","enAbs":"-24.90","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.(((((((((((.............))))))).....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"27.69","enAbs":"-28.00","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........)))))))).....)))).....((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-..........","enRel":"24.79","enAbs":"-25.10","score":"-108.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((.((((((((...........))))))))..)..)))......((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"24.99","enAbs":"-25.30","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.(((((((((((.............))))))))....)))......((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"28.09","enAbs":"-28.40","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........)))))))))....)))......((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"24.99","enAbs":"-25.30","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.(((((((((((.............)))))))....))))......((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"28.09","enAbs":"-28.40","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........))))))))....))))......((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"24.79","enAbs":"-25.10","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+..(((((((((((...........)))))))))....)).......((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......","enRel":"24.79","enAbs":"-25.10","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+..(((((((((((...........))))))))....))).......((((((((....))))))))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"28.89","enAbs":"-29.20","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((((((...........)))))))))....))))......(((((((....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"25.79","enAbs":"-26.10","score":"-17.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((((((((((.............))))))))....))))......(((((((....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"25.59","enAbs":"-25.90","score":"-11.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........))))))))).....)))......(((((((....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"25.59","enAbs":"-25.90","score":"-11.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........)))))))).....))))......(((((((....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"25.99","enAbs":"-26.30","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........)))))))))....))).......(((((((....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"25.99","enAbs":"-26.30","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((((((((((...........))))))))....)))).......(((((((....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"25.59","enAbs":"-25.90","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"7","bnStart":"1"}
+CCCCUGCAUCAUGACAAGGCCUAACAUGAUGCACGAAGGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((((((((((...........)))))))))....)))).......((((((....))))))..
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"24.00","enAbs":"-24.30","score":"-106.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((.((((((((...........))))))))..)....))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"23.60","enAbs":"-23.90","score":"-133.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((..((((...........))))..))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"25.30","enAbs":"-25.60","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((.(((((...........))))).))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"25.90","enAbs":"-26.20","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((.((((...........)))).)))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"24.50","enAbs":"-24.80","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((.(((...........))).))))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"25.60","enAbs":"-25.90","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((.((...........)).)))))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"25.60","enAbs":"-25.90","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((.(...........).))))))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-.......","enRel":"26.90","enAbs":"-27.20","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((.............)))))))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"25.10","enAbs":"-25.40","score":"-127.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((..(.......)..)))))))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"24.70","enAbs":"-25.00","score":"-99.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((..(........).)))))))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-.......","enRel":"30.00","enAbs":"-30.30","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((((...........))))))))).....)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"23.60","enAbs":"-23.90","score":"-19.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((.............))))))))......))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"26.70","enAbs":"-27.00","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........)))))))))......))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"23.60","enAbs":"-23.90","score":"-19.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((.............)))))))......)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"26.70","enAbs":"-27.00","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........))))))))......)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--..........","enRel":"25.50","enAbs":"-25.80","score":"-69.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((.(.......).))))))))......)))).....((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........","enRel":"24.60","enAbs":"-24.90","score":"-106.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((.((((((((...........))))))))..)...)))......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"24.00","enAbs":"-24.30","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((.............)))))))).....)))......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"27.10","enAbs":"-27.40","score":"-12.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........))))))))).....)))......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"24.00","enAbs":"-24.30","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((.............))))))).....))))......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"27.10","enAbs":"-27.40","score":"-12.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........)))))))).....))))......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--..........","enRel":"25.90","enAbs":"-26.20","score":"-65.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((.(.......).)))))))).....))))......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"23.80","enAbs":"-24.10","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+..(((((((((((...........))))))))).....)).......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......","enRel":"23.80","enAbs":"-24.10","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+..(((((((((((...........)))))))).....))).......((((((((....))))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........-","enRel":"23.80","enAbs":"-24.10","score":"-71.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((.((((...........)))).)))).....))))......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-.......-","enRel":"24.80","enAbs":"-25.10","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((.............)))))))).....))))......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-.......-","enRel":"27.90","enAbs":"-28.20","score":"-12.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((((...........))))))))).....))))......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......-","enRel":"24.60","enAbs":"-24.90","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........))))))))......))))......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......-","enRel":"25.00","enAbs":"-25.30","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........))))))))).....))).......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......-","enRel":"24.60","enAbs":"-24.90","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........)))))))))......)))......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......-","enRel":"25.00","enAbs":"-25.30","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((...........)))))))).....)))).......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--..........-","enRel":"23.80","enAbs":"-24.10","score":"-66.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((((.(.......).)))))))).....)))).......(((((((....))))))).
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-.......-","enRel":"24.60","enAbs":"-24.90","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"8","bnStart":"1"}
+CCCCUGCAUCAUGAUAAGGCCGAACAUGGUGCAUGAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((((...........))))))))).....)))).......((((((....))))))..
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"18.77","enAbs":"-19.00","score":"-135.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((..(((((...........)))))..)......))).....((((((((....))))))))
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"18.77","enAbs":"-19.00","score":"-135.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((..((((...........))))..))......))).....((((((((....))))))))
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"19.67","enAbs":"-19.90","score":"-79.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((.((((.............)))).))......))).....((((((((....))))))))
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"22.77","enAbs":"-23.00","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((.(((((...........))))).))......))).....((((((((....))))))))
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"--..........","enRel":"19.87","enAbs":"-20.10","score":"-73.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((.(((((...........))))).))......))......((((((((....))))))))
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"--..........","enRel":"16.77","enAbs":"-17.00","score":"-78.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((.((((.............)))).))......))......((((((((....))))))))
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........-","enRel":"16.67","enAbs":"-16.90","score":"-132.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+((((..(((((...........)))))..)......)))......(((((((....))))))).
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........-","enRel":"16.67","enAbs":"-16.90","score":"-132.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((..((((...........))))..))......)))......(((((((....))))))).
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........-","enRel":"17.57","enAbs":"-17.80","score":"-76.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((.((((.............)))).))......)))......(((((((....))))))).
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........-","enRel":"20.67","enAbs":"-20.90","score":"-71.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((.(((((...........))))).))......)))......(((((((....))))))).
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"--..........-","enRel":"17.77","enAbs":"-18.00","score":"-74.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+.((((.(((((...........))))).))......)).......(((((((....))))))).
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-..........-","enRel":"17.37","enAbs":"-17.60","score":"-72.0","database":"TBFV_3_GC_SL.fa","dbPos":"9","bnStart":"1"}
+CCCGCCCCAUGACAAGGCCGAACAUGGAGCAUUAAAGGGAGGCCCCCGGAAGCAUGCUUCCGGG
+(((((.(((((...........))))).))......))).......((((((....))))))..
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-.......","enRel":"20.73","enAbs":"-21.00","score":"-21.0","database":"TBFV_3_GC_SL.fa","dbPos":"10","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCGUUUAGGAGCCCCCGAGCAUAACUCGGG
+(((((((((..........))))))....)))...........((((((.....))))))
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-.......","enRel":"24.63","enAbs":"-24.90","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"10","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCGUUUAGGAGCCCCCGAGCAUAACUCGGG
+((((((((((........)))))))....)))...........((((((.....))))))
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-.......","enRel":"25.33","enAbs":"-25.60","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"10","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCGUUUAGGAGCCCCCGAGCAUAACUCGGG
+((((((((((........))))))....))))...........((((((.....))))))
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......","enRel":"20.63","enAbs":"-20.90","score":"-19.0","database":"TBFV_3_GC_SL.fa","dbPos":"10","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCGUUUAGGAGCCCCCGAGCAUAACUCGGG
+.(((((((((........)))))))....))............((((((.....))))))
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......","enRel":"21.33","enAbs":"-21.60","score":"-19.0","database":"TBFV_3_GC_SL.fa","dbPos":"10","bnStart":"1"}
+GGCCUCCUGGAAGGCUCACCAGGAGUUAGGCCGUUUAGGAGCCCCCGAGCAUAACUCGGG
+.(((((((((........))))))....)))............((((((.....))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"27.27","enAbs":"-27.60","score":"-79.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+(((.((((((((...........)))))))).)...)).....((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"27.47","enAbs":"-27.80","score":"-143.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+(((.((((((((...........))))))))...).)).....((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"27.17","enAbs":"-27.50","score":"-77.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+(((((((.((((...........)))).)))...)))).....((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-.......","enRel":"28.77","enAbs":"-29.10","score":"-21.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+(((((((((((.............)))))))...)))).....((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-..........","enRel":"26.97","enAbs":"-27.30","score":"-77.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+((((((((((.(...........).))))))...)))).....((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-.......","enRel":"31.67","enAbs":"-32.00","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+((((((((((((...........))))))))...)))).....((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"--.......","enRel":"28.07","enAbs":"-28.40","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+.(((((((((((...........))))))))....))).....((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"--.......","enRel":"27.77","enAbs":"-28.10","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+.(((((((((((...........)))))))...))))......((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"--.......","enRel":"28.77","enAbs":"-29.10","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+.(((((((((((...........))))))))...)))......((((((((....))))))))
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-.......-","enRel":"26.67","enAbs":"-27.00","score":"-18.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+(((((((((((.............)))))))...))))......(((((((....))))))).
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-.......-","enRel":"29.57","enAbs":"-29.90","score":"-15.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+((((((((((((...........))))))))...))))......(((((((....))))))).
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-.......-","enRel":"26.27","enAbs":"-26.60","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+((((((((((((...........))))))))...)))).......((((((....))))))..
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"26.67","enAbs":"-27.00","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"11","bnStart":"1"}
+CCUUGCGUCCAGAGAAGGCCGAACUGGGCGUUAUAAGGAGGCCCCCAGGGGGAAACCCCUGGG
+.(((((((((((...........))))))))...))).......(((((((....))))))).
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-..........","enRel":"25.79","enAbs":"-26.10","score":"-75.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((.(((((...........))))).))......)))).....((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-..........","enRel":"26.19","enAbs":"-26.50","score":"-75.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((.((...........)).)))))......)))).....((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-..........","enRel":"26.19","enAbs":"-26.50","score":"-75.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((.(...........).))))))......)))).....((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-.......","enRel":"27.49","enAbs":"-27.80","score":"-19.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((.............)))))))......)))).....((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-.......","enRel":"30.59","enAbs":"-30.90","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........))))))))......)))).....((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"--.......","enRel":"27.69","enAbs":"-28.00","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((...........))))))))......)))......((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"--.......","enRel":"24.59","enAbs":"-24.90","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.((((((((((.............)))))))......)))......((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"--.......","enRel":"24.39","enAbs":"-24.70","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+..((((((((((...........))))))))......)).......((((((((....))))))))
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-.......-","enRel":"25.39","enAbs":"-25.70","score":"-16.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+(((((((((((.............)))))))......))))......(((((((....))))))).
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-.......-","enRel":"28.49","enAbs":"-28.80","score":"-13.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........))))))))......))))......(((((((....))))))).
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"--.......-","enRel":"25.59","enAbs":"-25.90","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+.(((((((((((...........))))))))......))).......(((((((....))))))).
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-.......-","enRel":"25.19","enAbs":"-25.50","score":"-14.0","database":"TBFV_3_GC_SL.fa","dbPos":"12","bnStart":"1"}
+CCCCGCACCAUGACAAGGCCGAACAUGGUGCACCAAAGGGGAGGCCCCCGGAAGCACGCUUCCGGG
+((((((((((((...........))))))))......)))).......((((((....))))))..

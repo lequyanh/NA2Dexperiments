@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RNAGraph scoreWeight="1.000" name="structure_name" score="0.000">
+  <RNADoubleStrandVariableLength scoreWeight="1.000" sequence="nnnn" sequenceAnti="nnnn" searchSequence="" searchSequenceMismatch="0" lengthMin="3" lengthMax="6" bulgeRightCount="1" bulgeLeftCount="1" innerLoopCount="1" bulgeLeftAllowed="false" bulgeRightAllowed="false" innerLoopAllowed="false">
+    <RNASingleStrandVariableLength scoreWeight="1.000" sequence="nnnnnn" searchSequence="" searchSequenceMismatch="0" lengthMin="4" lengthMax="7">
+      <data>
+        <DisplayNode>
+          <SingleStrandVariable>
+            <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+            <baseTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+          </SingleStrandVariable>
+        </DisplayNode>
+      </data>
+    </RNASingleStrandVariableLength>
+    <RNADoubleStrandVariableLength scoreWeight="1.000" sequence="nnnnn" sequenceAnti="nnnnn" searchSequence="" searchSequenceMismatch="0" lengthMin="3" lengthMax="7" bulgeRightCount="1" bulgeLeftCount="1" innerLoopCount="1" bulgeLeftAllowed="false" bulgeRightAllowed="false" innerLoopAllowed="false">
+      <RNASingleStrandVariableLength scoreWeight="1.000" sequence="nnnnn" searchSequence="" searchSequenceMismatch="0" lengthMin="3" lengthMax="9">
+        <data>
+          <DisplayNode>
+            <SingleStrandVariable>
+              <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+              <baseTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+            </SingleStrandVariable>
+          </DisplayNode>
+        </data>
+      </RNASingleStrandVariableLength>
+      <data>
+        <DisplayNode>
+          <DoubleStrandVariable>
+            <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+            <baseTransform m0="0.9009688679024193" m1="0.4338837391175579" m2="-0.4338837391175579" m3="0.9009688679024193" m4="20.65127805429368" m5="-178.10488629701672" />
+          </DoubleStrandVariable>
+        </DisplayNode>
+        <bulgeRNA>
+          <RNASingleStrandVariableLength scoreWeight="1.000" sequence="n" searchSequence="" searchSequenceMismatch="0" lengthMin="1" lengthMax="3" />
+        </bulgeRNA>
+      </data>
+    </RNADoubleStrandVariableLength>
+    <RNASingleStrandVariableLength scoreWeight="1.000" sequence="n" searchSequence="" searchSequenceMismatch="0" lengthMin="0" lengthMax="2">
+      <data>
+        <DisplayNode>
+          <SingleStrandVariable>
+            <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+            <baseTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+          </SingleStrandVariable>
+        </DisplayNode>
+      </data>
+    </RNASingleStrandVariableLength>
+    <RNADoubleStrandVariableLength scoreWeight="1.000" sequence="nnnn" sequenceAnti="nnnn" searchSequence="" searchSequenceMismatch="0" lengthMin="3" lengthMax="5" bulgeRightCount="1" bulgeLeftCount="1" innerLoopCount="1" bulgeLeftAllowed="false" bulgeRightAllowed="false" innerLoopAllowed="true">
+      <RNASingleStrandVariableLength scoreWeight="1.000" sequence="nnnnnnnnnn" searchSequence="" searchSequenceMismatch="0" lengthMin="4" lengthMax="14">
+        <data>
+          <DisplayNode>
+            <SingleStrandVariable>
+              <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+              <baseTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+            </SingleStrandVariable>
+          </DisplayNode>
+        </data>
+      </RNASingleStrandVariableLength>
+      <data>
+        <DisplayNode>
+          <DoubleStrandVariable>
+            <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+            <baseTransform m0="-0.2225209339563141" m1="0.9749279121818237" m2="-0.9749279121818237" m3="-0.2225209339563141" m4="91.34259265304544" m5="-88.79275468997723" />
+          </DoubleStrandVariable>
+        </DisplayNode>
+        <bulgeRNA>
+          <RNASingleStrandVariableLength scoreWeight="1.000" sequence="n" searchSequence="" searchSequenceMismatch="0" lengthMin="1" lengthMax="3" />
+        </bulgeRNA>
+      </data>
+    </RNADoubleStrandVariableLength>
+    <RNASingleStrandVariableLength scoreWeight="1.000" sequence="n" searchSequence="" searchSequenceMismatch="0" lengthMin="0" lengthMax="3">
+      <data>
+        <DisplayNode>
+          <SingleStrandVariable>
+            <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+            <baseTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+          </SingleStrandVariable>
+        </DisplayNode>
+      </data>
+    </RNASingleStrandVariableLength>
+    <data>
+      <DisplayNode>
+        <DoubleStrandVariable>
+          <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="7.119702148437501" m5="2.966542561848968" />
+          <baseTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="-20.0" m5="-50.92958178940651" />
+        </DoubleStrandVariable>
+      </DisplayNode>
+      <bulgeRNA>
+        <RNASingleStrandVariableLength scoreWeight="1.000" sequence="n" searchSequence="" searchSequenceMismatch="0" lengthMin="1" lengthMax="3" />
+      </bulgeRNA>
+    </data>
+  </RNADoubleStrandVariableLength>
+  <data>
+    <DisplayNode>
+      <Graph>
+        <userTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+        <baseTransform m0="1.0" m1="0.0" m2="0.0" m3="1.0" m4="0.0" m5="0.0" />
+      </Graph>
+    </DisplayNode>
+  </data>
+</RNAGraph>
+

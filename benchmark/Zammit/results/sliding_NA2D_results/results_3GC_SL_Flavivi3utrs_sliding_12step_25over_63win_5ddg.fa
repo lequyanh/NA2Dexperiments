@@ -1,0 +1,1158 @@
+>KY460522.1 cISFV|Karumba virus isolate KRBV 1892, complete genome|{"mask":"--.......----","enRel":"12.92","enAbs":"-13.10","score":"-22.0","database":"Flavivi_3UTRs.fa","dbPos":"9","bnStart":"65"}
+aacugaugaggugaguugcgacaccucccugugagcaaccuguucaaacuuuugaagaaguuugaccaaacccgga
+.....((((((((........))))))...))............((((((((....)))))))).((......)).
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"----.......-","enRel":"14.43","enAbs":"-14.60","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"497"}
+auuaacgacaccccggccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccg
+.............(((...((((((((........))))))...))......((((((.....))))))....)))
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"----.......--","enRel":"13.23","enAbs":"-13.40","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"497"}
+auuaacgacaccccggccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccg
+..............((...((((((((........))))))...))......((((((.....))))))....)).
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"-----.......-","enRel":"14.03","enAbs":"-14.20","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"497"}
+auuaacgacaccccggccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccg
+.....((......))....((((((((........))))))...))......((((((.....)))))).......
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"--.......-","enRel":"13.93","enAbs":"-14.10","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"497"}
+auuaacgacaccccggccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccg
+...................((((((((........))))))...))......((((((.....)))))).......
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"--.......---","enRel":"20.36","enAbs":"-20.60","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"505"}
+caccccggccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccgcaagguga
+...........((((((((........))))))...))......((((((.....)))))).(((((....)))))
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"-----.......---","enRel":"20.46","enAbs":"-20.70","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"505"}
+caccccggccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccgcaagguga
+((((.(((...((((((((........))))))...))......((((((.....))))))....)))...)))).
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"--.......----","enRel":"19.66","enAbs":"-19.90","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"505"}
+caccccggccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccgcaagguga
+...........((((((((........))))))...))......((((((.....))))))..((((....)))).
+>NC_024299.2 cISFV|Nienokoue virus isolate B51/CI/2004, complete genome|{"mask":"--.......----","enRel":"23.12","enAbs":"-23.40","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"13","bnStart":"513"}
+ccccaguucccgaagucaaggggacccuugacccaaaguguugcaaggacacuaucaccgcaaggugagggcgcac
+(((((((((((........))))))...))......((((((.....)))))).(((((....)))))))).....
+>NC_012671.1 cISFV|Quang Binh virus, complete genome|{"mask":"---..........--","enRel":"9.66","enAbs":"-9.80","score":"-111.0","database":"Flavivi_3UTRs.fa","dbPos":"16","bnStart":"337"}
+aguugacgacucuccgcccccaguccccaggucaggguaugacuccgugguguugaaaggacacuaaacaagcuug
+((((..(((((((..(((...........))).))))).))......(((((((.....)))))))....))))..
+>NC_012671.1 cISFV|Quang Binh virus, complete genome|{"mask":"----..........-","enRel":"9.46","enAbs":"-9.60","score":"-111.0","database":"Flavivi_3UTRs.fa","dbPos":"16","bnStart":"337"}
+aguugacgacucuccgcccccaguccccaggucaggguaugacuccgugguguugaaaggacacuaaacaagcuug
+.(((..(((((((..(((...........))).))))).))......(((((((.....)))))))))).......
+>NC_012671.1 cISFV|Quang Binh virus, complete genome|{"mask":"--..........-","enRel":"10.86","enAbs":"-11.00","score":"-111.0","database":"Flavivi_3UTRs.fa","dbPos":"16","bnStart":"337"}
+aguugacgacucuccgcccccaguccccaggucaggguaugacuccgugguguugaaaggacacuaaacaagcuug
+......(((((((..(((...........))).))))).))......(((((((.....)))))))..........
+>NC_012671.1 cISFV|Quang Binh virus, complete genome|{"mask":"--..........-","enRel":"9.16","enAbs":"-9.30","score":"-170.0","database":"Flavivi_3UTRs.fa","dbPos":"16","bnStart":"337"}
+aguugacgacucuccgcccccaguccccaggucaggguaugacuccgugguguugaaaggacacuaaacaagcuug
+......((((((...(((...........)))..)))).))......(((((((.....)))))))..........
+>NC_012671.1 cISFV|Quang Binh virus, complete genome|{"mask":"--..........-","enRel":"9.86","enAbs":"-10.00","score":"-112.0","database":"Flavivi_3UTRs.fa","dbPos":"16","bnStart":"337"}
+aguugacgacucuccgcccccaguccccaggucaggguaugacuccgugguguugaaaggacacuaaacaagcuug
+......(((((((..(((...........))).))))).)).......((((((.....))))))...........
+>NC_034017.1 cISFV|Xishuangbanna aedes flavivirus, complete genome|{"mask":"--.......----","enRel":"21.84","enAbs":"-22.10","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"18","bnStart":"145"}
+ggguaaccuaccagcccgugacuugguaggagugggauagccccggcuuuucagccgggaaaacguguucacguac
+.....(((((((((........)))))))..))........(((((((....)))))))...((((....))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......-","enRel":"19.07","enAbs":"-19.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"97"}
+gugcugccugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagg
+((((.....))))......(((((((((((.......))))))).)))).....((((((.....)))))).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......-","enRel":"17.77","enAbs":"-18.00","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"97"}
+gugcugccugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagg
+((((.....))))......((((((((((.........)))))).)))).....((((((.....)))))).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......--","enRel":"19.06","enAbs":"-19.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+(....(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))...)
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"20.16","enAbs":"-20.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+(..(.(((((((((((((((((.......))))))).)))).....((((((.....))))))...)))))))..)
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"18.86","enAbs":"-19.10","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+(..(.((((((((((((((((.........)))))).)))).....((((((.....))))))...)))))))..)
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"18.96","enAbs":"-19.20","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+(.(..(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))..))
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......---","enRel":"19.36","enAbs":"-19.60","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+(....(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))..).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......---","enRel":"18.56","enAbs":"-18.80","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+(..(.((((((((((((((((.........)))))).)))).....((((((.....))))))...))))))).).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......---","enRel":"19.86","enAbs":"-20.10","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+(..(.(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))).).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......---","enRel":"19.06","enAbs":"-19.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+..(...((((((((((((((((.......))))))).)))).....((((((.....))))))...)))))...).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......---","enRel":"18.86","enAbs":"-19.10","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+..(..(((((.(((((((((((.......))))))).)))).....((((((.....))))))....)))))..).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......---","enRel":"20.86","enAbs":"-21.10","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+..(..((((((((((((((((.........)))))).)))).....((((((.....))))))...))))))..).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......---","enRel":"18.86","enAbs":"-19.10","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+..(..((((((.((((((((((.......))))))).)))......((((((.....))))))...))))))..).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......---","enRel":"22.16","enAbs":"-22.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+..(..(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))..).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......---","enRel":"20.06","enAbs":"-20.30","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+..((.((((((((((((((((.........)))))).)))).....((((((.....))))))...))))))).).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......---","enRel":"21.36","enAbs":"-21.60","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+..((.(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))).).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......---","enRel":"19.16","enAbs":"-19.40","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+....(((((((((((((((((.........)))))).)))).....((((((.....))))))...))))))..).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......---","enRel":"20.46","enAbs":"-20.70","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+....((((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))..).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......--","enRel":"19.86","enAbs":"-20.10","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+((...((((((((((((((((.........)))))).)))).....((((((.....))))))...))))))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......--","enRel":"21.16","enAbs":"-21.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+((...(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-------.......---","enRel":"18.86","enAbs":"-19.10","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+((.((..(((.(((((((((((.......))))))).)))).....((((((.....))))))...))).))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"19.16","enAbs":"-19.40","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+((.((..((((((((((((((.........)))))).)))).....((((((.....))))))...))))))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"20.46","enAbs":"-20.70","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+((.((..(((((((((((((((.......))))))).)))).....((((((.....))))))...))))))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-------.......---","enRel":"19.56","enAbs":"-19.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+((.((.(((..(((((((((((.......))))))).)))).....((((((.....))))))...))).))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-------.......--","enRel":"19.76","enAbs":"-20.00","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+((.((.((((.(((((((((((.......))))))).)))).....((((((.....))))))...))))))))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"20.26","enAbs":"-20.50","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.(...(((((((((((((((((.......))))))).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"18.96","enAbs":"-19.20","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.(...((((((((((((((((.........)))))).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-------.......--","enRel":"19.56","enAbs":"-19.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.(.((..(((((((((((((((.......))))))).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--------.......---","enRel":"18.66","enAbs":"-18.90","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.(.((.(((..(((((((((((.......))))))).)))).....((((((.....))))))...))).)))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--------.......--","enRel":"18.86","enAbs":"-19.10","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.(.((.((((.(((((((((((.......))))))).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-------.......--","enRel":"18.56","enAbs":"-18.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.(.(((((((((((((((.......))))))).)))).....((((((.....))))))....))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-------.......--","enRel":"18.56","enAbs":"-18.80","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.(.(((((((((((((((.......))))))).)))......((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"19.66","enAbs":"-19.90","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.(((((.(((((((((((.......))))))).)))).....((((((.....))))))....))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----..........--","enRel":"19.06","enAbs":"-19.30","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.(((((((((((.(((((.......))))).).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"21.66","enAbs":"-21.90","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.((((((((((((((((.........)))))).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----..........--","enRel":"18.86","enAbs":"-19.10","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.((((((((((((((.((.......)).)))).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"22.96","enAbs":"-23.20","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.(((((((((((((((((.......))))))).)))).....((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"19.66","enAbs":"-19.90","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...(.((((((.((((((((((.......))))))).)))......((((((.....))))))...)))))))...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......---","enRel":"18.96","enAbs":"-19.20","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(.(((((((((((((((.......))))))).)))).....((((((.....))))))....)))).)...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......---","enRel":"18.96","enAbs":"-19.20","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(.(((((((((((((((.......))))))).)))......((((((.....))))))...))))).)...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......---","enRel":"19.66","enAbs":"-19.90","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))).)...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"18.56","enAbs":"-18.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.((....(((((((((((((((.......))))))).)))).....((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"19.66","enAbs":"-19.90","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...((..(((((((((((((((.......))))))).)))).....((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......---","enRel":"18.76","enAbs":"-19.00","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...((.(((..(((((((((((.......))))))).)))).....((((((.....))))))...))).))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"------.......--","enRel":"18.96","enAbs":"-19.20","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+...((.((((.(((((((((((.......))))))).)))).....((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......---","enRel":"18.56","enAbs":"-18.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(.(((((((((((((((.......))))))).)))).....((((((.....))))))...)))).)....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"18.66","enAbs":"-18.90","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(.(((((((((((((((.......))))))).)))).....((((((.....))))))....)))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"-----.......--","enRel":"18.66","enAbs":"-18.90","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(.(((((((((((((((.......))))))).)))......((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......--","enRel":"19.76","enAbs":"-20.00","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(((((.(((((((((((.......))))))).)))).....((((((.....))))))....)))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"---..........--","enRel":"19.16","enAbs":"-19.40","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(((((((((((.(((((.......))))).).)))).....((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"---.......--","enRel":"21.76","enAbs":"-22.00","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....((((((((((((((((.........)))))).)))).....((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"---..........--","enRel":"18.96","enAbs":"-19.20","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....((((((((((((((.((.......)).)))).)))).....((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"---.......--","enRel":"23.06","enAbs":"-23.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....(((((((((((((((((.......))))))).)))).....((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"----.......--","enRel":"19.76","enAbs":"-20.00","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.....((((((.((((((((((.......))))))).)))......((((((.....))))))...))))))....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"---.......--","enRel":"19.56","enAbs":"-19.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+......((((((((((((((((.......))))))).)))).....((((((.....))))))...))))).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"---.......--","enRel":"19.46","enAbs":"-19.70","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"105"}
+ugcgcgucccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccaga
+.......(((((((((((((((.......))))))).)))).....((((((.....))))))...))))......
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......---------","enRel":"14.80","enAbs":"-15.00","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+...((((((((((.........)))))).)))).....((((((.....))))))...(.((.((....)).)).)
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......---------","enRel":"16.10","enAbs":"-16.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+...(((((((((((.......))))))).)))).....((((((.....))))))...(.((.((....)).)).)
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--------","enRel":"16.00","enAbs":"-16.20","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+...(((((((((((.......))))))).)))).....((((((.....))))))....(.((((....)).)).)
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--------","enRel":"14.70","enAbs":"-14.90","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+...((((((((((.........)))))).)))).....((((((.....))))))....(.((((....)).)).)
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))....)))(.(((.....))))
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))...))))(.(((.....))))
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......------","enRel":"15.20","enAbs":"-15.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...))).(.(((.....))))
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))....)))((.((.....))))
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))...))))((.((.....))))
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......------","enRel":"15.20","enAbs":"-15.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...))).((.((.....))))
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.40","enAbs":"-15.60","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....)))))).....))).(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.40","enAbs":"-15.60","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))....)))).(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.40","enAbs":"-15.60","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)).......((((((.....))))))...))))).(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.00","enAbs":"-15.20","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))).....((((((.....))))))....)))..(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"16.30","enAbs":"-16.50","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))....)))..(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.00","enAbs":"-15.20","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......)))))))..))).....((((((.....))))))...))))..(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.00","enAbs":"-15.20","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))..)))).....((((((.....))))))...))))..(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"16.30","enAbs":"-16.50","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))...))))..(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.00","enAbs":"-15.20","score":"-15.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))......((((((.....))))))...))))..(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.00","enAbs":"-15.20","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))).....((((((.....))))))...)))...(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"16.30","enAbs":"-16.50","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...)))...(((.....))).
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-------","enRel":"14.80","enAbs":"-15.00","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+...(((((((((((.......))))))).)))).....((((((.....)))))).....((.((....)).))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......------","enRel":"15.90","enAbs":"-16.10","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))).....((((((.....))))))...)))((((....)).))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......------","enRel":"17.20","enAbs":"-17.40","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...)))((((....)).))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......------","enRel":"14.90","enAbs":"-15.10","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+...(((((((((((.......))))))).)))).....((((((.....))))))......((((....)).))..
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-------","enRel":"15.70","enAbs":"-15.90","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...)))(.((....)).)...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......------","enRel":"15.80","enAbs":"-16.00","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))....)))(((....)).)...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......------","enRel":"15.80","enAbs":"-16.00","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))...))))(((....)).)...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-------","enRel":"15.80","enAbs":"-16.00","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...))).(((....)).)...
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......----","enRel":"15.60","enAbs":"-15.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....)))))).....)))((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......----","enRel":"15.60","enAbs":"-15.80","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))....))))((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......----","enRel":"15.60","enAbs":"-15.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)).......((((((.....))))))...)))))((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))).....((((((.....))))))....))).((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"16.50","enAbs":"-16.70","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))....))).((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......)))))))..))).....((((((.....))))))...)))).((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-15.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))......((((((.....))))))...)))).((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))..)))).....((((((.....))))))...)))).((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"16.50","enAbs":"-16.70","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))...)))).((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"15.20","enAbs":"-15.40","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))).....((((((.....))))))...)))..((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......-----","enRel":"16.50","enAbs":"-16.70","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...)))..((....)).....
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"15.10","enAbs":"-15.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....)))))).....))).............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"15.10","enAbs":"-15.30","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))....)))).............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"15.10","enAbs":"-15.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)).......((((((.....))))))...))))).............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"14.70","enAbs":"-14.90","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))).....((((((.....))))))....)))..............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"16.00","enAbs":"-16.20","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))....)))..............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"14.70","enAbs":"-14.90","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......)))))))..))).....((((((.....))))))...))))..............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"14.70","enAbs":"-14.90","score":"-15.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))......((((((.....))))))...))))..............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"14.70","enAbs":"-14.90","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))..)))).....((((((.....))))))...))))..............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"16.00","enAbs":"-16.20","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))......((((((.....))))))...))))..............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"16.00","enAbs":"-16.20","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+((((((((((((((.......))))))).)))).....((((((.....))))))...)))...............
+>MF139576.1 ISV-MBFV|Marisma mosquito virus strain HU4528/07, complete genome|{"mask":"--.......--","enRel":"14.70","enAbs":"-14.90","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"23","bnStart":"113"}
+ccccccuuugaucaagcuagauggucaguagggguuguaauguuguucuagcauuuuagggggccagauggacugc
+(((((((((((((.........)))))).)))).....((((((.....))))))...)))...............
+>NC_001475.2 MBFV|Dengue virus 3, complete genome|{"mask":"-..........-","enRel":"17.18","enAbs":"-17.40","score":"-211.0","database":"Flavivi_3UTRs.fa","dbPos":"35","bnStart":"145"}
+guagcuccgucguggggacguaaaaccugggaggcugcaaacuguggaagcuguacgcacgguguagcagacuagc
+((((((((...((...........))...)))).))))...........(((((((.....)))))))........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........","enRel":"15.11","enAbs":"-15.30","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+.....((((.......))))(((((((((.(........).)))))))..))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........","enRel":"14.11","enAbs":"-14.30","score":"-130.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+.....((((.......))))((((((((..(........)..)))))..)))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--------..........","enRel":"14.81","enAbs":"-15.00","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+((..((((....)).)).))(((((((((.(........).))))))..)))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---------..........","enRel":"14.31","enAbs":"-14.50","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+((.(..((....))..).))(((((((((.(........).))))))..)))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"------..........","enRel":"14.61","enAbs":"-14.80","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+((....((....))....))(((((((((.(........).))))))..)))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"------..........","enRel":"14.51","enAbs":"-14.70","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+.....((((......).)))(((((((((.(........).))))))..)))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........","enRel":"14.41","enAbs":"-14.60","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+.....(((.........)))(((((((((.(........).))))))..)))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........","enRel":"16.01","enAbs":"-16.20","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+.....((((.......))))(((((((((.(........).))))))..)))......(((((((....)))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........-","enRel":"14.11","enAbs":"-14.30","score":"-70.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"209"}
+gcaaagcugaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaug
+.....((((.......))))(((((((((.(........).))))))..))).......((((((....)))))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........-","enRel":"15.59","enAbs":"-15.80","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((.(((((((((.(........).))))))..))).....((((((((....))))))))...))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........--","enRel":"15.59","enAbs":"-15.80","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(........).))))))..))).....((((((((....)))))))).).))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"16.09","enAbs":"-16.30","score":"-70.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(........).))))))..))).......((((((....))))))....)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---.......-","enRel":"16.19","enAbs":"-16.40","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((............)))))))..))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"15.59","enAbs":"-15.80","score":"-99.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(.......)..)))))))..))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"16.59","enAbs":"-16.80","score":"-130.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......(((((((((((((..(........)..))))))..))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"18.49","enAbs":"-18.70","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(........).)))))))..))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"17.49","enAbs":"-17.70","score":"-130.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......(((((((((((((..(........)..)))))..)))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---.......-","enRel":"17.09","enAbs":"-17.30","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((............))))))..)))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"16.49","enAbs":"-16.70","score":"-97.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(.......)..))))))..)))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"19.39","enAbs":"-19.60","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(........).))))))..)))......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........-","enRel":"16.59","enAbs":"-16.80","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......(((((.((((((((.(........).))))))..)).......(((((((....)))))))...)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"16.69","enAbs":"-16.90","score":"-133.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......(((((((((((((..(........)..))))))..)).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"15.69","enAbs":"-15.90","score":"-102.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(.......)..)))))))..)).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"18.59","enAbs":"-18.80","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(........).)))))))..)).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---.......-","enRel":"16.29","enAbs":"-16.50","score":"-21.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((............)))))))..)).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"17.59","enAbs":"-17.80","score":"-133.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......(((((((((((((..(........)..)))))..))).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---.......-","enRel":"17.19","enAbs":"-17.40","score":"-21.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((............))))))..))).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"19.49","enAbs":"-19.70","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(........).))))))..))).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........-","enRel":"16.59","enAbs":"-16.80","score":"-100.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......((((((((((((((.(.......)..))))))..))).....((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----..........-","enRel":"16.69","enAbs":"-16.90","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.......(((((.((((((((.(........).))))))..))......((((((((....))))))))..)))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"16.39","enAbs":"-16.60","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+........(((((((((((((.(........).)))))))..))......(((((((....)))))))...)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"17.29","enAbs":"-17.50","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+........(((((((((((((.(........).))))))..)))......(((((((....)))))))...)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"16.49","enAbs":"-16.70","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+........(((((((((((((.(........).)))))))..)).....((((((((....))))))))..)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"17.39","enAbs":"-17.60","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+........(((((((((((((.(........).))))))..))).....((((((((....))))))))..)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"15.79","enAbs":"-16.00","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.........((((((((((((.(........).))))))..)))......(((((((....)))))))...)))..
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"15.89","enAbs":"-16.10","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"217"}
+gaaaggacuagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuag
+.........((((((((((((.(........).))))))..))).....((((((((....))))))))..)))..
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-----","enRel":"14.31","enAbs":"-14.50","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))((((......)).)).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"14.21","enAbs":"-14.40","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))(((.........))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-----","enRel":"14.31","enAbs":"-14.50","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))((((......).))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"16.21","enAbs":"-16.40","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..))......(((((((....)))))))((((.......)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"14.31","enAbs":"-14.50","score":"-130.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....((((((((..(........)..))))))..))......(((((((....)))))))((((.......)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......---","enRel":"14.81","enAbs":"-15.00","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((............))))))..)))......(((((((....)))))))((((.......)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"14.21","enAbs":"-14.40","score":"-97.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(.......)..))))))..)))......(((((((....)))))))((((.......)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"17.11","enAbs":"-17.30","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))((((.......)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"15.21","enAbs":"-15.40","score":"-130.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....((((((((..(........)..)))))..)))......(((((((....)))))))((((.......)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"14.31","enAbs":"-14.50","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+.....((((((((.(........).))))))..)).......(((((((....)))))))((((.......)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........------","enRel":"14.41","enAbs":"-14.60","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..))......(((((((....)))))))((((.(...).)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........------","enRel":"15.31","enAbs":"-15.50","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))((((.(...).)))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"14.41","enAbs":"-14.60","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..)).....((((((((....))))))))(((.......)))..
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"15.21","enAbs":"-15.40","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....))))))).(((.......)))..
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.31","enAbs":"-14.50","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..))......(((((((....))))))).(((.......)))..
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........---","enRel":"15.31","enAbs":"-15.50","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..))).....((((((((....))))))))(((.......)))..
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-----","enRel":"14.91","enAbs":"-15.10","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))(.((......)))...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-----","enRel":"14.01","enAbs":"-14.20","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..))......(((((((....)))))))(.((......)))...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.61","enAbs":"-14.80","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..))).....((((((((....)))))))).((.......))...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.51","enAbs":"-14.70","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))..((.......))...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.51","enAbs":"-14.70","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(........).))))))..)))......(((((((....)))))))...))))(....)...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.61","enAbs":"-14.80","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(........).))))))..))).....((((((((....))))))))..))))(....)...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.01","enAbs":"-14.20","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..)).....((((((((....)))))))).((......))....
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.91","enAbs":"-15.10","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..))).....((((((((....)))))))).((......))....
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........----","enRel":"14.81","enAbs":"-15.00","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))..((......))....
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"14.31","enAbs":"-14.50","score":"-130.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+((((((((((((..(........)..))))))..))......(((((((....)))))))...)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"16.21","enAbs":"-16.40","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(........).)))))))..))......(((((((....)))))))...)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"15.21","enAbs":"-15.40","score":"-130.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+((((((((((((..(........)..)))))..)))......(((((((....)))))))...)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......--","enRel":"14.81","enAbs":"-15.00","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((............))))))..)))......(((((((....)))))))...)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"14.21","enAbs":"-14.40","score":"-97.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(.......)..))))))..)))......(((((((....)))))))...)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"17.11","enAbs":"-17.30","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(........).))))))..)))......(((((((....)))))))...)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"14.31","enAbs":"-14.50","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+((((.((((((((.(........).))))))..)).......(((((((....)))))))...)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"14.41","enAbs":"-14.60","score":"-133.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+((((((((((((..(........)..))))))..)).....((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"16.31","enAbs":"-16.50","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(........).)))))))..)).....((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......--","enRel":"14.01","enAbs":"-14.20","score":"-21.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((............)))))))..)).....((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"15.31","enAbs":"-15.50","score":"-133.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+((((((((((((..(........)..)))))..))).....((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"14.31","enAbs":"-14.50","score":"-100.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(.......)..))))))..))).....((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......--","enRel":"14.91","enAbs":"-15.10","score":"-21.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((............))))))..))).....((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........--","enRel":"17.21","enAbs":"-17.40","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+(((((((((((((.(........).))))))..))).....((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"14.41","enAbs":"-14.60","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+((((.((((((((.(........).))))))..))......((((((((....))))))))..)))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"14.91","enAbs":"-15.10","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+.((((((((((((.(........).)))))))..))......(((((((....)))))))...)))..........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"15.81","enAbs":"-16.00","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+.((((((((((((.(........).))))))..)))......(((((((....)))))))...)))..........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"14.01","enAbs":"-14.20","score":"-133.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+.(((((((((((..(........)..)))))..))).....((((((((....))))))))..)))..........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"15.91","enAbs":"-16.10","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+.((((((((((((.(........).))))))..))).....((((((((....))))))))..)))..........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"15.01","enAbs":"-15.20","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+.((((((((((((.(........).)))))))..)).....((((((((....))))))))..)))..........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"14.41","enAbs":"-14.60","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+..(((((((((((.(........).))))))..)))......(((((((....)))))))...))...........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---..........--","enRel":"14.51","enAbs":"-14.70","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+..(((((((((((.(........).))))))..))).....((((((((....))))))))..))...........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-","enRel":"14.21","enAbs":"-14.40","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..)).....((((((((....))))))))...............
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-","enRel":"15.11","enAbs":"-15.30","score":"-72.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..))).....((((((((....))))))))...............
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-","enRel":"14.11","enAbs":"-14.30","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).)))))))..))......(((((((....)))))))................
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-","enRel":"15.01","enAbs":"-15.20","score":"-69.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"225"}
+uagcgguuagaggagaccccuuccaucucugguaucaaauuucauggaguuuacuccaugguggcuagaacccaua
+....(((((((((.(........).))))))..)))......(((((((....)))))))................
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----..........-","enRel":"12.93","enAbs":"-13.10","score":"-99.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+....((((......))))(((((((.((((.......))))..)))).)))......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----..........-","enRel":"13.43","enAbs":"-13.60","score":"-99.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+....((((......))))(((((((.((((.......))))..))).))))......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-----..........-","enRel":"11.83","enAbs":"-12.00","score":"-99.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+...(((....))).....(((((((.((((.......))))..))).))))......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"------..........-","enRel":"11.93","enAbs":"-12.10","score":"-99.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+....(((((...).))))(((((((.((((.......))))..))).))))......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--..........-","enRel":"11.83","enAbs":"-12.00","score":"-99.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+..................(((((((.((((.......))))..))).))))......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-------..........-","enRel":"11.83","enAbs":"-12.00","score":"-99.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+.((.((....))))....(((((((.((((.......))))..))).))))......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-----..........-","enRel":"11.93","enAbs":"-12.10","score":"-102.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+....((((......)))).((((((.((((.......))))..)))).)).......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-----..........-","enRel":"12.43","enAbs":"-12.60","score":"-100.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+....((((......)))).((((((.((((.......))))..))).))).......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-----..........-","enRel":"12.43","enAbs":"-12.60","score":"-102.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+....((((......)))).((((((.((((.......))))..)).)))).......((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-------..........-","enRel":"11.93","enAbs":"-12.10","score":"-103.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+..(.((((......)))).)(((((.((((.......))))..))).))........((((((....))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-------..........-","enRel":"11.93","enAbs":"-12.10","score":"-103.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"241"}
+aucucuggcaaggacuagugguuaguggagaccccggcucuuccuggacuaaauuguggccgucgccauggcucuu
+..(.((((......)))).)(((((.((((.......))))..)).)))........((((((....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"----.......-","enRel":"23.43","enAbs":"-23.70","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+.......((....((((((((((........)))))))....)))...........((((((.....)))))).))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"----.......-","enRel":"24.13","enAbs":"-24.40","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+.......((....((((((((((........))))))....))))...........((((((.....)))))).))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"----.......-","enRel":"22.73","enAbs":"-23.00","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+((......))...((((((((((........)))))))....)))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-----.......-","enRel":"22.13","enAbs":"-22.40","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+...(....)....((((((((((........)))))))....)))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"24.73","enAbs":"-25.00","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+.............((((((((((........)))))))....)))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-----.......-","enRel":"23.03","enAbs":"-23.30","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+..((....))...((((((((((........)))))))....)))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"------.......-","enRel":"21.93","enAbs":"-22.20","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+((.(...)))...((((((((((........))))))....))))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"----.......-","enRel":"23.43","enAbs":"-23.70","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+((......))...((((((((((........))))))....))))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-----.......-","enRel":"22.53","enAbs":"-22.80","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+.(......)....((((((((((........))))))....))))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-----.......-","enRel":"23.73","enAbs":"-24.00","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+..((....))...((((((((((........))))))....))))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-----.......-","enRel":"22.53","enAbs":"-22.80","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+.((...)).....((((((((((........))))))....))))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-----.......-","enRel":"22.83","enAbs":"-23.10","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+...(....)....((((((((((........))))))....))))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"25.43","enAbs":"-25.70","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"241"}
+ugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggagg
+.............((((((((((........))))))....))))...........((((((.....))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"25.40","enAbs":"-25.70","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"249"}
+caaaaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucgggaggagggggga
+.....((((((((((........))))))....))))...........((((((.....))))))...........
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"--.......-","enRel":"19.96","enAbs":"-20.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"217"}
+ugaaaacuuugugagacugaccaucccucaaggccgagugggaugcguaugaaggccccuggagagauccaggagg
+...................((((((((............)))))).)).........((((((....))))))...
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"-----..........-","enRel":"19.26","enAbs":"-19.50","score":"-77.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"217"}
+ugaaaacuuugugagacugaccaucccucaaggccgagugggaugcguaugaaggccccuggagagauccaggagg
+......(((...)))....((((((((.(........).)))))).)).........((((((....))))))...
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"--..........-","enRel":"20.66","enAbs":"-20.90","score":"-77.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"217"}
+ugaaaacuuugugagacugaccaucccucaaggccgagugggaugcguaugaaggccccuggagagauccaggagg
+...................((((((((.(........).)))))).)).........((((((....))))))...
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"----.......-","enRel":"30.94","enAbs":"-31.30","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"73","bnStart":"329"}
+cuuugugagaccccuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggga
+((.....))...((((((((((((...........))))))))...)))).....((((((((....)))))))).
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"----.......-","enRel":"30.74","enAbs":"-31.10","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"73","bnStart":"329"}
+cuuugugagaccccuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggga
+(.....).....((((((((((((...........))))))))...)))).....((((((((....)))))))).
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"33.24","enAbs":"-33.60","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"73","bnStart":"329"}
+cuuugugagaccccuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggga
+............((((((((((((...........))))))))...)))).....((((((((....)))))))).
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"----.......-","enRel":"31.84","enAbs":"-32.20","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"73","bnStart":"329"}
+cuuugugagaccccuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggga
+(((...)))...((((((((((((...........))))))))...)))).....((((((((....)))))))).
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"--..........-","enRel":"24.33","enAbs":"-24.60","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"74","bnStart":"257"}
+uugcgagaccccccgccccaugacaaggccgaacauggagcauuaaagggaggcccccggaagcaugcuuccggga
+...........(((((.(((((...........))))).))......))).....((((((((....)))))))).
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"--..........--","enRel":"26.40","enAbs":"-26.70","score":"-74.0","database":"Flavivi_3UTRs.fa","dbPos":"74","bnStart":"265"}
+ccccccgccccaugacaaggccgaacauggagcauuaaagggaggcccccggaagcaugcuuccgggaggagggaa
+((((((((.(((((...........))))).))......))).....((((((((....))))))))....)))..
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"---..........","enRel":"21.93","enAbs":"-22.20","score":"-139.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+(((....)))((((..((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----..........","enRel":"22.23","enAbs":"-22.50","score":"-139.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+..((....))((((..((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----..........","enRel":"22.33","enAbs":"-22.60","score":"-139.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+((....))..((((..((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........","enRel":"25.43","enAbs":"-25.70","score":"-139.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+..........((((..((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........","enRel":"22.13","enAbs":"-22.40","score":"-138.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+...........(((..((((((((..........))))))))..)...))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----..........","enRel":"22.33","enAbs":"-22.60","score":"-109.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+....((...))((((.((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----..........","enRel":"22.03","enAbs":"-22.30","score":"-109.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+..((....)).((((.((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........","enRel":"25.23","enAbs":"-25.50","score":"-109.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+...........((((.((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----..........","enRel":"22.13","enAbs":"-22.40","score":"-109.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+((....))...((((.((((((((..........))))))))..)..)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......","enRel":"22.13","enAbs":"-22.40","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+....(.......)(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........","enRel":"21.93","enAbs":"-22.20","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.............(((((((((.(..........).)))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........","enRel":"21.93","enAbs":"-22.20","score":"-71.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.............((((((((.((..........)).))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......","enRel":"22.93","enAbs":"-23.20","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+......(.....)(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"------.......","enRel":"22.53","enAbs":"-22.80","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+....(.(....))(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.73","enAbs":"-23.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+....(......).(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......","enRel":"21.93","enAbs":"-22.20","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+........(...)(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.53","enAbs":"-22.80","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+....(.....)..(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"23.03","enAbs":"-23.30","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+......(....).(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......","enRel":"22.43","enAbs":"-22.70","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+((......))...(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"23.43","enAbs":"-23.70","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+....((...))..(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.33","enAbs":"-22.60","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.((.....))...(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......","enRel":"22.83","enAbs":"-23.10","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+(((....)))...(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"23.13","enAbs":"-23.40","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+..((....))...(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......","enRel":"22.63","enAbs":"-22.90","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+(((...)))....(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.53","enAbs":"-22.80","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.(((...)))...(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.03","enAbs":"-22.30","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.((....))....(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.33","enAbs":"-22.60","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+...(.....)...(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......","enRel":"23.23","enAbs":"-23.50","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+((....)).....(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.13","enAbs":"-22.40","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+...(....)....(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.13","enAbs":"-22.40","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.(....)......(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-----.......","enRel":"22.23","enAbs":"-22.50","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.((...)).....(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......","enRel":"22.63","enAbs":"-22.90","score":"-15.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+..............((((((((((..........))))))))......))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......","enRel":"26.33","enAbs":"-26.60","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.............(((((((((((..........)))))))).....)))........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........","enRel":"21.93","enAbs":"-22.20","score":"-112.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+............(((.((((((((..........))))))))..)..)).........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........","enRel":"22.53","enAbs":"-22.80","score":"-142.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+...........(((..((((((((..........))))))))..)..)).........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......","enRel":"23.03","enAbs":"-23.30","score":"-15.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+..............((((((((((..........)))))))).....)).........(((((((....)))))))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........-","enRel":"23.13","enAbs":"-23.40","score":"-110.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+...........((((.((((((((..........))))))))..)..))).........((((((....)))))).
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--..........-","enRel":"23.33","enAbs":"-23.60","score":"-140.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+..........((((..((((((((..........))))))))..)..))).........((((((....)))))).
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......-","enRel":"24.23","enAbs":"-24.50","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"169"}
+uuuugugagaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgg
+.............(((((((((((..........)))))))).....))).........((((((....)))))).
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"---.......-","enRel":"32.25","enAbs":"-32.60","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"177"}
+gaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgggaggaggg
+..((((((((((((((..........)))))))).....))).......((((((((....))))))))....)))
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"----.......--","enRel":"30.05","enAbs":"-30.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"177"}
+gaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgggaggaggg
+..((.(((((((((((..........)))))))).....))).......((((((((....))))))))....)).
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......-","enRel":"30.75","enAbs":"-31.10","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"177"}
+gaccccccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccgggaggaggg
+.....(((((((((((..........)))))))).....))).......((((((((....)))))))).......
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"----.......-","enRel":"25.32","enAbs":"-25.60","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+((((......)))).((((((((((........)))))))....)))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-------.......-","enRel":"23.12","enAbs":"-23.40","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+.(((.(...))))..((((((((((........)))))))....)))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"------.......-","enRel":"23.82","enAbs":"-24.10","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+((((.(...))))).((((((((((........)))))))....)))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"24.62","enAbs":"-24.90","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+.(((......)))..((((((((((........)))))))....)))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"23.82","enAbs":"-24.10","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+....((....))...((((((((((........)))))))....)))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"23.72","enAbs":"-24.00","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+..((......))...((((((((((........)))))))....)))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"---.......-","enRel":"23.42","enAbs":"-23.70","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+(((.........)))((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-------.......-","enRel":"23.72","enAbs":"-24.00","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+.((.((....)).))((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"25.52","enAbs":"-25.80","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+...............((((((((((........)))))))....)))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"----.......-","enRel":"23.12","enAbs":"-23.40","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+(((........))).((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"23.42","enAbs":"-23.70","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+(((.((....)))))((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"----.......-","enRel":"26.02","enAbs":"-26.30","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+((((......)))).((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"25.32","enAbs":"-25.60","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+.(((......)))..((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"------.......-","enRel":"24.52","enAbs":"-24.80","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+((((.(...))))).((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"24.42","enAbs":"-24.70","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+..((......))...((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-------.......-","enRel":"23.82","enAbs":"-24.10","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+.(((.(...))))..((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"23.32","enAbs":"-23.60","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+...(......)....((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"24.52","enAbs":"-24.80","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+....((....))...((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"23.32","enAbs":"-23.60","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+...((...)).....((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-----.......-","enRel":"23.62","enAbs":"-23.90","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+.....(....)....((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"26.22","enAbs":"-26.50","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"241"}
+uuugugagaccaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggga
+...............((((((((((........))))))....))))...........((((((.....)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"----.......--","enRel":"25.99","enAbs":"-26.30","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"249"}
+accaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucgggaggagggag
+.((....((((((((((........))))))....))))...........((((((.....))))))....))...
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"26.19","enAbs":"-26.50","score":"-18.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"249"}
+accaaaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucgggaggagggag
+.......((((((((((........))))))....))))...........((((((.....)))))).........
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"---..........--","enRel":"22.92","enAbs":"-23.20","score":"-115.0","database":"Flavivi_3UTRs.fa","dbPos":"78","bnStart":"105"}
+aacaauucgugagacccccccuggccaggaaaaggggggugcaaacaggccaggggugaagaacaccccuagagug
+....(((((((..(((((((.............))))))).)..)).....(((((((.....))))))).)))).
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"--..........-","enRel":"23.12","enAbs":"-23.40","score":"-115.0","database":"Flavivi_3UTRs.fa","dbPos":"78","bnStart":"105"}
+aacaauucgugagacccccccuggccaggaaaaggggggugcaaacaggccaggggugaagaacaccccuagagug
+........(((..(((((((.............))))))).)..)).....(((((((.....)))))))......
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"--.......-","enRel":"32.13","enAbs":"-32.50","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"78","bnStart":"257"}
+gagaccccccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccgggagga
+......((((((((((((...........))))))))......)))).....((((((((....))))))))....
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-.......-","enRel":"25.39","enAbs":"-25.70","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"78","bnStart":"265"}
+ccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccgggaggagggaagag
+((((((((((...........))))))))......)).......((((((((....))))))))............
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-----..........-","enRel":"18.96","enAbs":"-19.20","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"273"}
+augaugcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugag
+.((......))..(((((...(((((.........)))))...)).)))......(((((((.....)))))))..
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"----..........-","enRel":"22.26","enAbs":"-22.50","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"273"}
+augaugcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugag
+.....((....))(((((...(((((.........)))))...)).)))......(((((((.....)))))))..
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--..........-","enRel":"20.66","enAbs":"-20.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"273"}
+augaugcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugag
+.............(((((...(((((.........)))))...)).)))......(((((((.....)))))))..
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"----..........-","enRel":"18.96","enAbs":"-19.20","score":"-196.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"273"}
+augaugcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugag
+.....((....))(((((...(((((.........)))))...)).))).......((((((.....))))))...
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--..........-","enRel":"20.65","enAbs":"-20.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"281"}
+gcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugagaccccccu
+.....(((((...(((((.........)))))...)).)))......(((((((.....)))))))..........
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--..........-","enRel":"28.47","enAbs":"-28.80","score":"-107.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"489"}
+gagacccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccgggagg
+....(((((.((((((((...........))))))))..)....)))).....((((((((....))))))))...
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"28.07","enAbs":"-28.40","score":"-20.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"489"}
+gagacccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccgggagg
+.....((((((((((((.............))))))))......)))).....((((((((....))))))))...
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"31.17","enAbs":"-31.50","score":"-17.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"489"}
+gagacccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccgggagg
+.....(((((((((((((...........)))))))))......)))).....((((((((....))))))))...
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"27.87","enAbs":"-28.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"489"}
+gagacccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccgggagg
+......((((((((((((...........))))))))......))))......((((((((....))))))))...
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"27.87","enAbs":"-28.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"489"}
+gagacccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccgggagg
+.....(((((((((((((...........)))))))))......))))......(((((((....)))))))....
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"27.87","enAbs":"-28.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"489"}
+gagacccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccgggagg
+......((((((((((((...........)))))))))......)))......((((((((....))))))))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"----..........-","enRel":"22.24","enAbs":"-22.50","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"105"}
+aaugcugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucguga
+...(((.....)))(((((...(((((.........)))))...)).)))......(((((((.....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"----..........-","enRel":"22.24","enAbs":"-22.50","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"105"}
+aaugcugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucguga
+......((....))(((((...(((((.........)))))...)).)))......(((((((.....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"----..........-","enRel":"24.34","enAbs":"-24.60","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"105"}
+aaugcugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucguga
+...((((...))))(((((...(((((.........)))))...)).)))......(((((((.....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-----..........-","enRel":"23.64","enAbs":"-23.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"105"}
+aaugcugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucguga
+..(((....)))..(((((...(((((.........)))))...)).)))......(((((((.....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-----..........-","enRel":"22.74","enAbs":"-23.00","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"105"}
+aaugcugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucguga
+...((....))...(((((...(((((.........)))))...)).)))......(((((((.....))))))).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"----..........-","enRel":"21.04","enAbs":"-21.30","score":"-196.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"105"}
+aaugcugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucguga
+...((((...))))(((((...(((((.........)))))...)).))).......((((((.....))))))..
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"---..........-","enRel":"18.07","enAbs":"-18.30","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((....(((((...(((((.........)))))...)).)))......(((((((.....))))))).......))
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"---..........--","enRel":"18.87","enAbs":"-19.10","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((....(((((...(((((.........)))))...)).)))......(((((((.....)))))))......)).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"----..........---","enRel":"17.67","enAbs":"-17.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((...((((((...(((((.........)))))...)).)))......(((((((.....))))))).)....)).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-----..........---","enRel":"18.27","enAbs":"-18.50","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((..(.(((((...(((((.........)))))...)).)))......(((((((.....)))))))...)..)).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-----..........----","enRel":"18.17","enAbs":"-18.40","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((..(((((((...(((((.........)))))...)).)))......(((((((.....))))))).).)..)).
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"---..........--","enRel":"18.87","enAbs":"-19.10","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((....(((((...(((((.........)))))...)).)))......(((((((.....))))))).....))..
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"----..........---","enRel":"18.37","enAbs":"-18.60","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((...((((((...(((((.........)))))...)).)))......(((((((.....))))))).)...))..
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"---..........--","enRel":"18.87","enAbs":"-19.10","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((....(((((...(((((.........)))))...)).)))......(((((((.....)))))))....))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"---..........--","enRel":"19.27","enAbs":"-19.50","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+((....(((((...(((((.........)))))...)).)))......(((((((.....)))))))...))....
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"----..........---","enRel":"19.27","enAbs":"-19.50","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+(((...(((((...(((((.........)))))...)).)))......(((((((.....))))))).).))....
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--..........-","enRel":"20.67","enAbs":"-20.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+......(((((...(((((.........)))))...)).)))......(((((((.....))))))).........
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"---..........-","enRel":"18.97","enAbs":"-19.20","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"113"}
+ggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaucauccaugaagcaacacuucgugagacccccc
+(....)(((((...(((((.........)))))...)).)))......(((((((.....))))))).........
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--..........-","enRel":"29.06","enAbs":"-29.40","score":"-111.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"313"}
+gugagacccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggagg
+......(((((.((((((((...........))))))))..)..)))).....((((((((....))))))))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"32.56","enAbs":"-32.90","score":"-17.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"313"}
+gugagacccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggagg
+.......(((((((((((((...........)))))))))....)))).....((((((((....))))))))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"29.46","enAbs":"-29.80","score":"-20.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"313"}
+gugagacccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggagg
+.......((((((((((((.............))))))))....)))).....((((((((....))))))))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"29.26","enAbs":"-29.60","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"313"}
+gugagacccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggagg
+........((((((((((((...........)))))))))....)))......((((((((....))))))))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"---.......-","enRel":"29.66","enAbs":"-30.00","score":"-17.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"313"}
+gugagacccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggagg
+((...))(((((((((((((...........)))))))))....)))).....((((((((....))))))))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"29.26","enAbs":"-29.60","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"313"}
+gugagacccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggagg
+........((((((((((((...........))))))))....))))......((((((((....))))))))...
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"29.26","enAbs":"-29.60","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"313"}
+gugagacccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggagg
+.......(((((((((((((...........)))))))))....))))......(((((((....)))))))....
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"28.48","enAbs":"-28.80","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"321"}
+cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggaggagggaagg
+((((((((((((...........))))))))).....))).....((((((((....))))))))...........
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"29.08","enAbs":"-29.40","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"321"}
+cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggaggagggaagg
+((((((((((((...........))))))))....))))......((((((((....))))))))...........
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"29.08","enAbs":"-29.40","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"321"}
+cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggaggagggaagg
+((((((((((((...........)))))))))....)))......((((((((....))))))))...........
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"28.48","enAbs":"-28.80","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"321"}
+cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccgggaggagggaagg
+((((((((((((...........)))))))).....)))).....((((((((....))))))))...........
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........","enRel":"18.99","enAbs":"-19.20","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"73"}
+gagugaugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgug
+.......((....))(((((...(((((.........)))))...)).)))......(((((((.....)))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........","enRel":"15.79","enAbs":"-16.00","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"73"}
+gagugaugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgug
+..((.........))(((((...(((((.........)))))...)).)))......(((((((.....)))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-----..........","enRel":"15.69","enAbs":"-15.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"73"}
+gagugaugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgug
+...((......))..(((((...(((((.........)))))...)).)))......(((((((.....)))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........","enRel":"15.49","enAbs":"-15.70","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"73"}
+gagugaugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgug
+.........(....)(((((...(((((.........)))))...)).)))......(((((((.....)))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--..........","enRel":"17.39","enAbs":"-17.60","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"73"}
+gagugaugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgug
+...............(((((...(((((.........)))))...)).)))......(((((((.....)))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-----..........","enRel":"17.09","enAbs":"-17.30","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"73"}
+gagugaugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgug
+..((......))...(((((...(((((.........)))))...)).)))......(((((((.....)))))))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........-","enRel":"16.89","enAbs":"-17.10","score":"-196.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"73"}
+gagugaugcggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgug
+.......((....))(((((...(((((.........)))))...)).))).......((((((.....)))))).
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........-","enRel":"16.29","enAbs":"-16.50","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.((....(((((...(((((.........)))))...)).)))......(((((((.....)))))))......))
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........--","enRel":"17.09","enAbs":"-17.30","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.((....(((((...(((((.........)))))...)).)))......(((((((.....))))))).....)).
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-----..........---","enRel":"16.59","enAbs":"-16.80","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.((...((((((...(((((.........)))))...)).)))......(((((((.....))))))).)...)).
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........--","enRel":"17.09","enAbs":"-17.30","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.((....(((((...(((((.........)))))...)).)))......(((((((.....)))))))....))..
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........--","enRel":"17.49","enAbs":"-17.70","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.((....(((((...(((((.........)))))...)).)))......(((((((.....)))))))...))...
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-----..........---","enRel":"17.49","enAbs":"-17.70","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.(((...(((((...(((((.........)))))...)).)))......(((((((.....))))))).).))...
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"----..........-","enRel":"16.69","enAbs":"-16.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.(....)(((((...(((((.........)))))...)).)))......(((((((.....)))))))........
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--..........-","enRel":"18.59","enAbs":"-18.80","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"81"}
+cggcagcgcgcgagagcgacggggaaauggucgcacccgacgcaccauccaugaagaaaccuuucgugagaccccc
+.......(((((...(((((.........)))))...)).)))......(((((((.....)))))))........
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--.......-","enRel":"31.64","enAbs":"-32.00","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"281"}
+gugagacccccggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccgggagg
+........((((((((((((...........)))))))).....)))).....((((((((....))))))))...
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-.......-","enRel":"31.26","enAbs":"-31.60","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"289"}
+cccggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccgggaggagggaaga
+((((((((((((...........)))))))).....)))).....((((((((....))))))))...........
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"----..........","enRel":"18.48","enAbs":"-18.70","score":"-196.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"313"}
+ggaaugaugcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgu
+........((....))(((((...(((((.........)))))...)).))).......((((((.....))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--..........","enRel":"16.88","enAbs":"-17.10","score":"-196.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"313"}
+ggaaugaugcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgu
+................(((((...(((((.........)))))...)).))).......((((((.....))))))
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"---..........-","enRel":"22.45","enAbs":"-22.70","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"321"}
+gcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugagacccc
+((....))(((((...(((((.........)))))...)).)))......(((((((.....))))))).......
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--..........-","enRel":"20.65","enAbs":"-20.90","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"321"}
+gcggcagcgcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugagacccc
+........(((((...(((((.........)))))...)).)))......(((((((.....))))))).......
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-..........-","enRel":"20.85","enAbs":"-21.10","score":"-195.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"329"}
+gcgcgagagcgacggggaaguggucgcacccgacgcaccauccaugaagcaauacuucgugagacccccccugacc
+(((((...(((((.........)))))...)).)))......(((((((.....)))))))...............
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......-","enRel":"31.56","enAbs":"-31.90","score":"-15.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"529"}
+agacccccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccgggaggag
+....(((((((((((((...........))))))))).....)))).....((((((((....)))))))).....
+>MK473878.1 UNCLASSIFIED|Crangon crangon flavivirus, complete genome|{"mask":"--..........-","enRel":"16.88","enAbs":"-17.10","score":"-165.0","database":"Flavivi_3UTRs.fa","dbPos":"84","bnStart":"97"}
+ugccuugggcagagugugcaagcugcagcccaacgucaggccauuaacaagccauguuuuggaugaaacaugcugc
+.(((((((((..((........))...)))))).....)))...........((((((((....))))))))....
+>MK473878.1 UNCLASSIFIED|Crangon crangon flavivirus, complete genome|{"mask":"--..........-","enRel":"17.58","enAbs":"-17.80","score":"-165.0","database":"Flavivi_3UTRs.fa","dbPos":"84","bnStart":"97"}
+ugccuugggcagagugugcaagcugcagcccaacgucaggccauuaacaagccauguuuuggaugaaacaugcugc
+.(((((((((..((........))...))))).....))))...........((((((((....))))))))....
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"---..........---","enRel":"10.75","enAbs":"-10.90","score":"-108.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"161"}
+cccccccauucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguag
+(((((((((((.(((((...........)))))..))))...))).....((((((.....)))))).))).)...
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"-----.......---","enRel":"10.55","enAbs":"-10.70","score":"-30.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"161"}
+cccccccauucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguag
+..(.(((((((((((((...........)))))).))))...........((((((.....)))))).))).)...
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"----.......---","enRel":"10.55","enAbs":"-10.70","score":"-30.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"161"}
+cccccccauucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguag
+...((((((((((((((...........)))))).))))...........((((((.....)))))).))).)...
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"---..........--","enRel":"11.05","enAbs":"-11.20","score":"-108.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"161"}
+cccccccauucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguag
+(((.(((((((.(((((...........)))))..))))...))).....((((((.....)))))).))).....
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"---..........--","enRel":"10.45","enAbs":"-10.60","score":"-167.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"161"}
+cccccccauucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguag
+.((((((((((..((((...........))))...))))...))).....((((((.....)))))).))).....
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"---..........--","enRel":"11.35","enAbs":"-11.50","score":"-108.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"161"}
+cccccccauucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguag
+.((((((((((.(((((...........)))))..))))...))).....((((((.....)))))).))).....
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"---.......--","enRel":"10.75","enAbs":"-10.90","score":"-30.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"161"}
+cccccccauucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguag
+....(((((((((((((...........)))))).))))...........((((((.....)))))).))).....
+>AF346759.1 UNCLASSIFIED|Tamana bat virus, complete genome|{"mask":"-.......--","enRel":"12.52","enAbs":"-12.70","score":"-30.0","database":"Flavivi_3UTRs.fa","dbPos":"91","bnStart":"168"}
+auucaagacuuuuagugcauuaguuuuaggguaaagggcaagguagaguguuucgcucuaagggcguaggaacccu
+((((((((((...........)))))).))))...........((((((.....))))))((((........))))

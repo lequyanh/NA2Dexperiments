@@ -1,0 +1,1325 @@
+#	Sequence accession	KY460522.1
+#	Sequence definition	Karumba virus isolate KRBV 1892, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_024299.2
+#	Sequence definition	Nienokoue virus isolate B51/CI/2004, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012932
+#	Sequence definition	Aedes flavivirus genomic RNA, complete genome, strain: Narita-21
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KP688057.1
+#	Sequence definition	Mercadeo virus isolate ER-M31, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034204.1
+#	Sequence definition	Menghai flavivirus isolate MHAedFV1, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KC464457.1
+#	Sequence definition	Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034242.1
+#	Sequence definition	Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KT192549.1
+#	Sequence definition	Parramatta River virus isolate 92-B115745, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012671.1
+#	Sequence definition	Quang Binh virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KX148546.1
+#	Sequence definition	Anopheles flavivirus variant 1, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MG214905.1
+#	Sequence definition	Barkedji virus strain SQU29/Oman/2016, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034017.1
+#	Sequence definition	Xishuangbanna aedes flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MH899446.1
+#	Sequence definition	Sabethes flavivirus isolate Ms42, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_016997.1
+#	Sequence definition	Donggang virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MF139575.1
+#	Sequence definition	Nanay virus strain PRD316/PER/09, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	FJ606789.2
+#	Sequence definition	Lammi virus polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_024017.1
+#	Sequence definition	Nhumirim virus strain BrMS-MQ10, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_033715.1
+#	Sequence definition	Nounane virus polyprotein mRNA, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MF139576.1
+#	Sequence definition	Marisma mosquito virus strain HU4528/07, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY898809.1
+#	Sequence definition	Alfuy virus strain MRM3929, complete genome GenBank
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012534.1
+#	Sequence definition	Bagaza virus strain DakAr B209, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_017086.1
+#	Sequence definition	Chaoyang virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY326407.1
+#	Sequence definition	Banzi virus strain SA H336 3' untranslated region, partial sequence
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KX148547.1
+#	Sequence definition	Anopheles flavivirus variant 2, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_009026.2
+#	Sequence definition	Bussuquara virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001477.1
+#	Sequence definition	Dengue virus 1, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	LN849009.1
+#	Sequence definition	Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM225264.1
+#	Sequence definition	Bainyik virus strain MK7979, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM361634.1
+#	Sequence definition	Fitzroy River Virus strain K73884, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_009028.2
+#	Sequence definition	Ilheus virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001475.2
+#	Sequence definition	Dengue virus 3, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001474.2
+#	Sequence definition	Dengue virus 2, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AY632538.4
+#	Sequence definition	Iguape virus strain SPAn 71686, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	4
+1	374
+1	-19.560000
+1	<<<<<<<<__[[[[[____>>>>>>------>>:::::]]]]]<<<<<<____>>>>>>
+1	uccuaggcugaagcuguaggccuaggggaaggacuagagguuugaggagaccccucuuu
+2	374
+2	-19.110000
+2	<<<<<<<<__[[[[[____>>>>>>----->>::::::]]]]]<<<<<<____>>>>>>
+2	uccuaggcugaagcuguaggccuaggggaaggacuagagguuugaggagaccccucuuu
+3	374
+3	-16.703960
+3	<<<<<<<<__[[[[[____>>>>->>----->>:::::]]]]]<<<<<<____>>>>>>
+3	uccuaggcugaagcuguaggccuaggggaaggacuagagguuugaggagaccccucuuu
+4	374
+4	-16.253960
+4	<<<<<<<<__[[[[[____>>>>->>---->>::::::]]]]]<<<<<<____>>>>>>
+4	uccuaggcugaagcuguaggccuaggggaaggacuagagguuugaggagaccccucuuu
+#	Sequence accession	NC_002640.1
+#	Sequence definition	Dengue virus 4, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	2
+1	312
+1	-14.200000
+1	<<<<<<-<<<<___[[[[____>>>>->>-->>>>::::::]]]]<<<<<<_____>>>>>>
+1	ugcugucucugcaacaucaauccaggcacagagcgccgcaagauggauugguguuguugauc
+2	313
+2	-13.240000
+2	<<<<<-<<<<___[[[[____>>>>->>-->>>:::::::]]]]<<<<<<_____>>>>>>
+2	gcugucucugcaacaucaauccaggcacagagcgccgcaagauggauugguguuguugauc
+#	Sequence accession	NC_012533.1
+#	Sequence definition	Kedougou virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KX669688.1
+#	Sequence definition	Calbertado virus isolate 44-13 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001437.1
+#	Sequence definition	Japanese encephalitis virus, genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	L48980.1
+#	Sequence definition	Koutango virus (strain DakAaD 5443) nonstructural protein (NS5) gene, 3' end of cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	1
+1	9
+1	-1.256980
+1	<<<<<<<<____[[[[_>>>>->>----->>:::::]]]]<<<<<<<____>>>>>>>
+1	auuguaggacuauuaguuuuauuaauuaaguuuaguuuagguuuaauguaaguugaau
+#	Sequence accession	NC_009029.2
+#	Sequence definition	Kokobera virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	L24512.1
+#	Sequence definition	Kunjin virus 3' UTR
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	18
+1	31
+1	-2.696980
+1	<<<<<<<<<<<<__[[[[[_>>>>>>->>----->>>>::::]]]]]<<<<<<_____>>>>>>
+1	auuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+2	31
+2	-2.146980
+2	<<<<<<<<<<<<__[[[[__>>>>>>->>----->>>>:::::]]]]<<<<<<_____>>>>>>
+2	auuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+3	31
+3	-1.426980
+3	<<<<<<<<<<<___[[[[[__>>>>>->>----->>>>::::]]]]]<<<<<<_____>>>>>>
+3	auuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+4	32
+4	-1.336980
+4	<<<<<<<<<<<__[[[[[_>>>>>>->>----->>>:::::]]]]]<<<<<<_____>>>>>>
+4	uuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+5	31
+5	-0.876980
+5	<<<<<<<<<<____[[[[[___>>>>->>----->>>>::::]]]]]<<<<<<_____>>>>>>
+5	auuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+6	31
+6	-0.876980
+6	<<<<<<<<<<<___[[[[___>>>>>->>----->>>>:::::]]]]<<<<<<_____>>>>>>
+6	auuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+7	32
+7	-0.786980
+7	<<<<<<<<<<<__[[[[__>>>>>>->>----->>>::::::]]]]<<<<<<_____>>>>>>
+7	uuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+8	33
+8	-0.736980
+8	<<<<<<<<<<__[[[[[_>>>>>>->>----->>::::::]]]]]<<<<<<_____>>>>>>
+8	uauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+9	31
+9	-0.326980
+9	<<<<<<<<<<____[[[[____>>>>->>----->>>>:::::]]]]<<<<<<_____>>>>>>
+9	auuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+10	33
+10	-0.186980
+10	<<<<<<<<<<__[[[[__>>>>>>->>----->>:::::::]]]]<<<<<<_____>>>>>>
+10	uauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+11	32
+11	-0.066980
+11	<<<<<<<<<<___[[[[[__>>>>>->>----->>>:::::]]]]]<<<<<<_____>>>>>>
+11	uuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+12	32
+12	0.483020
+12	<<<<<<<<<____[[[[[___>>>>->>----->>>:::::]]]]]<<<<<<_____>>>>>>
+12	uuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+13	32
+13	0.483020
+13	<<<<<<<<<<___[[[[___>>>>>->>----->>>::::::]]]]<<<<<<_____>>>>>>
+13	uuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+14	33
+14	0.533020
+14	<<<<<<<<<___[[[[[__>>>>>->>----->>::::::]]]]]<<<<<<_____>>>>>>
+14	uauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+15	32
+15	1.033020
+15	<<<<<<<<<____[[[[____>>>>->>----->>>::::::]]]]<<<<<<_____>>>>>>
+15	uuauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+16	33
+16	1.083020
+16	<<<<<<<<____[[[[[___>>>>->>----->>::::::]]]]]<<<<<<_____>>>>>>
+16	uauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+17	33
+17	1.083020
+17	<<<<<<<<<___[[[[___>>>>>->>----->>:::::::]]]]<<<<<<_____>>>>>>
+17	uauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+18	33
+18	1.633020
+18	<<<<<<<<____[[[[____>>>>->>----->>:::::::]]]]<<<<<<_____>>>>>>
+18	uauguguagaaguuuagcuuuauaauaguguuuaguguguuuagaguuagaaaaauuuuagu
+#	Sequence accession	KC788512.1
+#	Sequence definition	New Mapoon virus strain CY1014 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_018705.3
+#	Sequence definition	Ntaya virus, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_000943.1
+#	Sequence definition	Murray Valley encephalitis virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001564.2
+#	Sequence definition	Cell fusing agent virus strain Galveston, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_027999.1
+#	Sequence definition	Paraiso Escondido virus isolate Ecuador2012, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_007580.2
+#	Sequence definition	St. Louis encephalitis virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_008719.1
+#	Sequence definition	Sepik virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM225263.1
+#	Sequence definition	Stratford virus strain C338, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_015843.2
+#	Sequence definition	Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034151.1
+#	Sequence definition	T'Ho virus strain T'Ho-Mex07, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_006551.1
+#	Sequence definition	Usutu virus, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_040776.1
+#	Sequence definition	Rocio virus strain SPH 34675, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012735.1
+#	Sequence definition	Wesselsbron virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM225265.1
+#	Sequence definition	Torres virus strain TS5273, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY326409.1
+#	Sequence definition	Uganda S virus 3' untranslated region, partial sequence
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_008604.2
+#	Sequence definition	Culex flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_009942.1
+#	Sequence definition	West Nile virus lineage 1, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AF452050.1
+#	Sequence definition	Apoi virus 3' untranslated region, partial sequence
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012532.1
+#	Sequence definition	Zika virus isolate ZIKV/Monkey/Uganda/MR766/1947, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_002031.1
+#	Sequence definition	Yellow fever virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AJ299445.1
+#	Sequence definition	Montana myotis leukoencephalitis virus complete genomic RNA
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_003635.1
+#	Sequence definition	Modoc virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_005039.1
+#	Sequence definition	Yokose virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	JQ582840.1
+#	Sequence definition	Rio Bravo virus strain M64, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	HE574574.1
+#	Sequence definition	Culex theileri flavivirus RP-2011 gene for viral polyprotein, genomic RNA, isolate 178
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_023439.1
+#	Sequence definition	Kama virus strain LEIV-20776Tat polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	6
+1	226
+1	-32.796980
+1	<<<<<<<<__[[[[[__>>>>>>->>:::::::]]]]]<<<<<<<____>>>>>>>
+1	cuacucgcauugggcgcgcgggugagaaaacaagcccacugccauggguguggcag
+2	224
+2	-30.856980
+2	<<<<<<<<<<__[[[[[__>>>>>>->>---->>:]]]]]<<<<<<<____>>>>>>>
+2	ugcuacucgcauugggcgcgcgggugagaaaacaagcccacugccauggguguggcag
+3	224
+3	-27.436980
+3	<<<<<<<<<___[[[[[___>>>>>->>---->>:]]]]]<<<<<<<____>>>>>>>
+3	ugcuacucgcauugggcgcgcgggugagaaaacaagcccacugccauggguguggcag
+4	224
+4	-27.436980
+4	<<<<<<<<<<__[[[[___>>>>>>->>---->>::]]]]<<<<<<<____>>>>>>>
+4	ugcuacucgcauugggcgcgcgggugagaaaacaagcccacugccauggguguggcag
+5	224
+5	-25.076980
+5	<<<<<<<<____[[[[[____>>>>->>---->>:]]]]]<<<<<<<____>>>>>>>
+5	ugcuacucgcauugggcgcgcgggugagaaaacaagcccacugccauggguguggcag
+6	224
+6	-24.016980
+6	<<<<<<<<<___[[[[____>>>>>->>---->>::]]]]<<<<<<<____>>>>>>>
+6	ugcuacucgcauugggcgcgcgggugagaaaacaagcccacugccauggguguggcag
+#	Sequence accession	NC_008718.1
+#	Sequence definition	Entebbe bat virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AF311056.1
+#	Sequence definition	Deer tick virus strain ctb30 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	18
+1	254
+1	-37.970000
+1	<<<<<<<<<<__[[[[[_>>>>>>---->>>>::::::]]]]]<<<<<<_____>>>>>>
+1	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+2	254
+2	-37.240000
+2	<<<<<<<<<<__[[[[[_>>>>>>>---->>>::::::]]]]]<<<<<<_____>>>>>>
+2	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+3	254
+3	-35.620000
+3	<<<<<<<<<<__[[[[__>>>>>>---->>>>:::::::]]]]<<<<<<_____>>>>>>
+3	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+4	254
+4	-34.890000
+4	<<<<<<<<<<__[[[[__>>>>>>>---->>>:::::::]]]]<<<<<<_____>>>>>>
+4	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+5	255
+5	-34.710000
+5	<<<<<<<<<__[[[[[_>>>>>>---->>>:::::::]]]]]<<<<<<_____>>>>>>
+5	gccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+6	254
+6	-33.980000
+6	<<<<<<<<<___[[[[[__>>>>>>---->>>::::::]]]]]<<<<<<_____>>>>>>
+6	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+7	255
+7	-33.980000
+7	<<<<<<<<<__[[[[[_>>>>>>>---->>:::::::]]]]]<<<<<<_____>>>>>>
+7	gccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+8	254
+8	-31.630000
+8	<<<<<<<<<___[[[[___>>>>>>---->>>:::::::]]]]<<<<<<_____>>>>>>
+8	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+9	255
+9	-30.720000
+9	<<<<<<<<___[[[[[__>>>>>>---->>:::::::]]]]]<<<<<<_____>>>>>>
+9	gccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+10	254
+10	-30.430000
+10	<<<<<-<<<<__[[[[[_>>>>->>---->>>::::::]]]]]<<<<<<_____>>>>>>
+10	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+11	252
+11	-29.856980
+11	<<<<-<<<<<<<__[[[[[_>>>>>>>>>------>>:::]]]]]<<<<<<_____>>>>>>
+11	aaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+12	254
+12	-28.080000
+12	<<<<<-<<<<__[[[[__>>>>->>---->>>:::::::]]]]<<<<<<_____>>>>>>
+12	ggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+13	252
+13	-27.506980
+13	<<<<-<<<<<<<__[[[[__>>>>>>>>>------>>::::]]]]<<<<<<_____>>>>>>
+13	aaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+14	255
+14	-27.170000
+14	<<<<-<<<<__[[[[[_>>>>->>---->>:::::::]]]]]<<<<<<_____>>>>>>
+14	gccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+15	252
+15	-26.596980
+15	<<<<-<<<<<<___[[[[[__>>>>>>>>------>>:::]]]]]<<<<<<_____>>>>>>
+15	aaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+16	252
+16	-24.246980
+16	<<<<-<<<<<<___[[[[___>>>>>>>>------>>::::]]]]<<<<<<_____>>>>>>
+16	aaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+17	252
+17	-24.036980
+17	<<<<-<<<<<____[[[[[___>>>>>>>------>>:::]]]]]<<<<<<_____>>>>>>
+17	aaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+18	252
+18	-21.686980
+18	<<<<-<<<<<____[[[[____>>>>>>>------>>::::]]]]<<<<<<_____>>>>>>
+18	aaggccuccuggaaggcucaccaggaguuaggccauucuagagcccccgggcauaacucggg
+#	Sequence accession	HM055369.1
+#	Sequence definition	Kyasanur forest disease virus strain KFD P 9605, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	1
+1	170
+1	-37.870000
+1	<<<<<<<<____[[[[___>>>>>>>>:::::::]]]]<<<<<<____>>>>>>
+1	ccucccagagaaggccgaacugggaggccaugaaggccccuggcuuuagccagg
+#	Sequence accession	AY863002.1
+#	Sequence definition	Karshi virus strain LEIV 2247, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	2
+1	236
+1	-31.970000
+1	<<<<<<<<____[[[[____>>>>>>->>:::::]]]]<<<<<<____>>>>>>
+1	accaucccucaaggccgagugggaugcguaugaaggccccuggagagauccagg
+2	234
+2	-29.130000
+2	<<<<<<<<<<____[[[[____>>>>>>->>->>::]]]]<<<<<<____>>>>>>
+2	ugaccaucccucaaggccgagugggaugcguaugaaggccccuggagagauccagg
+#	Sequence accession	NC_027709.1
+#	Sequence definition	Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	6
+1	263
+1	-44.670000
+1	<<<<<<<<<<<<____[[[[___>>>>>>>>------>>>>:]]]]<<<<<<<<____>>>>>>>>
+1	ccccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccggg
+2	264
+2	-41.410000
+2	<<<<<<<<<<<____[[[[___>>>>>>>>------>>>::]]]]<<<<<<<<____>>>>>>>>
+2	cccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccggg
+3	263
+3	-39.820000
+3	<<<<<<-<<<<<____[[[[___>>>>>->>------>>>>:]]]]<<<<<<<<____>>>>>>>>
+3	ccccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccggg
+4	265
+4	-38.150000
+4	<<<<<<<<<<____[[[[___>>>>>>>>------>>:::]]]]<<<<<<<<____>>>>>>>>
+4	ccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccggg
+5	264
+5	-36.560000
+5	<<<<<-<<<<<____[[[[___>>>>>->>------>>>::]]]]<<<<<<<<____>>>>>>>>
+5	cccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccggg
+6	265
+6	-33.300000
+6	<<<<-<<<<<____[[[[___>>>>>->>------>>:::]]]]<<<<<<<<____>>>>>>>>
+6	ccgcaccaugacaaggccgaacauggugcaccaaaggggaggcccccggaagcacgcuuccggg
+#	Sequence accession	AF331718.1
+#	Sequence definition	Alkhurma virus strain 1176 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	6
+1	169
+1	-41.370000
+1	<<<<<<<<<<____[[[[___>>>>>>>>>>:::::]]]]<<<<<<____>>>>>>
+1	agccucccagagagggccgaacugggagguuaugaaggccccuggcuuuggccagg
+2	170
+2	-40.820000
+2	<<<<<<<<<____[[[[___>>>>>>>>>::::::]]]]<<<<<<____>>>>>>
+2	gccucccagagagggccgaacugggagguuaugaaggccccuggcuuuggccagg
+3	171
+3	-38.770000
+3	<<<<<<<<____[[[[___>>>>>>>>:::::::]]]]<<<<<<____>>>>>>
+3	ccucccagagagggccgaacugggagguuaugaaggccccuggcuuuggccagg
+4	169
+4	-36.440000
+4	<<<<-<<<<<____[[[[___>>>>>->>>>:::::]]]]<<<<<<____>>>>>>
+4	agccucccagagagggccgaacugggagguuaugaaggccccuggcuuuggccagg
+5	169
+5	-34.560000
+5	<<<<<-<<<<____[[[[___>>>>->>>>>:::::]]]]<<<<<<____>>>>>>
+5	agccucccagagagggccgaacugggagguuaugaaggccccuggcuuuggccagg
+6	170
+6	-34.010000
+6	<<<<-<<<<____[[[[___>>>>->>>>::::::]]]]<<<<<<____>>>>>>
+6	gccucccagagagggccgaacugggagguuaugaaggccccuggcuuuggccagg
+#	Sequence accession	NC_003690.1
+#	Sequence definition	Langat virus, complete genome NCBI Reference Sequence
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	23
+1	341
+1	-45.820000
+1	<<<<<<<<<<<<____[[[[___>>>>>>>>--->>>>:]]]]<<<<<<<<____>>>>>>>>
+1	ccuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+2	341
+2	-42.906980
+2	<<<<<<<<<<<<____[[[[___>>>>>>>->>-->>>:]]]]<<<<<<<<____>>>>>>>>
+2	ccuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+3	342
+3	-42.560000
+3	<<<<<<<<<<<____[[[[___>>>>>>>>--->>>::]]]]<<<<<<<<____>>>>>>>>
+3	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+4	342
+4	-41.860000
+4	<<<<<<<<<<<____[[[[___>>>>>>>>---->>>:]]]]<<<<<<<<____>>>>>>>>
+4	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+5	342
+5	-41.510000
+5	<<<<<<<<<<<____[[[[___>>>>>>>--->>>>::]]]]<<<<<<<<____>>>>>>>>
+5	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+6	344
+6	-40.816980
+6	<<<<<<<<<____[[[[___>>>>>>>->>::::::]]]]<<<<<<<<____>>>>>>>>
+6	ugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+7	343
+7	-40.030000
+7	<<<<<<<<<<____[[[[___>>>>>>>>--->>:::]]]]<<<<<<<<____>>>>>>>>
+7	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+8	341
+8	-39.750000
+8	<<<<<<-<<<<<____[[[[___>>>>>->>--->>>>:]]]]<<<<<<<<____>>>>>>>>
+8	ccuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+9	342
+9	-39.646980
+9	<<<<<<<<<<<____[[[[___>>>>>>>->>-->>::]]]]<<<<<<<<____>>>>>>>>
+9	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+10	343
+10	-39.300000
+10	<<<<<<<<<<____[[[[___>>>>>>>>---->>::]]]]<<<<<<<<____>>>>>>>>
+10	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+11	342
+11	-39.276980
+11	<<<<<<<<<<<____[[[[___>>>>>>>->>--->>:]]]]<<<<<<<<____>>>>>>>>
+11	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+12	343
+12	-38.980000
+12	<<<<<<<<<<____[[[[___>>>>>>>--->>>:::]]]]<<<<<<<<____>>>>>>>>
+12	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+13	343
+13	-38.800000
+13	<<<<<<<<<<____[[[[___>>>>>>>>----->>:]]]]<<<<<<<<____>>>>>>>>
+13	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+14	344
+14	-38.050000
+14	<<<<<<<<<____[[[[___>>>>>>>--->>::::]]]]<<<<<<<<____>>>>>>>>
+14	ugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+15	342
+15	-37.000000
+15	<<<<<<-<<<<____[[[[___>>>>->>--->>>>::]]]]<<<<<<<<____>>>>>>>>
+15	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+16	342
+16	-36.490000
+16	<<<<<-<<<<<____[[[[___>>>>>->>--->>>::]]]]<<<<<<<<____>>>>>>>>
+16	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+17	344
+17	-36.306980
+17	<<<<-<<<<____[[[[___>>>>->>->>::::::]]]]<<<<<<<<____>>>>>>>>
+17	ugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+18	342
+18	-35.790000
+18	<<<<<-<<<<<____[[[[___>>>>>->>---->>>:]]]]<<<<<<<<____>>>>>>>>
+18	cuugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+19	343
+19	-34.470000
+19	<<<<<-<<<<____[[[[___>>>>->>--->>>:::]]]]<<<<<<<<____>>>>>>>>
+19	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+20	343
+20	-33.960000
+20	<<<<-<<<<<____[[[[___>>>>>->>--->>:::]]]]<<<<<<<<____>>>>>>>>
+20	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+21	344
+21	-33.540000
+21	<<<<-<<<<____[[[[___>>>>->>--->>::::]]]]<<<<<<<<____>>>>>>>>
+21	ugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+22	343
+22	-33.230000
+22	<<<<-<<<<<____[[[[___>>>>>->>---->>::]]]]<<<<<<<<____>>>>>>>>
+22	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+23	343
+23	-32.730000
+23	<<<<-<<<<<____[[[[___>>>>>->>----->>:]]]]<<<<<<<<____>>>>>>>>
+23	uugcguccagagaaggccgaacugggcguuauaaggaggcccccagggggaaaccccuggg
+#	Sequence accession	KT599442.1
+#	Sequence definition	Culiseta flavivirus strain 502-13, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_003687.1
+#	Sequence definition	Powassan virus, complete genome NCBI Reference Sequence
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	24
+1	484
+1	-38.770000
+1	<<<<<<<<<<__[[[[[_>>>>>>---->>>>::::::]]]]]<<<<<<_____>>>>>>
+1	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+2	484
+2	-38.040000
+2	<<<<<<<<<<__[[[[[_>>>>>>>---->>>::::::]]]]]<<<<<<_____>>>>>>
+2	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+3	484
+3	-36.420000
+3	<<<<<<<<<<__[[[[__>>>>>>---->>>>:::::::]]]]<<<<<<_____>>>>>>
+3	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+4	484
+4	-35.690000
+4	<<<<<<<<<<__[[[[__>>>>>>>---->>>:::::::]]]]<<<<<<_____>>>>>>
+4	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+5	485
+5	-35.510000
+5	<<<<<<<<<__[[[[[_>>>>>>---->>>:::::::]]]]]<<<<<<_____>>>>>>
+5	gccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+6	484
+6	-34.780000
+6	<<<<<<<<<___[[[[[__>>>>>>---->>>::::::]]]]]<<<<<<_____>>>>>>
+6	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+7	485
+7	-34.780000
+7	<<<<<<<<<__[[[[[_>>>>>>>---->>:::::::]]]]]<<<<<<_____>>>>>>
+7	gccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+8	484
+8	-32.430000
+8	<<<<<<<<<___[[[[___>>>>>>---->>>:::::::]]]]<<<<<<_____>>>>>>
+8	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+9	481
+9	-31.586980
+9	<<<<<-<<<<<<<__[[[[[_>>>>>>>>>------>>>::]]]]]<<<<<<_____>>>>>>
+9	aaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+10	485
+10	-31.520000
+10	<<<<<<<<___[[[[[__>>>>>>---->>:::::::]]]]]<<<<<<_____>>>>>>
+10	gccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+11	484
+11	-31.230000
+11	<<<<<-<<<<__[[[[[_>>>>->>---->>>::::::]]]]]<<<<<<_____>>>>>>
+11	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+12	482
+12	-30.656980
+12	<<<<-<<<<<<<__[[[[[_>>>>>>>>>------>>:::]]]]]<<<<<<_____>>>>>>
+12	aaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+13	481
+13	-29.236980
+13	<<<<<-<<<<<<<__[[[[__>>>>>>>>>------>>>:::]]]]<<<<<<_____>>>>>>
+13	aaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+14	484
+14	-28.880000
+14	<<<<<-<<<<__[[[[__>>>>->>---->>>:::::::]]]]<<<<<<_____>>>>>>
+14	ggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+15	481
+15	-28.326980
+15	<<<<<-<<<<<<___[[[[[__>>>>>>>>------>>>::]]]]]<<<<<<_____>>>>>>
+15	aaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+16	482
+16	-28.306980
+16	<<<<-<<<<<<<__[[[[__>>>>>>>>>------>>::::]]]]<<<<<<_____>>>>>>
+16	aaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+17	485
+17	-27.970000
+17	<<<<-<<<<__[[[[[_>>>>->>---->>:::::::]]]]]<<<<<<_____>>>>>>
+17	gccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+18	482
+18	-27.396980
+18	<<<<-<<<<<<___[[[[[__>>>>>>>>------>>:::]]]]]<<<<<<_____>>>>>>
+18	aaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+19	481
+19	-25.976980
+19	<<<<<-<<<<<<___[[[[___>>>>>>>>------>>>:::]]]]<<<<<<_____>>>>>>
+19	aaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+20	481
+20	-25.766980
+20	<<<<<-<<<<<____[[[[[___>>>>>>>------>>>::]]]]]<<<<<<_____>>>>>>
+20	aaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+21	482
+21	-25.046980
+21	<<<<-<<<<<<___[[[[___>>>>>>>>------>>::::]]]]<<<<<<_____>>>>>>
+21	aaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+22	482
+22	-24.836980
+22	<<<<-<<<<<____[[[[[___>>>>>>>------>>:::]]]]]<<<<<<_____>>>>>>
+22	aaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+23	481
+23	-23.416980
+23	<<<<<-<<<<<____[[[[____>>>>>>>------>>>:::]]]]<<<<<<_____>>>>>>
+23	aaaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+24	482
+24	-22.486980
+24	<<<<-<<<<<____[[[[____>>>>>>>------>>::::]]]]<<<<<<_____>>>>>>
+24	aaggccuccuggaaggcucaccaggaguuaggccguuuaggagcccccgagcauaacucggg
+#	Sequence accession	KT224355.1
+#	Sequence definition	Negishi virus strain Negishi polyprotein precursor, gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY193805.1
+#	Sequence definition	Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	12
+1	182
+1	-41.810000
+1	<<<<<<<<<<<___[[[[___>>>>>>>>----->>>:::]]]]<<<<<<<<____>>>>>>>>
+1	cccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+2	182
+2	-39.250000
+2	<<<<<<<<<<____[[[[____>>>>>>>----->>>:::]]]]<<<<<<<<____>>>>>>>>
+2	cccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+3	183
+3	-38.550000
+3	<<<<<<<<<<___[[[[___>>>>>>>>----->>::::]]]]<<<<<<<<____>>>>>>>>
+3	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+4	183
+4	-38.150000
+4	<<<<<<<<<<___[[[[___>>>>>>>>------>>:::]]]]<<<<<<<<____>>>>>>>>
+4	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+5	182
+5	-36.960000
+5	<<<<<-<<<<<___[[[[___>>>>>->>----->>>:::]]]]<<<<<<<<____>>>>>>>>
+5	cccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+6	183
+6	-35.990000
+6	<<<<<<<<<____[[[[____>>>>>>>----->>::::]]]]<<<<<<<<____>>>>>>>>
+6	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+7	183
+7	-35.590000
+7	<<<<<<<<<____[[[[____>>>>>>>------>>:::]]]]<<<<<<<<____>>>>>>>>
+7	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+8	182
+8	-34.400000
+8	<<<<<-<<<<____[[[[____>>>>->>----->>>:::]]]]<<<<<<<<____>>>>>>>>
+8	cccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+9	183
+9	-33.700000
+9	<<<<-<<<<<___[[[[___>>>>>->>----->>::::]]]]<<<<<<<<____>>>>>>>>
+9	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+10	183
+10	-33.300000
+10	<<<<-<<<<<___[[[[___>>>>>->>------>>:::]]]]<<<<<<<<____>>>>>>>>
+10	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+11	183
+11	-31.140000
+11	<<<<-<<<<____[[[[____>>>>->>----->>::::]]]]<<<<<<<<____>>>>>>>>
+11	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+12	183
+12	-30.740000
+12	<<<<-<<<<____[[[[____>>>>->>------>>:::]]]]<<<<<<<<____>>>>>>>>
+12	ccgcaccauggaaggccaaacauggugcaugaagggaaaggcccccggaagcuugcuuccggg
+#	Sequence accession	KP716974.1
+#	Sequence definition	Tick-borne encephalitis virus clone Hypr_IC, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	12
+1	494
+1	-43.690000
+1	<<<<<<<<<<<<<____[[[[___>>>>>>>>>------>>>>:]]]]<<<<<<<<____>>>>>>>>
+1	ccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+2	495
+2	-40.430000
+2	<<<<<<<<<<<<____[[[[___>>>>>>>>>------>>>::]]]]<<<<<<<<____>>>>>>>>
+2	cccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+3	495
+3	-40.400000
+3	<<<<<<<<<<<<____[[[[___>>>>>>>>------>>>>::]]]]<<<<<<<<____>>>>>>>>
+3	cccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+4	496
+4	-37.170000
+4	<<<<<<<<<<<____[[[[___>>>>>>>>>------>>:::]]]]<<<<<<<<____>>>>>>>>
+4	ccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+5	496
+5	-37.140000
+5	<<<<<<<<<<<____[[[[___>>>>>>>>------>>>:::]]]]<<<<<<<<____>>>>>>>>
+5	ccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+6	494
+6	-36.960000
+6	<<<<<<-<<<<<<____[[[[___>>>>>>->>------>>>>:]]]]<<<<<<<<____>>>>>>>>
+6	ccccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+7	495
+7	-35.730000
+7	<<<<<<-<<<<<____[[[[___>>>>>->>------>>>>::]]]]<<<<<<<<____>>>>>>>>
+7	cccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+8	497
+8	-33.880000
+8	<<<<<<<<<<____[[[[___>>>>>>>>------>>::::]]]]<<<<<<<<____>>>>>>>>
+8	cugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+9	495
+9	-33.700000
+9	<<<<<-<<<<<<____[[[[___>>>>>>->>------>>>::]]]]<<<<<<<<____>>>>>>>>
+9	cccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+10	496
+10	-32.470000
+10	<<<<<-<<<<<____[[[[___>>>>>->>------>>>:::]]]]<<<<<<<<____>>>>>>>>
+10	ccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+11	496
+11	-30.440000
+11	<<<<-<<<<<<____[[[[___>>>>>>->>------>>:::]]]]<<<<<<<<____>>>>>>>>
+11	ccugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+12	497
+12	-29.210000
+12	<<<<-<<<<<____[[[[___>>>>>->>------>>::::]]]]<<<<<<<<____>>>>>>>>
+12	cugcaucaugauaaggccgaacauggugcaugaaaaggggaggcccccggaagcacgcuuccggg
+#	Sequence accession	NC_001809.1
+#	Sequence definition	Louping ill virus, complete genome NCBI Reference Sequence
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	2
+1	268
+1	-36.760000
+1	<<<<<-<<<<<____[[[[___>>>>>->>------>>>:]]]]<<<<<<<<____>>>>>>>>
+1	cccgccccaugacaaggccgaacauggagcauuaaagggaggcccccggaagcaugcuuccggg
+2	269
+2	-33.500000
+2	<<<<-<<<<<____[[[[___>>>>>->>------>>::]]]]<<<<<<<<____>>>>>>>>
+2	ccgccccaugacaaggccgaacauggagcauuaaagggaggcccccggaagcaugcuuccggg
+#	Sequence accession	JX498940.1
+#	Sequence definition	Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	6
+1	289
+1	-44.170000
+1	<<<<<<<<<<<<____[[[[___>>>>>>>>----->>>>:]]]]<<<<<<<<____>>>>>>>>
+1	cccggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccggg
+2	290
+2	-40.910000
+2	<<<<<<<<<<<____[[[[___>>>>>>>>----->>>::]]]]<<<<<<<<____>>>>>>>>
+2	ccggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccggg
+3	289
+3	-39.320000
+3	<<<<<<-<<<<<____[[[[___>>>>>->>----->>>>:]]]]<<<<<<<<____>>>>>>>>
+3	cccggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccggg
+4	291
+4	-37.650000
+4	<<<<<<<<<<____[[[[___>>>>>>>>----->>:::]]]]<<<<<<<<____>>>>>>>>
+4	cggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccggg
+5	290
+5	-36.060000
+5	<<<<<-<<<<<____[[[[___>>>>>->>----->>>::]]]]<<<<<<<<____>>>>>>>>
+5	ccggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccggg
+6	291
+6	-32.800000
+6	<<<<-<<<<<____[[[[___>>>>>->>----->>:::]]]]<<<<<<<<____>>>>>>>>
+6	cggcaccaugacaaggccgaacauggugcaagaacgggaggcccccggaagcaugcuuccggg
+#	Sequence accession	NC_023424.1
+#	Sequence definition	Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MK473877
+#	Sequence definition	Gammarus chevreuxi flavivirus isolate 100_1, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	L40361.3
+#	Sequence definition	Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	50
+1	320
+1	-45.080000
+1	<<<<<<<<<<<<<____[[[[___>>>>>>>>>---->>>>:]]]]<<<<<<<<____>>>>>>>>
+1	ccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+2	321
+2	-43.900000
+2	<<<<<<<<<<<<____[[[[[__>>>>>>>>>---->>>:]]]]]<<<<<<<<____>>>>>>>>
+2	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+3	321
+3	-43.870000
+3	<<<<<<<<<<<<____[[[[[__>>>>>>>>---->>>>:]]]]]<<<<<<<<____>>>>>>>>
+3	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+4	321
+4	-41.820000
+4	<<<<<<<<<<<<____[[[[___>>>>>>>>>---->>>::]]]]<<<<<<<<____>>>>>>>>
+4	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+5	321
+5	-41.790000
+5	<<<<<<<<<<<<____[[[[___>>>>>>>>---->>>>::]]]]<<<<<<<<____>>>>>>>>
+5	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+6	321
+6	-41.420000
+6	<<<<<<<<<<<<____[[[[___>>>>>>>>>----->>>:]]]]<<<<<<<<____>>>>>>>>
+6	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+7	321
+7	-41.420000
+7	<<<<<<<<<<<<____[[[[___>>>>>>>>----->>>>:]]]]<<<<<<<<____>>>>>>>>
+7	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+8	322
+8	-40.640000
+8	<<<<<<<<<<<____[[[[[__>>>>>>>>>---->>::]]]]]<<<<<<<<____>>>>>>>>
+8	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+9	322
+9	-40.610000
+9	<<<<<<<<<<<____[[[[[__>>>>>>>>---->>>::]]]]]<<<<<<<<____>>>>>>>>
+9	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+10	322
+10	-40.240000
+10	<<<<<<<<<<<____[[[[[__>>>>>>>>>----->>:]]]]]<<<<<<<<____>>>>>>>>
+10	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+11	322
+11	-40.240000
+11	<<<<<<<<<<<____[[[[[__>>>>>>>>----->>>:]]]]]<<<<<<<<____>>>>>>>>
+11	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+12	321
+12	-39.460000
+12	<<<<<<-<<<<<____[[[[[__>>>>>->>---->>>>:]]]]]<<<<<<<<____>>>>>>>>
+12	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+13	322
+13	-38.560000
+13	<<<<<<<<<<<____[[[[___>>>>>>>>>---->>:::]]]]<<<<<<<<____>>>>>>>>
+13	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+14	322
+14	-38.530000
+14	<<<<<<<<<<<____[[[[___>>>>>>>>---->>>:::]]]]<<<<<<<<____>>>>>>>>
+14	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+15	320
+15	-38.350000
+15	<<<<<<-<<<<<<____[[[[___>>>>>>->>---->>>>:]]]]<<<<<<<<____>>>>>>>>
+15	ccccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+16	322
+16	-38.160000
+16	<<<<<<<<<<<____[[[[___>>>>>>>>>----->>::]]]]<<<<<<<<____>>>>>>>>
+16	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+17	322
+17	-38.160000
+17	<<<<<<<<<<<____[[[[___>>>>>>>>----->>>::]]]]<<<<<<<<____>>>>>>>>
+17	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+18	322
+18	-37.760000
+18	<<<<<<<<<<<____[[[[___>>>>>>>>>------>>:]]]]<<<<<<<<____>>>>>>>>
+18	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+19	322
+19	-37.760000
+19	<<<<<<<<<<<____[[[[___>>>>>>>>------>>>:]]]]<<<<<<<<____>>>>>>>>
+19	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+20	321
+20	-37.380000
+20	<<<<<<-<<<<<____[[[[___>>>>>->>---->>>>::]]]]<<<<<<<<____>>>>>>>>
+20	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+21	323
+21	-37.350000
+21	<<<<<<<<<<____[[[[[__>>>>>>>>---->>:::]]]]]<<<<<<<<____>>>>>>>>
+21	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+22	321
+22	-37.170000
+22	<<<<<-<<<<<<____[[[[[__>>>>>>->>---->>>:]]]]]<<<<<<<<____>>>>>>>>
+22	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+23	321
+23	-37.010000
+23	<<<<<<-<<<<<____[[[[___>>>>>->>----->>>>:]]]]<<<<<<<<____>>>>>>>>
+23	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+24	323
+24	-36.980000
+24	<<<<<<<<<<____[[[[[__>>>>>>>>----->>::]]]]]<<<<<<<<____>>>>>>>>
+24	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+25	323
+25	-36.580000
+25	<<<<<<<<<<____[[[[[__>>>>>>>>------>>:]]]]]<<<<<<<<____>>>>>>>>
+25	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+26	322
+26	-36.200000
+26	<<<<<-<<<<<____[[[[[__>>>>>->>---->>>::]]]]]<<<<<<<<____>>>>>>>>
+26	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+27	322
+27	-35.830000
+27	<<<<<-<<<<<____[[[[[__>>>>>->>----->>>:]]]]]<<<<<<<<____>>>>>>>>
+27	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+28	323
+28	-35.270000
+28	<<<<<<<<<<____[[[[___>>>>>>>>---->>::::]]]]<<<<<<<<____>>>>>>>>
+28	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+29	321
+29	-35.090000
+29	<<<<<-<<<<<<____[[[[___>>>>>>->>---->>>::]]]]<<<<<<<<____>>>>>>>>
+29	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+30	323
+30	-34.900000
+30	<<<<<<<<<<____[[[[___>>>>>>>>----->>:::]]]]<<<<<<<<____>>>>>>>>
+30	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+31	321
+31	-34.690000
+31	<<<<<-<<<<<<____[[[[___>>>>>>->>----->>>:]]]]<<<<<<<<____>>>>>>>>
+31	cccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+32	323
+32	-34.500000
+32	<<<<<<<<<<____[[[[___>>>>>>>>------>>::]]]]<<<<<<<<____>>>>>>>>
+32	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+33	322
+33	-34.120000
+33	<<<<<-<<<<<____[[[[___>>>>>->>---->>>:::]]]]<<<<<<<<____>>>>>>>>
+33	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+34	324
+34	-34.060000
+34	<<<<<<<<<____[[[[[__>>>>>>>-->>::::::]]]]]<<<<<<<<____>>>>>>>>
+34	ugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+35	322
+35	-33.910000
+35	<<<<-<<<<<<____[[[[[__>>>>>>->>---->>::]]]]]<<<<<<<<____>>>>>>>>
+35	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+36	322
+36	-33.750000
+36	<<<<<-<<<<<____[[[[___>>>>>->>----->>>::]]]]<<<<<<<<____>>>>>>>>
+36	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+37	322
+37	-33.510000
+37	<<<<-<<<<<<____[[[[[__>>>>>>->>----->>:]]]]]<<<<<<<<____>>>>>>>>
+37	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+38	322
+38	-33.350000
+38	<<<<<-<<<<<____[[[[___>>>>>->>------>>>:]]]]<<<<<<<<____>>>>>>>>
+38	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+39	323
+39	-32.940000
+39	<<<<-<<<<<____[[[[[__>>>>>->>---->>:::]]]]]<<<<<<<<____>>>>>>>>
+39	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+40	323
+40	-32.570000
+40	<<<<-<<<<<____[[[[[__>>>>>->>----->>::]]]]]<<<<<<<<____>>>>>>>>
+40	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+41	323
+41	-32.170000
+41	<<<<-<<<<<____[[[[[__>>>>>->>------>>:]]]]]<<<<<<<<____>>>>>>>>
+41	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+42	324
+42	-31.980000
+42	<<<<<<<<<____[[[[___>>>>>>>-->>:::::::]]]]<<<<<<<<____>>>>>>>>
+42	ugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+43	322
+43	-31.830000
+43	<<<<-<<<<<<____[[[[___>>>>>>->>---->>:::]]]]<<<<<<<<____>>>>>>>>
+43	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+44	322
+44	-31.430000
+44	<<<<-<<<<<<____[[[[___>>>>>>->>----->>::]]]]<<<<<<<<____>>>>>>>>
+44	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+45	322
+45	-31.030000
+45	<<<<-<<<<<<____[[[[___>>>>>>->>------>>:]]]]<<<<<<<<____>>>>>>>>
+45	ccugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+46	323
+46	-30.860000
+46	<<<<-<<<<<____[[[[___>>>>>->>---->>::::]]]]<<<<<<<<____>>>>>>>>
+46	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+47	323
+47	-30.490000
+47	<<<<-<<<<<____[[[[___>>>>>->>----->>:::]]]]<<<<<<<<____>>>>>>>>
+47	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+48	323
+48	-30.090000
+48	<<<<-<<<<<____[[[[___>>>>>->>------>>::]]]]<<<<<<<<____>>>>>>>>
+48	cugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+49	324
+49	-29.410000
+49	<<<<-<<<<____[[[[[__>>>>->>-->>::::::]]]]]<<<<<<<<____>>>>>>>>
+49	ugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+50	324
+50	-27.330000
+50	<<<<-<<<<____[[[[___>>>>->>-->>:::::::]]]]<<<<<<<<____>>>>>>>>
+50	ugcaucaugacaaggccuaacaugaugcacgaaggggaggcccccggaagcaugcuuccggg
+#	Sequence accession	MK473878.1
+#	Sequence definition	Crangon crangon flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001672.1
+#	Sequence definition	Tick-borne encephalitis virus, complete genome (Neudoerfl)
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	22
+1	533
+1	-44.090000
+1	<<<<<<<<<<<<<____[[[[___>>>>>>>>>----->>>>:]]]]<<<<<<<<____>>>>>>>>
+1	ccccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+2	534
+2	-40.830000
+2	<<<<<<<<<<<<____[[[[___>>>>>>>>>----->>>::]]]]<<<<<<<<____>>>>>>>>
+2	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+3	534
+3	-40.800000
+3	<<<<<<<<<<<<____[[[[___>>>>>>>>----->>>>::]]]]<<<<<<<<____>>>>>>>>
+3	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+4	534
+4	-40.430000
+4	<<<<<<<<<<<<____[[[[___>>>>>>>>>------>>>:]]]]<<<<<<<<____>>>>>>>>
+4	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+5	534
+5	-40.430000
+5	<<<<<<<<<<<<____[[[[___>>>>>>>>------>>>>:]]]]<<<<<<<<____>>>>>>>>
+5	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+6	535
+6	-37.570000
+6	<<<<<<<<<<<____[[[[___>>>>>>>>>----->>:::]]]]<<<<<<<<____>>>>>>>>
+6	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+7	535
+7	-37.540000
+7	<<<<<<<<<<<____[[[[___>>>>>>>>----->>>:::]]]]<<<<<<<<____>>>>>>>>
+7	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+8	533
+8	-37.360000
+8	<<<<<<-<<<<<<____[[[[___>>>>>>->>----->>>>:]]]]<<<<<<<<____>>>>>>>>
+8	ccccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+9	535
+9	-37.170000
+9	<<<<<<<<<<<____[[[[___>>>>>>>>>------>>::]]]]<<<<<<<<____>>>>>>>>
+9	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+10	535
+10	-37.170000
+10	<<<<<<<<<<<____[[[[___>>>>>>>>------>>>::]]]]<<<<<<<<____>>>>>>>>
+10	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+11	534
+11	-36.130000
+11	<<<<<<-<<<<<____[[[[___>>>>>->>----->>>>::]]]]<<<<<<<<____>>>>>>>>
+11	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+12	534
+12	-35.760000
+12	<<<<<<-<<<<<____[[[[___>>>>>->>------>>>>:]]]]<<<<<<<<____>>>>>>>>
+12	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+13	536
+13	-34.280000
+13	<<<<<<<<<<____[[[[___>>>>>>>>----->>::::]]]]<<<<<<<<____>>>>>>>>
+13	cugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+14	534
+14	-34.100000
+14	<<<<<-<<<<<<____[[[[___>>>>>>->>----->>>::]]]]<<<<<<<<____>>>>>>>>
+14	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+15	536
+15	-33.910000
+15	<<<<<<<<<<____[[[[___>>>>>>>>------>>:::]]]]<<<<<<<<____>>>>>>>>
+15	cugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+16	534
+16	-33.700000
+16	<<<<<-<<<<<<____[[[[___>>>>>>->>------>>>:]]]]<<<<<<<<____>>>>>>>>
+16	cccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+17	535
+17	-32.870000
+17	<<<<<-<<<<<____[[[[___>>>>>->>----->>>:::]]]]<<<<<<<<____>>>>>>>>
+17	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+18	535
+18	-32.500000
+18	<<<<<-<<<<<____[[[[___>>>>>->>------>>>::]]]]<<<<<<<<____>>>>>>>>
+18	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+19	535
+19	-30.840000
+19	<<<<-<<<<<<____[[[[___>>>>>>->>----->>:::]]]]<<<<<<<<____>>>>>>>>
+19	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+20	535
+20	-30.440000
+20	<<<<-<<<<<<____[[[[___>>>>>>->>------>>::]]]]<<<<<<<<____>>>>>>>>
+20	ccugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+21	536
+21	-29.610000
+21	<<<<-<<<<<____[[[[___>>>>>->>----->>::::]]]]<<<<<<<<____>>>>>>>>
+21	cugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+22	536
+22	-29.240000
+22	<<<<-<<<<<____[[[[___>>>>>->>------>>:::]]]]<<<<<<<<____>>>>>>>>
+22	cugcaucaugauaaggccgaacauggugcaugaaaggggaggcccccggaagcacgcuuccggg
+#	Sequence accession	MH188006
+#	Sequence definition	Culex flavivirus strain CFV/San Francisco, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_040555.1
+#	Sequence definition	Lumpfish flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MF776369.1
+#	Sequence definition	Cyclopterus lumpus virus isolate R170217-6L polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_005064.1
+#	Sequence definition	Kamiti River virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473881.1
+#	Sequence definition	Gammarus pulex flavivirus isolate GPCM, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473875.1
+#	Sequence definition	Southern pygmy squid flavivirus isolate 201405, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473876.1
+#	Sequence definition	Wenzhou shark flavivirus isolate InM PrM PoM polyprotein-like gene, complete sequence
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AF346759.1
+#	Sequence definition	Tamana bat virus, complete genome
+#	CSSD name	Tick-borne flaviviruses 3' GC-SL
+#	Job status	100% complete
+#	Hit count	0

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="StructureSearchRun">
+  <name>Covid_structure</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate>
+    <begin>2022-01-31 15:44:00</begin>
+    <end>2022-01-31 15:44:03</end>
+  </searchDate>
+  <resultsDisplayColumnList>
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+</search>
+

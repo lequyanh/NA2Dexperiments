@@ -1,0 +1,477 @@
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"-----......","enRel":"18.02","enAbs":"-18.20","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"377"}
+uauuuagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggc
+......((....))..((((((((((((.........))))))...(((....)))))))))
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"-----......-","enRel":"20.00","enAbs":"-20.20","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"379"}
+uuuagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuu
+....((....)).(((((((((((((.........))))))...(((....)))))))))).
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"379"}
+uuuagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuu
+.............(((((((((((((.........))))))...(((....)))))))))).
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"-----......-","enRel":"18.80","enAbs":"-19.00","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"379"}
+uuuagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuu
+....((....))..((((((((((((.........))))))...(((....)))))))))..
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......","enRel":"17.82","enAbs":"-18.00","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"377"}
+uauuuagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggc
+................((((((((((((.........))))))...(((....)))))))))
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"379"}
+uuuagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuu
+..............((((((((((((.........))))))...(((....)))))))))..
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"-----......-","enRel":"20.00","enAbs":"-20.20","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"381"}
+uagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuua
+..((....)).(((((((((((((.........))))))...(((....))))))))))...
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"381"}
+uagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuua
+...........(((((((((((((.........))))))...(((....))))))))))...
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"----......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"383"}
+gcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaau
+((....)).(((((((((((((.........))))))...(((....)))))))))).....
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"383"}
+gcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaau
+.........(((((((((((((.........))))))...(((....)))))))))).....
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"-----......-","enRel":"18.80","enAbs":"-19.00","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"381"}
+uagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuua
+..((....))..((((((((((((.........))))))...(((....)))))))))....
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"381"}
+uagcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuua
+............((((((((((((.........))))))...(((....)))))))))....
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"383"}
+gcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaau
+..........((((((((((((.........))))))...(((....)))))))))......
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"----......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"383"}
+gcucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaau
+((....))..((((((((((((.........))))))...(((....)))))))))......
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"385"}
+ucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauuc
+.......(((((((((((((.........))))))...(((....)))))))))).......
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"385"}
+ucucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauuc
+........((((((((((((.........))))))...(((....)))))))))........
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"387"}
+ucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauucuu
+......((((((((((((.........))))))...(((....)))))))))..........
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"387"}
+ucgccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauucuu
+.....(((((((((((((.........))))))...(((....)))))))))).........
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"389"}
+gccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauucuuca
+...(((((((((((((.........))))))...(((....))))))))))...........
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"389"}
+gccagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauucuuca
+....((((((((((((.........))))))...(((....)))))))))............
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"19.80","enAbs":"-20.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"391"}
+cagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauucuucaaa
+.(((((((((((((.........))))))...(((....)))))))))).............
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"--......-","enRel":"18.60","enAbs":"-18.80","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"391"}
+cagccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauucuucaaa
+..((((((((((((.........))))))...(((....)))))))))..............
+>AF452050.1 NKV|Apoi virus 3' untranslated region, partial sequence|{"mask":"-......-","enRel":"18.81","enAbs":"-19.00","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"62","bnStart":"393"}
+gccgugacggucaauuggcccgaccguauaguguuuucaccacggcuuuaauucuucaaauu
+((((((((((((.........))))))...(((....)))))))))................
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.......-","enRel":"21.57","enAbs":"-21.80","score":"-9.0","database":"Flavivi_3UTRs.fa","dbPos":"63","bnStart":"203"}
+gggcaacacagggagugguucaauuggccagaaccgcucuggcguuugccuccuguuauuuu
+.......((((((((((((((.........))))))))).(((....))).)))))......
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.......-","enRel":"21.58","enAbs":"-21.80","score":"-9.0","database":"Flavivi_3UTRs.fa","dbPos":"63","bnStart":"207"}
+aacacagggagugguucaauuggccagaaccgcucuggcguuugccuccuguuauuuuccaa
+...((((((((((((((.........))))))))).(((....))).)))))..........
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.......-","enRel":"21.58","enAbs":"-21.80","score":"-9.0","database":"Flavivi_3UTRs.fa","dbPos":"63","bnStart":"205"}
+gcaacacagggagugguucaauuggccagaaccgcucuggcguuugccuccuguuauuuucc
+.....((((((((((((((.........))))))))).(((....))).)))))........
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.......-","enRel":"21.58","enAbs":"-21.80","score":"-9.0","database":"Flavivi_3UTRs.fa","dbPos":"63","bnStart":"209"}
+cacagggagugguucaauuggccagaaccgcucuggcguuugccuccuguuauuuuccaaau
+.((((((((((((((.........))))))))).(((....))).)))))............
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......-","enRel":"22.07","enAbs":"-22.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"287"}
+ggcuagaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcg
+..............(((((((((((((...........)))))))).((....)).))))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.......-","enRel":"21.87","enAbs":"-22.10","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"287"}
+ggcuagaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcg
+((......))....(((((((((((((...........)))))))).((....)).))))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.....-","enRel":"22.97","enAbs":"-23.20","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"287"}
+ggcuagaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcg
+((.......))...(((((((((((((...........))))))))(((....)))))))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.....-","enRel":"23.07","enAbs":"-23.30","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"287"}
+ggcuagaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcg
+((......))....(((((((((((((...........))))))))(((....)))))))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.....-","enRel":"23.27","enAbs":"-23.50","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"287"}
+ggcuagaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcg
+..............(((((((((((((...........))))))))(((....)))))))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.....-","enRel":"23.27","enAbs":"-23.50","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"289"}
+cuagaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguu
+............(((((((((((((...........))))))))(((....))))))))...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......-","enRel":"22.07","enAbs":"-22.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"289"}
+cuagaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguu
+............(((((((((((((...........)))))))).((....)).)))))...
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.....-","enRel":"22.47","enAbs":"-22.70","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"291"}
+agaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuu
+.((((.....(((((((((((((...........))))))))(((....)))))))))))).
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"---.....","enRel":"22.37","enAbs":"-22.60","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"291"}
+agaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuu
+(((((.....(((((((((((((...........))))))))(((....)))))))))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.....-","enRel":"23.27","enAbs":"-23.50","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"291"}
+agaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuu
+..........(((((((((((((...........))))))))(((....)))))))).....
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......-","enRel":"22.07","enAbs":"-22.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"291"}
+agaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuu
+..........(((((((((((((...........)))))))).((....)).))))).....
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.....--","enRel":"21.97","enAbs":"-22.20","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"291"}
+agaacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuu
+.......(..(((((((((((((...........))))))))(((....))))))))..)..
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.....--","enRel":"21.97","enAbs":"-22.20","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"293"}
+aacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuuc
+.....(..(((((((((((((...........))))))))(((....))))))))..)....
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......-","enRel":"22.07","enAbs":"-22.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"293"}
+aacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuuc
+........(((((((((((((...........)))))))).((....)).))))).......
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.....-","enRel":"23.27","enAbs":"-23.50","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"293"}
+aacccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuuc
+........(((((((((((((...........))))))))(((....)))))))).......
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.....--","enRel":"21.97","enAbs":"-22.20","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"295"}
+cccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaa
+...(..(((((((((((((...........))))))))(((....))))))))..)......
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......-","enRel":"22.07","enAbs":"-22.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"295"}
+cccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaa
+......(((((((((((((...........)))))))).((....)).))))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"----.....--","enRel":"21.97","enAbs":"-22.20","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"297"}
+cauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaaau
+.(..(((((((((((((...........))))))))(((....))))))))..)........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.....-","enRel":"23.27","enAbs":"-23.50","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"295"}
+cccauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaa
+......(((((((((((((...........))))))))(((....)))))))).........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.....-","enRel":"23.27","enAbs":"-23.50","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"297"}
+cauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaaau
+....(((((((((((((...........))))))))(((....))))))))...........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......-","enRel":"22.07","enAbs":"-22.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"297"}
+cauagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaaau
+....(((((((((((((...........)))))))).((....)).)))))...........
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.....-","enRel":"23.27","enAbs":"-23.50","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"299"}
+uagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaaauug
+..(((((((((((((...........))))))))(((....)))))))).............
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--.......-","enRel":"22.07","enAbs":"-22.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"299"}
+uagcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaaauug
+..(((((((((((((...........)))))))).((....)).))))).............
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"-.....-","enRel":"23.56","enAbs":"-23.80","score":"-32.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"301"}
+gcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaaauugcc
+(((((((((((((...........))))))))(((....))))))))...............
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"-.......-","enRel":"22.36","enAbs":"-22.60","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"64","bnStart":"301"}
+gcgggggugaaccacauuggcuaagguucaccagcuuuugcucccgcguuuuucaaauugcc
+(((((((((((((...........)))))))).((....)).)))))...............
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.97","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"317"}
+ugagccuaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcg
+................((((((((((((((........)))))))))((....)).))))).
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......","enRel":"21.08","enAbs":"-21.30","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"319"}
+agccuaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguu
+.........(((..((((((((((((((........)))))))))((....)).))))))))
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.98","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"319"}
+agccuaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguu
+..............((((((((((((((........)))))))))((....)).)))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......-","enRel":"21.88","enAbs":"-22.10","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"321"}
+ccuaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuu
+......((((..((((((((((((((........)))))))))((....)).))))))))).
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.98","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"321"}
+ccuaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuu
+............((((((((((((((........)))))))))((....)).))))).....
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......-","enRel":"21.48","enAbs":"-21.70","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"321"}
+ccuaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuu
+.......(((..((((((((((((((........)))))))))((....)).))))))))..
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......-","enRel":"21.88","enAbs":"-22.10","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"323"}
+uaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuuc
+....((((..((((((((((((((........)))))))))((....)).)))))))))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......--","enRel":"20.78","enAbs":"-21.00","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"323"}
+uaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuuc
+....(((...((((((((((((((........)))))))))((....)).)))))...))).
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.98","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"323"}
+uaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuuc
+..........((((((((((((((........)))))))))((....)).))))).......
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-----......--","enRel":"21.38","enAbs":"-21.60","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+(.((((..((((((((((((((........)))))))))((....)).)))))))))..)..
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-----......---","enRel":"20.78","enAbs":"-21.00","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+(.(((...((((((((((((((........)))))))))((....)).)))))..))).)..
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......-","enRel":"21.48","enAbs":"-21.70","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"323"}
+uaguagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuuc
+.....(((..((((((((((((((........)))))))))((....)).))))))))....
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......--","enRel":"21.28","enAbs":"-21.50","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+...((...((((((((((((((........)))))))))((....)).))))).....))..
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......-","enRel":"21.88","enAbs":"-22.10","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+..((((..((((((((((((((........)))))))))((....)).))))))))).....
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-----......--","enRel":"21.08","enAbs":"-21.30","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+(.(((...((((((((((((((........)))))))))((....)).)))))...))))..
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......-","enRel":"21.48","enAbs":"-21.70","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+...(((..((((((((((((((........)))))))))((....)).))))))))......
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......--","enRel":"20.78","enAbs":"-21.00","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+..(((...((((((((((((((........)))))))))((....)).)))))...)))...
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.98","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"325"}
+guagacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaa
+........((((((((((((((........)))))))))((....)).))))).........
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......--","enRel":"21.28","enAbs":"-21.50","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"327"}
+agacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaaau
+.((...((((((((((((((........)))))))))((....)).))))).....))....
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"---......-","enRel":"21.48","enAbs":"-21.70","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"327"}
+agacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaaau
+((((..((((((((((((((........)))))))))((....)).))))))))).......
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.98","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"327"}
+agacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaaau
+......((((((((((((((........)))))))))((....)).)))))...........
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"----......-","enRel":"21.48","enAbs":"-21.70","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"327"}
+agacaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaaau
+.(((..((((((((((((((........)))))))))((....)).))))))))........
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.98","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"329"}
+acaagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaaauua
+....((((((((((((((........)))))))))((....)).))))).............
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"--......-","enRel":"21.98","enAbs":"-22.20","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"331"}
+aagcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaaauuacc
+..((((((((((((((........)))))))))((....)).)))))...............
+>JQ582840.1 NKV|Rio Bravo virus strain M64, complete genome|{"mask":"-......-","enRel":"22.28","enAbs":"-22.50","score":"-26.0","database":"Flavivi_3UTRs.fa","dbPos":"65","bnStart":"333"}
+gcggggaagcaggaaauuggcauucugcuucgcuguugcucccgcguuuuucaaauuaccca
+((((((((((((((........)))))))))((....)).))))).................
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"----......","enRel":"27.31","enAbs":"-27.60","score":"-7.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"211"}
+uggcuuuggccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccc
+((((....))))...((((((((((((((........))))))))).(((....))))))))
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"----.......","enRel":"27.02","enAbs":"-27.30","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"213"}
+gcuuuggccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccu
+((....))....(((((((((((((((........))))))))).(((....))).))))))
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"215"}
+uuuggccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuac
+..........(((((((((((((((........))))))))).(((....))).))))))..
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"217"}
+uggccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaa
+........(((((((((((((((........))))))))).(((....))).))))))....
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"219"}
+gccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacu
+......(((((((((((((((........))))))))).(((....))).))))))......
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"221"}
+caggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaa
+....(((((((((((((((........))))))))).(((....))).))))))........
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"---.......--","enRel":"27.11","enAbs":"-27.40","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"223"}
+ggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaaau
+(.(((((((((((((((........))))))))).(((....))).)))))).)........
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"-.......-","enRel":"26.82","enAbs":"-27.10","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"225"}
+aggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaaauuu
+(((((((((((((((........))))))))).(((....))).))))))............
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"223"}
+ggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaaau
+..(((((((((((((((........))))))))).(((....))).))))))..........
+>AF331718.1 TBFV|Alkhurma virus strain 1176 polyprotein gene, complete cds|{"mask":"-......-","enRel":"22.26","enAbs":"-22.50","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"68","bnStart":"227"}
+gggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaaauuucc
+(((((((((((((........)))))))...(((....)))))))))...............
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......","enRel":"21.68","enAbs":"-21.90","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"301"}
+ggcauaacucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccucc
+..............(((((((((((((..........)))))))).(((....))).)))))
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"22.96","enAbs":"-23.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"303"}
+cauaacucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccua
+...........(((((((((((((............))))))).(((....))).)))))).
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"22.96","enAbs":"-23.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"305"}
+uaacucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuaua
+.........(((((((((((((............))))))).(((....))).))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"24.16","enAbs":"-24.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"303"}
+cauaacucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccua
+...........((((((((((((((..........)))))))).(((....))).)))))).
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"24.16","enAbs":"-24.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"305"}
+uaacucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuaua
+.........((((((((((((((..........)))))))).(((....))).))))))...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"22.96","enAbs":"-23.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"307"}
+acucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacu
+.......(((((((((((((............))))))).(((....))).)))))).....
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"----.......--","enRel":"23.36","enAbs":"-23.60","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"307"}
+acucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacu
+....(..((((((((((((((..........)))))))).(((....))).))))))...).
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"24.16","enAbs":"-24.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"307"}
+acucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacu
+.......((((((((((((((..........)))))))).(((....))).)))))).....
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"----.......--","enRel":"23.36","enAbs":"-23.60","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"309"}
+ucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaa
+..(..((((((((((((((..........)))))))).(((....))).))))))...)...
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"22.96","enAbs":"-23.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"309"}
+ucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaa
+.....(((((((((((((............))))))).(((....))).)))))).......
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"----.......--","enRel":"22.96","enAbs":"-23.20","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"309"}
+ucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaa
+..((.((((((((((((((..........)))))))).(((....))).))))))...))..
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"---.......--","enRel":"22.86","enAbs":"-23.10","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"311"}
+gggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaau
+((.((((((((((((((..........)))))))).(((....))).))))))...))....
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"24.16","enAbs":"-24.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"309"}
+ucgggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaa
+.....((((((((((((((..........)))))))).(((....))).)))))).......
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"22.96","enAbs":"-23.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"311"}
+gggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaau
+...(((((((((((((............))))))).(((....))).)))))).........
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"---.......--","enRel":"23.16","enAbs":"-23.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"311"}
+gggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaau
+(..((((((((((((((..........)))))))).(((....))).))))))...).....
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"24.16","enAbs":"-24.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"311"}
+gggaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaau
+...((((((((((((((..........)))))))).(((....))).)))))).........
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"24.16","enAbs":"-24.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"313"}
+gaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaauuu
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-.......-","enRel":"21.47","enAbs":"-21.70","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"315"}
+ggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaauuucc
+((((((((((((............))))))).(((....))).)))))..............
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"--.......-","enRel":"22.96","enAbs":"-23.20","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"313"}
+gaggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaauuu
+.(((((((((((((............))))))).(((....))).))))))...........
+>AF311056.1 TBFV|Deer tick virus strain ctb30 polyprotein gene, complete cds|{"mask":"-.......-","enRel":"22.67","enAbs":"-22.90","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"69","bnStart":"315"}
+ggaggggggaagacaauuggcaaucuuccccgggauuuuuccgccuccuauacuaaauuucc
+(((((((((((((..........)))))))).(((....))).)))))..............
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"----......","enRel":"22.76","enAbs":"-23.00","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"277"}
+ggagagauccaggaggggggagagaggaaaauuggcagccucucucaggagauuuccucccc
+(((....)))....(((((((((((((...........)))))))).(((....))))))))
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"--.......","enRel":"24.34","enAbs":"-24.60","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"279"}
+agagauccaggaggggggagagaggaaaauuggcagccucucucaggagauuuccucccccu
+...........((((((((((((((...........)))))))).(((....))).))))))
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"--.......-","enRel":"25.04","enAbs":"-25.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"281"}
+agauccaggaggggggagagaggaaaauuggcagccucucucaggagauuuccucccccuau
+.........((((((((((((((...........)))))))).(((....))).))))))..
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"--.......-","enRel":"25.04","enAbs":"-25.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"283"}
+auccaggaggggggagagaggaaaauuggcagccucucucaggagauuuccucccccuauac
+.......((((((((((((((...........)))))))).(((....))).))))))....
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"---.......--","enRel":"25.53","enAbs":"-25.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"285"}
+ccaggaggggggagagaggaaaauuggcagccucucucaggagauuuccucccccuauacca
+...((((((((((((((((...........)))))))).(((....))).))))))...)).
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"---.......--","enRel":"25.53","enAbs":"-25.80","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"287"}
+aggaggggggagagaggaaaauuggcagccucucucaggagauuuccucccccuauaccaaa
+.((((((((((((((((...........)))))))).(((....))).))))))...))...
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"--.......-","enRel":"25.04","enAbs":"-25.30","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"289"}
+gaggggggagagaggaaaauuggcagccucucucaggagauuuccucccccuauaccaaauu
+.((((((((((((((...........)))))))).(((....))).))))))..........
+>AY863002.1 TBFV|Karshi virus strain LEIV 2247, complete genome|{"mask":"-.......-","enRel":"23.55","enAbs":"-23.80","score":"-12.0","database":"Flavivi_3UTRs.fa","dbPos":"71","bnStart":"291"}
+ggggggagagaggaaaauuggcagccucucucaggagauuuccucccccuauaccaaauucc
+(((((((((((((...........)))))))).(((....))).))))).............
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"----.......","enRel":"28.50","enAbs":"-28.80","score":"-7.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"211"}
+ggcuuuagccaggaggggggagagggaaaauuggcauucccucucaggagauuuccuccccc
+(((....)))....((((((((((((((........))))))))).(((....))).)))))
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"213"}
+cuuuagccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccua
+...........(((((((((((((((........))))))))).(((....))).)))))).
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"215"}
+uuagccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuaca
+.........(((((((((((((((........))))))))).(((....))).))))))...
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"217"}
+agccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaac
+.......(((((((((((((((........))))))))).(((....))).)))))).....
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"219"}
+ccaggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacua
+.....(((((((((((((((........))))))))).(((....))).)))))).......
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"221"}
+aggaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaaa
+...(((((((((((((((........))))))))).(((....))).)))))).........
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"--.......-","enRel":"27.21","enAbs":"-27.50","score":"-8.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"223"}
+gaggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaaauu
+.(((((((((((((((........))))))))).(((....))).))))))...........
+>HM055369.1 TBFV|Kyasanur forest disease virus strain KFD P 9605, complete genome|{"mask":"-.......-","enRel":"25.73","enAbs":"-26.00","score":"-7.0","database":"Flavivi_3UTRs.fa","dbPos":"72","bnStart":"225"}
+ggggggagagggaaaauuggcauucccucucaggagauuuccucccccuacaacuaaauuuc
+((((((((((((((........))))))))).(((....))).)))))..............
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"21.17","enAbs":"-21.40","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"73","bnStart":"403"}
+gaggagggaagagagaaauuggcaacucucuucaggauauuuccuccuccuauaccaaauuc
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>NC_003690.1 TBFV|Langat virus, complete genome NCBI Reference Sequence|{"mask":"-.......-","enRel":"19.69","enAbs":"-19.90","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"73","bnStart":"405"}
+ggagggaagagagaaauuggcaacucucuucaggauauuuccuccuccuauaccaaauuccc
+(((((((((((((..........)))))))).(((....))).)))))..............
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"20.28","enAbs":"-20.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"74","bnStart":"331"}
+gaggagggaagagagaaauuggcagcucucuucaggguuuuuccuccuccuauaccaaauuu
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>NC_001809.1 TBFV|Louping ill virus, complete genome NCBI Reference Sequence|{"mask":"-.......-","enRel":"18.80","enAbs":"-19.00","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"74","bnStart":"333"}
+ggagggaagagagaaauuggcagcucucuucaggguuuuuccuccuccuauaccaaauuucc
+(((((((((((((..........)))))))).(((....))).)))))..............
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"--.......-","enRel":"20.68","enAbs":"-20.90","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"245"}
+gaggagggaagagagaaauuggcagcucucuucaggaaauuuccuccuccuauaccaaauuc
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>AY193805.1 TBFV|Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1|{"mask":"-.......-","enRel":"19.19","enAbs":"-19.40","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"76","bnStart":"247"}
+ggagggaagagagaaauuggcagcucucuucaggaaauuuccuccuccuauaccaaauuccc
+(((((((((((((..........)))))))).(((....))).)))))..............
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......","enRel":"18.40","enAbs":"-18.60","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"303"}
+agcauaacucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccucc
+..............((((((((((((............))))))).(((....))).)))))
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......","enRel":"19.80","enAbs":"-20.00","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"303"}
+agcauaacucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccucc
+..............(((((((((((((..........)))))))).(((....))).)))))
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"20.88","enAbs":"-21.10","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"305"}
+cauaacucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccua
+...........(((((((((((((............))))))).(((....))).)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"22.28","enAbs":"-22.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"305"}
+cauaacucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccua
+...........((((((((((((((..........)))))))).(((....))).)))))).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"20.88","enAbs":"-21.10","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"307"}
+uaacucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuaua
+.........(((((((((((((............))))))).(((....))).))))))...
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"22.28","enAbs":"-22.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"307"}
+uaacucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuaua
+.........((((((((((((((..........)))))))).(((....))).))))))...
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"----.......--","enRel":"21.47","enAbs":"-21.70","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"309"}
+acucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacu
+....(..((((((((((((((..........)))))))).(((....))).))))))...).
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"22.28","enAbs":"-22.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"309"}
+acucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacu
+.......((((((((((((((..........)))))))).(((....))).)))))).....
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"20.88","enAbs":"-21.10","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"309"}
+acucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacu
+.......(((((((((((((............))))))).(((....))).)))))).....
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"----.......--","enRel":"21.47","enAbs":"-21.70","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"311"}
+ucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaa
+..(..((((((((((((((..........)))))))).(((....))).))))))...)...
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"20.88","enAbs":"-21.10","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"311"}
+ucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaa
+.....(((((((((((((............))))))).(((....))).)))))).......
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"----.......--","enRel":"21.08","enAbs":"-21.30","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"311"}
+ucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaa
+..((.((((((((((((((..........)))))))).(((....))).))))))...))..
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"22.28","enAbs":"-22.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"311"}
+ucgggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaa
+.....((((((((((((((..........)))))))).(((....))).)))))).......
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"---.......--","enRel":"20.97","enAbs":"-21.20","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"313"}
+gggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaau
+((.((((((((((((((..........)))))))).(((....))).))))))...))....
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"---.......--","enRel":"21.28","enAbs":"-21.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"313"}
+gggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaau
+(..((((((((((((((..........)))))))).(((....))).))))))...).....
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"22.28","enAbs":"-22.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"313"}
+gggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaau
+...((((((((((((((..........)))))))).(((....))).)))))).........
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"20.88","enAbs":"-21.10","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"313"}
+gggaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaau
+...(((((((((((((............))))))).(((....))).)))))).........
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"20.88","enAbs":"-21.10","score":"-14.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"315"}
+gaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaauuu
+.(((((((((((((............))))))).(((....))).))))))...........
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"--.......-","enRel":"22.28","enAbs":"-22.50","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"315"}
+gaggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaauuu
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-.......-","enRel":"19.39","enAbs":"-19.60","score":"-13.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"317"}
+ggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaauuucc
+((((((((((((............))))))).(((....))).)))))..............
+>NC_003687.1 TBFV|Powassan virus, complete genome NCBI Reference Sequence|{"mask":"-.......-","enRel":"20.79","enAbs":"-21.00","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"77","bnStart":"317"}
+ggagggaggaagaaaauuggcaaucuuccucgggauuuuuccgccuccuauacuaaauuucc
+(((((((((((((..........)))))))).(((....))).)))))..............
+>NC_027709.1 TBFV|Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome|{"mask":"-.......-","enRel":"20.98","enAbs":"-21.20","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"78","bnStart":"329"}
+aggagggaagagagaaauuggcagcucucuucaggauuuuuccuccuccuauaccaaauucc
+((((((((((((((..........)))))))).(((....))).))))))............
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"--.......-","enRel":"21.37","enAbs":"-21.60","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"561"}
+gaggagggaagagagaaauuggcagcucucuucaggauauuuccuccuccuauacaaaauuc
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>KP716974.1 TBFV|Tick-borne encephalitis virus clone Hypr_IC, complete genome|{"mask":"-.......-","enRel":"19.89","enAbs":"-20.10","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"79","bnStart":"563"}
+ggagggaagagagaaauuggcagcucucuucaggauauuuccuccuccuauacaaaauuccc
+(((((((((((((..........)))))))).(((....))).)))))..............
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"--.......-","enRel":"18.90","enAbs":"-19.10","score":"-17.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"385"}
+gaggagggaagggugaaauuggcagcucccuucaggauuuuuccuccuccuauacuaaauuc
+.((((((((((((..............)))))).(((....))).))))))...........
+>L40361.3 TBFV|Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)|{"mask":"-.......-","enRel":"17.41","enAbs":"-17.60","score":"-16.0","database":"Flavivi_3UTRs.fa","dbPos":"80","bnStart":"387"}
+ggagggaagggugaaauuggcagcucccuucaggauuuuuccuccuccuauacuaaauuccc
+(((((((((((..............)))))).(((....))).)))))..............
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"-.......-","enRel":"19.89","enAbs":"-20.10","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"355"}
+ggagggaagagagaaauuggcaacucucuucgggauuuuuccuccuccuauaccaaauuccc
+(((((((((((((..........)))))))).(((....))).)))))..............
+>JX498940.1 TBFV|Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1|{"mask":"--.......-","enRel":"21.37","enAbs":"-21.60","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"81","bnStart":"353"}
+gaggagggaagagagaaauuggcaacucucuucgggauuuuuccuccuccuauaccaaauuc
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"--.......-","enRel":"21.37","enAbs":"-21.60","score":"-11.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"599"}
+gaggagggaagagagaaauuggcagcucucuucaggauuuuuccuccuccuauacaaaauuc
+.((((((((((((((..........)))))))).(((....))).))))))...........
+>NC_001672.1 TBFV|Tick-borne encephalitis virus, complete genome (Neudoerfl)|{"mask":"-.......-","enRel":"19.89","enAbs":"-20.10","score":"-10.0","database":"Flavivi_3UTRs.fa","dbPos":"82","bnStart":"601"}
+ggagggaagagagaaauuggcagcucucuucaggauuuuuccuccuccuauacaaaauuccc
+(((((((((((((..........)))))))).(((....))).)))))..............

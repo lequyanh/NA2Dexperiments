@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="RNAmotifSearchRun">
+  <name>Hammerhead_3 - RNAmotif</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <useRMprune>yes</useRMprune>
+    <checkBothStrands>no</checkBothStrands>
+    <contextMaxLength>5</contextMaxLength>
+    <contextMinLength>5</contextMinLength>
+  </preferences>
+  <searchDate />
+  <resultsDisplayColumnList>
+    <column name="bnStart" />
+    <column name="strand" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+</search>
+

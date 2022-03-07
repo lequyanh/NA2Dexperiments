@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="StructureSearchRun">
+  <name>TPP v.2 - structure search</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate>
+    <begin>2021-09-22 15:26:50</begin>
+    <end>2021-09-22 15:27:13</end>
+  </searchDate>
+  <resultsDisplayColumnList>
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+</search>
+

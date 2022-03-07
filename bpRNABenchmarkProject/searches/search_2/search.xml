@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="SequenceSearchRun" expandResultStructures="no">
+  <name>tRNA - sequence search</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate>
+    <begin>2021-09-13 21:24:02</begin>
+    <end>2021-09-13 21:51:54</end>
+  </searchDate>
+  <resultsDisplayColumnList>
+    <column name="enRel" />
+    <column name="enAbs" />
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+  <genomeFold windowSize="70" suboptimalFoldEnergy="5.0" foldingMethod="FOLD_WHOLE_SEQUENCE" foldingProgram="RNA_SUBOPT">
+    <windowStep value="30" type="RELATIVE" />
+    <windowOverlap value="30" type="RELATIVE" />
+  </genomeFold>
+</search>
+

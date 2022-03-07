@@ -1,0 +1,1697 @@
+#	Sequence accession	NC_012932
+#	Sequence definition	Aedes flavivirus genomic RNA, complete genome, strain: Narita-21
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KP688057.1
+#	Sequence definition	Mercadeo virus isolate ER-M31, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034204.1
+#	Sequence definition	Menghai flavivirus isolate MHAedFV1, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_024299.2
+#	Sequence definition	Nienokoue virus isolate B51/CI/2004, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034242.1
+#	Sequence definition	Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KY460522.1
+#	Sequence definition	Karumba virus isolate KRBV 1892, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KT192549.1
+#	Sequence definition	Parramatta River virus isolate 92-B115745, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012671.1
+#	Sequence definition	Quang Binh virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034017.1
+#	Sequence definition	Xishuangbanna aedes flavivirus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MH899446.1
+#	Sequence definition	Sabethes flavivirus isolate Ms42, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KX148546.1
+#	Sequence definition	Anopheles flavivirus variant 1, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KC464457.1
+#	Sequence definition	Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	FJ606789.2
+#	Sequence definition	Lammi virus polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MG214905.1
+#	Sequence definition	Barkedji virus strain SQU29/Oman/2016, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_017086.1
+#	Sequence definition	Chaoyang virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MF139576.1
+#	Sequence definition	Marisma mosquito virus strain HU4528/07, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_016997.1
+#	Sequence definition	Donggang virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MF139575.1
+#	Sequence definition	Nanay virus strain PRD316/PER/09, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_033715.1
+#	Sequence definition	Nounane virus polyprotein mRNA, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_024017.1
+#	Sequence definition	Nhumirim virus strain BrMS-MQ10, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012534.1
+#	Sequence definition	Bagaza virus strain DakAr B209, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM225264.1
+#	Sequence definition	Bainyik virus strain MK7979, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY898809.1
+#	Sequence definition	Alfuy virus strain MRM3929, complete genome GenBank
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KX148547.1
+#	Sequence definition	Anopheles flavivirus variant 2, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY326407.1
+#	Sequence definition	Banzi virus strain SA H336 3' untranslated region, partial sequence
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_009026.2
+#	Sequence definition	Bussuquara virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001477.1
+#	Sequence definition	Dengue virus 1, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	LN849009.1
+#	Sequence definition	Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001474.2
+#	Sequence definition	Dengue virus 2, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_002640.1
+#	Sequence definition	Dengue virus 4, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001475.2
+#	Sequence definition	Dengue virus 3, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KX669688.1
+#	Sequence definition	Calbertado virus isolate 44-13 polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_009028.2
+#	Sequence definition	Ilheus virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_009029.2
+#	Sequence definition	Kokobera virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY632538.4
+#	Sequence definition	Iguape virus strain SPAn 71686, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM361634.1
+#	Sequence definition	Fitzroy River Virus strain K73884, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	36
+1	274
+1	-45.740000
+1	(((((((,<<<<-<<<<<<<__[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))))::::::::]]]]]
+1	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+2	275
+2	-44.440000
+2	((((((,<<<<-<<<<<<<__[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))):::::::::]]]]]
+2	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+3	274
+3	-43.800000
+3	(((((((,<<<<-<<<<<<<<_[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))))::::::::]]]]]
+3	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+4	276
+4	-43.480000
+4	(((((,<<<<-<<<<<<<__[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+4	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+5	274
+5	-42.940000
+5	(((((((,<<<<-<<<<<<<<_[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))))::::::::]]]]]
+5	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+6	275
+6	-42.500000
+6	((((((,<<<<-<<<<<<<<_[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))):::::::::]]]]]
+6	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+7	275
+7	-41.640000
+7	((((((,<<<<-<<<<<<<<_[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))):::::::::]]]]]
+7	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+8	276
+8	-41.540000
+8	(((((,<<<<-<<<<<<<<_[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+8	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+9	274
+9	-41.450000
+9	(((((((,<<<<-<<<<<<<<__[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))))::::::::]]]]
+9	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+10	276
+10	-40.680000
+10	(((((,<<<<-<<<<<<<<_[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+10	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+11	274
+11	-40.590000
+11	(((((((,<<<<-<<<<<<<<__[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))))::::::::]]]]
+11	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+12	274
+12	-40.380000
+12	(((((((,<<<<-<<<<<<<__[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))))::::::::]]]]]
+12	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+13	274
+13	-40.380000
+13	(((((((,<<<<-<<<<<<<<_[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))))):::::::::]]]]
+13	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+14	277
+14	-40.220000
+14	((((,<<<<-<<<<<<<__[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+14	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+15	275
+15	-40.150000
+15	((((((,<<<<-<<<<<<<<__[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))):::::::::]]]]
+15	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+16	274
+16	-39.520000
+16	(((((((,<<<<-<<<<<<<<_[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))))):::::::::]]]]
+16	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+17	275
+17	-39.290000
+17	((((((,<<<<-<<<<<<<<__[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))):::::::::]]]]
+17	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+18	276
+18	-39.190000
+18	(((((,<<<<-<<<<<<<<__[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]
+18	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+19	275
+19	-39.080000
+19	((((((,<<<<-<<<<<<<__[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))):::::::::]]]]]
+19	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+20	275
+20	-39.080000
+20	((((((,<<<<-<<<<<<<<_[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))))::::::::::]]]]
+20	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+21	276
+21	-38.330000
+21	(((((,<<<<-<<<<<<<<__[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]
+21	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+22	277
+22	-38.280000
+22	((((,<<<<-<<<<<<<<_[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+22	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+23	275
+23	-38.220000
+23	((((((,<<<<-<<<<<<<<_[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))))::::::::::]]]]
+23	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+24	276
+24	-38.120000
+24	(((((,<<<<-<<<<<<<__[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+24	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+25	276
+25	-38.120000
+25	(((((,<<<<-<<<<<<<<_[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+25	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+26	277
+26	-37.420000
+26	((((,<<<<-<<<<<<<<_[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+26	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+27	276
+27	-37.260000
+27	(((((,<<<<-<<<<<<<<_[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+27	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+28	274
+28	-36.960000
+28	(((((((,<<<<-<<<<<<<__[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))))):::::::::]]]]
+28	uugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+29	277
+29	-35.930000
+29	((((,<<<<-<<<<<<<<__[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]
+29	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+30	275
+30	-35.660000
+30	((((((,<<<<-<<<<<<<__[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))))::::::::::]]]]
+30	ugggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+31	277
+31	-35.070000
+31	((((,<<<<-<<<<<<<<__[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]
+31	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgg
+32	277
+32	-34.860000
+32	((((,<<<<-<<<<<<<__[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+32	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+33	277
+33	-34.860000
+33	((((,<<<<-<<<<<<<<_[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+33	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+34	276
+34	-34.700000
+34	(((((,<<<<-<<<<<<<__[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+34	gggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+35	277
+35	-34.000000
+35	((((,<<<<-<<<<<<<<_[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+35	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+36	277
+36	-31.440000
+36	((((,<<<<-<<<<<<<__[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+36	ggagccuccacccguugccuccgcgcacaacgggaaagaaggggucuagagguuagaggagacccucccgagcauuuaagcgga
+#	Sequence accession	NC_001437.1
+#	Sequence definition	Japanese encephalitis virus, genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	L48980.1
+#	Sequence definition	Koutango virus (strain DakAaD 5443) nonstructural protein (NS5) gene, 3' end of cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012533.1
+#	Sequence definition	Kedougou virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_000943.1
+#	Sequence definition	Murray Valley encephalitis virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	L24512.1
+#	Sequence definition	Kunjin virus 3' UTR
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KC788512.1
+#	Sequence definition	New Mapoon virus strain CY1014 polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_018705.3
+#	Sequence definition	Ntaya virus, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	2
+1	41
+1	-5.070000
+1	((((,<<-<<<<<<<<<_[[[[_>>-->>>>>>>----->>,,,,,,<<<<______>>>>,))))::::::::]]]]
+1	uaaauaauagaaugauuaugauaagcuuuguuuuagaccuuagaagauagauuuagauuuauuuuagggcgauaguca
+2	41
+2	-4.920000
+2	((((,<<-<<<<<<<<__[[[[__>-->>>>>>>----->>,,,,,,<<<<______>>>>,))))::::::::]]]]
+2	uaaauaauagaaugauuaugauaagcuuuguuuuagaccuuagaagauagauuuagauuuauuuuagggcgauaguca
+#	Sequence accession	NC_001564.2
+#	Sequence definition	Cell fusing agent virus strain Galveston, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_040776.1
+#	Sequence definition	Rocio virus strain SPH 34675, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_007580.2
+#	Sequence definition	St. Louis encephalitis virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_027999.1
+#	Sequence definition	Paraiso Escondido virus isolate Ecuador2012, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM225263.1
+#	Sequence definition	Stratford virus strain C338, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_034151.1
+#	Sequence definition	T'Ho virus strain T'Ho-Mex07, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_008719.1
+#	Sequence definition	Sepik virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	60
+1	263
+1	-50.160000
+1	(((((,<<<<-<<<<<<<<<[[[[[_>>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+1	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+2	263
+2	-50.040000
+2	(((((,<<<<-<<<<<<<<[[[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]]
+2	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+3	263
+3	-49.870000
+3	(((((,<<<<-<<<<<<<<<<[[[[>>>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]
+3	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+4	263
+4	-47.810000
+4	(((((,<<<<-<<<<<<<<<_[[[[_>>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]
+4	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+5	263
+5	-47.800000
+5	(((((,<<<<-<<<<<<<<_[[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+5	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+6	264
+6	-46.900000
+6	((((,<<<<-<<<<<<<<<[[[[[_>>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+6	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+7	264
+7	-46.780000
+7	((((,<<<<-<<<<<<<<[[[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]]
+7	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+8	263
+8	-46.740000
+8	(((((,<<<<-<<<<<<<<<[[[[__>>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+8	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+9	263
+9	-46.620000
+9	(((((,<<<<-<<<<<<<_[[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]]
+9	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+10	263
+10	-46.620000
+10	(((((,<<<<-<<<<<<<<[[[[[___>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]]
+10	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+11	264
+11	-46.610000
+11	((((,<<<<-<<<<<<<<<<[[[[>>>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]
+11	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+12	263
+12	-45.450000
+12	(((((,<<<<-<<<<<<<<__[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]
+12	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+13	263
+13	-44.680000
+13	(((((,<<<<-<<<<<<<<[[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]]
+13	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+14	264
+14	-44.550000
+14	((((,<<<<-<<<<<<<<<_[[[[_>>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]
+14	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+15	264
+15	-44.540000
+15	((((,<<<<-<<<<<<<<_[[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+15	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+16	263
+16	-44.380000
+16	(((((,<<<<-<<<<<<<__[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+16	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+17	263
+17	-44.380000
+17	(((((,<<<<-<<<<<<<<_[[[[___>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+17	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+18	263
+18	-43.820000
+18	(((((,<<<<-<<<<<<<<[[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]]
+18	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+19	264
+19	-43.480000
+19	((((,<<<<-<<<<<<<<<[[[[__>>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+19	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+20	264
+20	-43.360000
+20	((((,<<<<-<<<<<<<_[[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]]
+20	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+21	264
+21	-43.360000
+21	((((,<<<<-<<<<<<<<[[[[[___>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+21	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+22	263
+22	-42.440000
+22	(((((,<<<<-<<<<<<<<_[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+22	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+23	264
+23	-42.190000
+23	((((,<<<<-<<<<<<<<__[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]
+23	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+24	263
+24	-41.580000
+24	(((((,<<<<-<<<<<<<<_[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+24	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+25	264
+25	-41.420000
+25	((((,<<<<-<<<<<<<<[[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]]
+25	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+26	263
+26	-41.380000
+26	(((((,<<<<-<<<<<<<<<[[[[>>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+26	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+27	263
+27	-41.260000
+27	(((((,<<<<-<<<<<<<_[[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]]
+27	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+28	263
+28	-41.260000
+28	(((((,<<<<-<<<<<<<<[[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]]
+28	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+29	264
+29	-41.120000
+29	((((,<<<<-<<<<<<<__[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+29	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+30	264
+30	-41.120000
+30	((((,<<<<-<<<<<<<<_[[[[___>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+30	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+31	264
+31	-40.560000
+31	((((,<<<<-<<<<<<<<[[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]]
+31	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+32	263
+32	-40.520000
+32	(((((,<<<<-<<<<<<<<<[[[[>>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+32	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+33	263
+33	-40.400000
+33	(((((,<<<<-<<<<<<<<[[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]]
+33	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+34	263
+34	-40.090000
+34	(((((,<<<<-<<<<<<<<__[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]
+34	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+35	263
+35	-39.230000
+35	(((((,<<<<-<<<<<<<<__[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]
+35	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+36	264
+36	-39.180000
+36	((((,<<<<-<<<<<<<<_[[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+36	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+37	263
+37	-39.020000
+37	(((((,<<<<-<<<<<<<__[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::]]]]]
+37	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+38	263
+38	-39.020000
+38	(((((,<<<<-<<<<<<<<_[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+38	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+39	263
+39	-38.900000
+39	(((((,<<<<-<<<<<<<<[[[[__>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::::]]]]
+39	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+40	264
+40	-38.320000
+40	((((,<<<<-<<<<<<<<_[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+40	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+41	263
+41	-38.160000
+41	(((((,<<<<-<<<<<<<<_[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+41	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+42	264
+42	-38.120000
+42	((((,<<<<-<<<<<<<<<[[[[>>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+42	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+43	263
+43	-38.040000
+43	(((((,<<<<-<<<<<<<<[[[[__>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::::]]]]
+43	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+44	264
+44	-38.000000
+44	((((,<<<<-<<<<<<<_[[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]]
+44	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+45	264
+45	-38.000000
+45	((((,<<<<-<<<<<<<<[[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+45	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+46	263
+46	-37.840000
+46	(((((,<<<<-<<<<<<<_[[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]]
+46	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+47	264
+47	-37.260000
+47	((((,<<<<-<<<<<<<<<[[[[>>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+47	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+48	264
+48	-37.140000
+48	((((,<<<<-<<<<<<<<[[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+48	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+49	264
+49	-36.830000
+49	((((,<<<<-<<<<<<<<__[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]
+49	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+50	264
+50	-35.970000
+50	((((,<<<<-<<<<<<<<__[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]
+50	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgg
+51	264
+51	-35.760000
+51	((((,<<<<-<<<<<<<__[[[[[_>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::]]]]]
+51	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+52	264
+52	-35.760000
+52	((((,<<<<-<<<<<<<<_[[[[_>>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+52	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+53	264
+53	-35.640000
+53	((((,<<<<-<<<<<<<<[[[[__>>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+53	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+54	263
+54	-35.600000
+54	(((((,<<<<-<<<<<<<__[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))):::::::::::]]]]
+54	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+55	263
+55	-35.480000
+55	(((((,<<<<-<<<<<<<_[[[[___>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))))::::::::::::]]]]
+55	gggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+56	264
+56	-34.900000
+56	((((,<<<<-<<<<<<<<_[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+56	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+57	264
+57	-34.780000
+57	((((,<<<<-<<<<<<<<[[[[__>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+57	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+58	264
+58	-34.580000
+58	((((,<<<<-<<<<<<<_[[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+58	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+59	264
+59	-32.340000
+59	((((,<<<<-<<<<<<<__[[[[__>-->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+59	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcgga
+60	264
+60	-32.220000
+60	((((,<<<<-<<<<<<<_[[[[___>-->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+60	ggagccuccgccugcugcguccgcgcgcagcaggaaagaaggggucuagagguuagaggagacccucccgagcacuauagcggac
+#	Sequence accession	AY326409.1
+#	Sequence definition	Uganda S virus 3' untranslated region, partial sequence
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KM225265.1
+#	Sequence definition	Torres virus strain TS5273, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012735.1
+#	Sequence definition	Wesselsbron virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	9
+1	275
+1	-45.870000
+1	(((((,<<<<<<<<<<<<<__[[[[__>>>>>>>>----->>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+1	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+2	275
+2	-43.110000
+2	(((((,<<<<-<<<<<<<<__[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+2	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+3	275
+3	-41.260000
+3	(((((,<<<<<-<<<<<<<__[[[[__>>>>>>>------>>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+3	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+4	275
+4	-40.980000
+4	(((((,<<<<<<<<<<<<<__[[[[>>-->>>>>>----->>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+4	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+5	275
+5	-40.830000
+5	(((((,<<<<<<<<<<<<<__[[[[>-->>>>>>>----->>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+5	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+6	275
+6	-38.750000
+6	(((((,<<<<<-<<<<<<<<_[[[[>->>>>>>>------>>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+6	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+7	275
+7	-38.220000
+7	(((((,<<<<-<<<<<<<<__[[[[>>-->>>>>>------>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+7	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+8	275
+8	-38.070000
+8	(((((,<<<<-<<<<<<<<__[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+8	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+9	275
+9	-36.220000
+9	(((((,<<<<<-<<<<<<<__[[[[>-->>>>>>------>>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]
+9	gggagccuccacccaccguuaccgcgcacggugggaaagauggggucuagagguuagaggagacccauucccucccgagcacacauagcgg
+#	Sequence accession	NC_008604.2
+#	Sequence definition	Culex flavivirus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_006551.1
+#	Sequence definition	Usutu virus, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_015843.2
+#	Sequence definition	Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_009942.1
+#	Sequence definition	West Nile virus lineage 1, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AF452050.1
+#	Sequence definition	Apoi virus 3' untranslated region, partial sequence
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_012532.1
+#	Sequence definition	Zika virus isolate ZIKV/Monkey/Uganda/MR766/1947, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_003635.1
+#	Sequence definition	Modoc virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_002031.1
+#	Sequence definition	Yellow fever virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	39
+1	309
+1	-47.870000
+1	((((,<<<<<<<<<<<<<_[[[[[[__>>>>>>>>----->>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+1	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+2	309
+2	-45.630000
+2	((((,<<<<<<<<<<<<<_[[[[[___>>>>>>>>----->>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+2	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+3	309
+3	-45.520000
+3	((((,<<<<<<<<<<<<<__[[[[[__>>>>>>>>----->>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+3	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+4	309
+4	-44.610000
+4	((((,<<<<<<<<<<<<__[[[[[[___>>>>>>>----->>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+4	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+5	309
+5	-44.410000
+5	((((,<<<<-<<<<<<<<_[[[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+5	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+6	309
+6	-43.990000
+6	((((,<<<<<-<<<<<<<_[[[[[[__>>>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+6	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+7	309
+7	-43.440000
+7	((((,<<<<<-<<<<<<<<[[[[[[>->>>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+7	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+8	309
+8	-43.280000
+8	((((,<<<<<<<<<<<<<__[[[[___>>>>>>>>----->>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+8	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+9	309
+9	-42.170000
+9	((((,<<<<-<<<<<<<<_[[[[[___>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+9	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+10	309
+10	-42.060000
+10	((((,<<<<-<<<<<<<<__[[[[[__>>>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+10	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+11	309
+11	-41.810000
+11	((((,<<<<<<<<<<<<<_[[[[[[>-->>>>>>>----->>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+11	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+12	309
+12	-41.750000
+12	((((,<<<<<-<<<<<<<_[[[[[___>>>>>>>------>>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+12	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+13	309
+13	-41.640000
+13	((((,<<<<<-<<<<<<<__[[[[[__>>>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+13	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+14	309
+14	-41.200000
+14	((((,<<<<<-<<<<<<<<[[[[[_>->>>>>>>------>>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+14	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+15	309
+15	-41.150000
+15	((((,<<<<-<<<<<<<__[[[[[[___>>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+15	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+16	309
+16	-41.090000
+16	((((,<<<<<-<<<<<<<<_[[[[[>->>>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+16	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+17	309
+17	-40.800000
+17	((((,<<<<<<<<<<<<__[[[[[[__>->>>>>>----->>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+17	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+18	309
+18	-39.820000
+18	((((,<<<<-<<<<<<<<__[[[[___>>>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+18	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+19	309
+19	-39.570000
+19	((((,<<<<<<<<<<<<<_[[[[[_>-->>>>>>>----->>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+19	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+20	309
+20	-39.460000
+20	((((,<<<<<<<<<<<<<__[[[[[>-->>>>>>>----->>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+20	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+21	309
+21	-39.400000
+21	((((,<<<<<-<<<<<<<__[[[[___>>>>>>>------>>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+21	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+22	309
+22	-39.090000
+22	((((,<<<<<-<<<<<<<<[[[[__>->>>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::::]]]]
+22	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+23	309
+23	-38.850000
+23	((((,<<<<<-<<<<<<<<_[[[[_>->>>>>>>------>>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+23	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+24	309
+24	-38.560000
+24	((((,<<<<<<<<<<<<__[[[[[___>->>>>>>----->>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+24	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+25	309
+25	-38.350000
+25	((((,<<<<-<<<<<<<<_[[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+25	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+26	309
+26	-37.930000
+26	((((,<<<<<-<<<<<<<_[[[[[[>-->>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+26	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+27	309
+27	-37.830000
+27	((((,<<<<<-<<<<<<<<__[[[[>->>>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]
+27	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauagugg
+28	309
+28	-37.460000
+28	((((,<<<<<<<<<<<<<_[[[[__>-->>>>>>>----->>>>>,,,,,,<<<<______>>>>))))::::::::::::::]]]]
+28	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+29	309
+29	-37.340000
+29	((((,<<<<-<<<<<<<__[[[[[[__>->>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]]
+29	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+30	309
+30	-37.220000
+30	((((,<<<<<<<<<<<<<__[[[[_>-->>>>>>>----->>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+30	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+31	309
+31	-36.110000
+31	((((,<<<<-<<<<<<<<_[[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+31	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+32	309
+32	-36.000000
+32	((((,<<<<-<<<<<<<<__[[[[[>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+32	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+33	309
+33	-35.689990
+33	((((,<<<<<-<<<<<<<_[[[[[_>-->>>>>>------>>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+33	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+34	309
+34	-35.580000
+34	((((,<<<<<-<<<<<<<__[[[[[>-->>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::]]]]]
+34	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+35	309
+35	-35.100000
+35	((((,<<<<-<<<<<<<__[[[[[___>->>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]]
+35	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+36	309
+36	-34.000000
+36	((((,<<<<-<<<<<<<<_[[[[__>-->>>>>>>------>>>>,,,,,,<<<<______>>>>))))::::::::::::::]]]]
+36	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+37	309
+37	-33.760000
+37	((((,<<<<-<<<<<<<<__[[[[_>-->>>>>>>------>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+37	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+38	309
+38	-33.580000
+38	((((,<<<<<-<<<<<<<_[[[[__>-->>>>>>------>>>>>,,,,,,<<<<______>>>>))))::::::::::::::]]]]
+38	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggga
+39	309
+39	-33.340000
+39	((((,<<<<<-<<<<<<<__[[[[_>-->>>>>>------>>>>>,,,,,,<<<<______>>>>)))):::::::::::::]]]]
+39	ggagccuccgcuaccacccucccacguggugguagaaagacggggucuagagguuagaggagacccuccagggaacaaauaguggg
+#	Sequence accession	AJ299445.1
+#	Sequence definition	Montana myotis leukoencephalitis virus complete genomic RNA
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	JQ582840.1
+#	Sequence definition	Rio Bravo virus strain M64, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AF331718.1
+#	Sequence definition	Alkhurma virus strain 1176 polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_008718.1
+#	Sequence definition	Entebbe bat virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_023439.1
+#	Sequence definition	Kama virus strain LEIV-20776Tat polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AF311056.1
+#	Sequence definition	Deer tick virus strain ctb30 polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	HE574574.1
+#	Sequence definition	Culex theileri flavivirus RP-2011 gene for viral polyprotein, genomic RNA, isolate 178
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	HM055369.1
+#	Sequence definition	Kyasanur forest disease virus strain KFD P 9605, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY863002.1
+#	Sequence definition	Karshi virus strain LEIV 2247, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_005039.1
+#	Sequence definition	Yokose virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	162
+1	207
+1	-55.050000
+1	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+1	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+2	207
+2	-54.140000
+2	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+2	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+3	207
+3	-54.120000
+3	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+3	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+4	207
+4	-53.960000
+4	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+4	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+5	207
+5	-53.750000
+5	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+5	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+6	207
+6	-53.210000
+6	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+6	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+7	207
+7	-53.030000
+7	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+7	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+8	207
+8	-53.020000
+8	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[__>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+8	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+9	207
+9	-52.840000
+9	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+9	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+10	207
+10	-52.820000
+10	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+10	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+11	207
+11	-52.810000
+11	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]
+11	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+12	207
+12	-52.660000
+12	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+12	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+13	208
+13	-52.360000
+13	((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+13	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+14	207
+14	-52.200000
+14	(((((((((,<<<<-<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+14	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+15	207
+15	-52.110000
+15	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[__>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+15	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+16	207
+16	-51.930000
+16	(((((((((,<<<<<<<<<<<<<<<<<<_[[[[[__>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+16	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+17	207
+17	-51.910000
+17	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[[__>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+17	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+18	207
+18	-51.900000
+18	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]
+18	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+19	207
+19	-51.880000
+19	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]
+19	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+20	207
+20	-51.870000
+20	((((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::]]]]]]]
+20	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+21	207
+21	-51.730000
+21	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+21	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+22	207
+22	-51.720000
+22	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]
+22	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+23	207
+23	-51.720000
+23	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[___>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+23	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+24	208
+24	-51.450000
+24	((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+24	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+25	208
+25	-51.430000
+25	((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+25	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+26	207
+26	-51.270000
+26	(((((((((,<<<<-<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+26	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+27	208
+27	-51.270000
+27	((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+27	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+28	208
+28	-51.060000
+28	((((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+28	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+29	209
+29	-51.030000
+29	(((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+29	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+30	207
+30	-50.970000
+30	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]
+30	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+31	207
+31	-50.960000
+31	((((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::]]]]]]]
+31	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+32	207
+32	-50.940000
+32	((((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,))))))))::::::::::::::]]]]]]
+32	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+33	207
+33	-50.899990
+33	(((((((((,<<<<-<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+33	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+34	207
+34	-50.810000
+34	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[___>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+34	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+35	207
+35	-50.790000
+35	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]
+35	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+36	207
+36	-50.780000
+36	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[__>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]
+36	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+37	207
+37	-50.740000
+37	(((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+37	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+38	207
+38	-50.630000
+38	(((((((((,<<<<<<<<<<<<<<<<<__[[[[[___>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+38	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+39	207
+39	-50.570000
+39	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::]]]]]]]
+39	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+40	208
+40	-50.520000
+40	((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+40	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+41	208
+41	-50.340000
+41	((((((((,<<<<<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+41	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+42	207
+42	-50.170000
+42	(((((((((,<<<<-<<<<<<<<<<<<<_[[[[[__>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+42	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+43	208
+43	-50.150000
+43	((((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+43	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+44	208
+44	-50.130000
+44	((((((((,<<<<<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+44	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+45	208
+45	-50.120000
+45	((((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]
+45	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+46	209
+46	-50.120000
+46	(((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+46	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+47	207
+47	-50.030000
+47	((((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,))))))))::::::::::::::]]]]]]
+47	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+48	207
+48	-49.970000
+48	(((((((((,<<<<-<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+48	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+49	208
+49	-49.969990
+49	((((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+49	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+50	207
+50	-49.960000
+50	(((((((((,<<<<-<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]
+50	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+51	209
+51	-49.939990
+51	(((((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+51	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+52	207
+52	-49.870000
+52	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[__>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]
+52	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+53	207
+53	-49.840000
+53	((((((((,<<<<-<<<<<<<<<<<<<<_[[[[[__>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::::]]]]]
+53	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+54	207
+54	-49.829990
+54	(((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+54	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+55	207
+55	-49.810000
+55	(((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+55	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+56	209
+56	-49.730000
+56	(((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+56	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+57	207
+57	-49.690000
+57	(((((((((,<<<<<<<<<<<<<<<<<<__[[[[__>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]
+57	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+58	207
+58	-49.660000
+58	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::]]]]]]]
+58	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+59	207
+59	-49.640000
+59	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,))))))))::::::::::::::]]]]]]
+59	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+60	207
+60	-49.630000
+60	((((((((,<<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::]]]]]]
+60	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+61	208
+61	-49.509990
+61	((((((((,<<<<-<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+61	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+62	207
+62	-49.439990
+62	(((((((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+62	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+63	208
+63	-49.220010
+63	((((((((,<<<<<<<<<<<<<<<<<__[[[[[[__>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+63	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+64	208
+64	-49.210000
+64	((((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]
+64	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+65	208
+65	-49.190000
+65	((((((((,<<<<<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]
+65	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+66	208
+66	-49.180000
+66	(((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))::::::::::::::]]]]]]]
+66	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+67	208
+67	-49.040000
+67	((((((((,<<<<<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+67	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+68	207
+68	-49.030000
+68	(((((((((,<<<<-<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]
+68	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+69	208
+69	-49.030000
+69	((((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]
+69	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+70	207
+70	-48.930000
+70	((((((((,<<<<-<<<<<<<<<<<<<<_[[[[[__>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::::]]]]]
+70	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+71	207
+71	-48.900000
+71	(((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+71	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+72	207
+72	-48.870000
+72	(((((((((,<<<<-<<<<<<<<<<<<__[[[[[___>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+72	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+73	209
+73	-48.820000
+73	(((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+73	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+74	209
+74	-48.790000
+74	(((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]
+74	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+75	207
+75	-48.730000
+75	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,))))))))::::::::::::::]]]]]]
+75	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+76	207
+76	-48.720000
+76	((((((((,<<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::]]]]]]
+76	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+77	207
+77	-48.710000
+77	(((((((((,<<<-<<<<<<<<<<<<<<_[[[[[__>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+77	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+78	207
+78	-48.700000
+78	((((((((,<<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,))))))))::::::::::::::]]]]]
+78	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+79	209
+79	-48.640000
+79	(((((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+79	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+80	208
+80	-48.580000
+80	((((((((,<<<<-<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+80	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+81	207
+81	-48.540000
+81	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[___>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::::]]]]]
+81	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+82	207
+82	-48.530000
+82	(((((((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]]
+82	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+83	207
+83	-48.510000
+83	(((((((((,<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+83	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+84	207
+84	-48.500000
+84	(((((((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]
+84	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+85	208
+85	-48.280000
+85	((((((((,<<<<<<<<<<<<<<<<<<__[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]
+85	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+86	208
+86	-48.270000
+86	(((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))::::::::::::::]]]]]]]
+86	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+87	208
+87	-48.250000
+87	(((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,))))))):::::::::::::::]]]]]]
+87	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+88	208
+88	-48.210000
+88	((((((((,<<<<-<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+88	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+89	209
+89	-48.180000
+89	(((((((,<<<<-<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+89	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+90	208
+90	-48.100000
+90	((((((((,<<<<<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]
+90	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+91	208
+91	-48.050000
+91	((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+91	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+92	207
+92	-47.930000
+92	(((((((((,<<<<-<<<<<<<<<<<<<__[[[[__>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]
+92	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+93	208
+93	-47.880000
+93	(((((((,<<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))::::::::::::::]]]]]]]
+93	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+94	209
+94	-47.880000
+94	(((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]
+94	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+95	209
+95	-47.850000
+95	((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))):::::::::::::::]]]]]]]
+95	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+96	207
+96	-47.800000
+96	(((((((((,<<<-<<<<<<<<<<<<<<_[[[[[__>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+96	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+97	207
+97	-47.790000
+97	((((((((,<<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,))))))))::::::::::::::]]]]]
+97	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+98	209
+98	-47.700000
+98	(((((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]
+98	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+99	207
+99	-47.630000
+99	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[___>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::::]]]]]
+99	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+100	207
+100	-47.600000
+100	((((((((,<<<<-<<<<<<<<<<<<<<__[[[[__>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::::]]]]
+100	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+101	207
+101	-47.600000
+101	(((((((((,<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]]
+101	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+102	207
+102	-47.590000
+102	(((((((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::]]]]]]
+102	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+103	207
+103	-47.570000
+103	(((((((((,<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]
+103	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+104	211
+104	-47.420000
+104	(((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+104	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+105	207
+105	-47.410000
+105	(((((((((,<<<-<<<<<<<<<<<<<__[[[[[___>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+105	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+106	208
+106	-47.340000
+106	(((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,))))))):::::::::::::::]]]]]]
+106	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+107	208
+107	-47.280000
+107	((((((((,<<<<-<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+107	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+108	208
+108	-47.270000
+108	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]
+108	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+109	208
+109	-47.140000
+109	((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+109	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+110	208
+110	-47.120000
+110	((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+110	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+111	208
+111	-46.970000
+111	(((((((,<<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))::::::::::::::]]]]]]]
+111	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+112	208
+112	-46.950000
+112	(((((((,<<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,))))))):::::::::::::::]]]]]]
+112	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+113	208
+113	-46.940000
+113	(((((((,<<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))::::::::::::::]]]]]]
+113	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+114	209
+114	-46.940000
+114	((((((,<<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))):::::::::::::::]]]]]]]
+114	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+115	209
+115	-46.880000
+115	(((((((,<<<<-<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+115	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+116	208
+116	-46.750000
+116	((((((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+116	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+117	209
+117	-46.720000
+117	(((((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+117	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+118	207
+118	-46.690000
+118	((((((((,<<<<-<<<<<<<<<<<<<<__[[[[__>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))):::::::::::::::]]]]
+118	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+119	207
+119	-46.660000
+119	(((((((((,<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>)))))))))::::::::::::::]]]]]
+119	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+120	209
+120	-46.550000
+120	((((((,<<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))):::::::::::::::]]]]]]]
+120	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+121	211
+121	-46.510000
+121	(((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+121	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+122	207
+122	-46.500000
+122	(((((((((,<<<-<<<<<<<<<<<<<__[[[[[___>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]]
+122	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+123	207
+123	-46.470000
+123	(((((((((,<<<-<<<<<<<<<<<<<<__[[[[__>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]
+123	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+124	208
+124	-46.340000
+124	((((((((,<<<<-<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]
+124	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+125	211
+125	-46.329990
+125	(((((,<<<<<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+125	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+126	208
+126	-46.210000
+126	((((((((,<<<-<<<<<<<<<<<<<<_[[[[[[_>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+126	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+127	211
+127	-46.120000
+127	(((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+127	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+128	208
+128	-46.040000
+128	(((((((,<<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,))))))):::::::::::::::]]]]]]
+128	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+129	208
+129	-46.030000
+129	(((((((,<<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))))::::::::::::::]]]]]]
+129	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+130	208
+130	-46.010000
+130	(((((((,<<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,))))))):::::::::::::::]]]]]
+130	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+131	209
+131	-45.940000
+131	(((((((,<<<<-<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]
+131	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+132	208
+132	-45.840000
+132	((((((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]]
+132	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+133	208
+133	-45.820000
+133	((((((((,<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+133	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+134	208
+134	-45.810000
+134	((((((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]
+134	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+135	209
+135	-45.810000
+135	(((((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+135	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+136	209
+136	-45.640000
+136	((((((,<<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))):::::::::::::::]]]]]]]
+136	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+137	209
+137	-45.610000
+137	((((((,<<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,)))))):::::::::::::::]]]]]]
+137	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+138	207
+138	-45.560000
+138	(((((((((,<<<-<<<<<<<<<<<<<<__[[[[__>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))):::::::::::::::]]]]
+138	guaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+139	209
+139	-45.420000
+139	(((((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+139	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+140	211
+140	-45.210000
+140	(((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+140	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+141	211
+141	-45.180000
+141	(((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>---->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]
+141	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+142	208
+142	-45.100000
+142	(((((((,<<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,))))))):::::::::::::::]]]]]
+142	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+143	211
+143	-45.030000
+143	(((((,<<<<<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+143	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+144	208
+144	-44.910000
+144	((((((((,<<<-<<<<<<<<<<<<<__[[[[[[__>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]]
+144	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+145	208
+145	-44.900000
+145	((((((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))))::::::::::::::]]]]]]
+145	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+146	208
+146	-44.880000
+146	((((((((,<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]
+146	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+147	209
+147	-44.700000
+147	((((((,<<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,)))))):::::::::::::::]]]]]]
+147	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+148	211
+148	-44.570000
+148	(((((,<<<<-<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+148	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+149	209
+149	-44.510000
+149	(((((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]]
+149	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+150	209
+150	-44.480000
+150	(((((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]
+150	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+151	211
+151	-44.270000
+151	(((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>---->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]
+151	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+152	211
+152	-44.090000
+152	(((((,<<<<<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>---->>>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]
+152	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+153	208
+153	-43.970000
+153	((((((((,<<<-<<<<<<<<<<<<<<__[[[[[_>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>)))))))):::::::::::::::]]]]]
+153	uaggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+154	209
+154	-43.570000
+154	(((((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>))))))):::::::::::::::]]]]]]
+154	aggggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+155	211
+155	-43.270000
+155	(((((,<<<<-<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+155	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+156	211
+156	-43.110000
+156	(((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+156	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+157	211
+157	-42.330000
+157	(((((,<<<<-<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>----->>>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]
+157	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+158	211
+158	-42.200000
+158	(((((,<<<-<<<<<<<<<<<<<<_[[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+158	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+159	211
+159	-41.810000
+159	(((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+159	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+160	211
+160	-40.900000
+160	(((((,<<<-<<<<<<<<<<<<<__[[[[[[[_>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]]
+160	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaugu
+161	211
+161	-40.870000
+161	(((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>-->>>>>>>----->>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]
+161	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+162	211
+162	-39.960000
+162	(((((,<<<-<<<<<<<<<<<<<<__[[[[[[>>>>>>>>-->>>>>>----->>>,,,,,,<<<<______>>>>,,))))):::::::::::::::]]]]]]
+162	gggagccuccgccaaugguggcuuuacauauugagcuacugcauuggucgauggggacuagcgguuagaggagacccucuccuacgcauggauuuugcaauaug
+#	Sequence accession	KT224355.1
+#	Sequence definition	Negishi virus strain Negishi polyprotein precursor, gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001809.1
+#	Sequence definition	Louping ill virus, complete genome NCBI Reference Sequence
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_003690.1
+#	Sequence definition	Langat virus, complete genome NCBI Reference Sequence
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_003687.1
+#	Sequence definition	Powassan virus, complete genome NCBI Reference Sequence
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AY193805.1
+#	Sequence definition	Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KT599442.1
+#	Sequence definition	Culiseta flavivirus strain 502-13, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_027709.1
+#	Sequence definition	Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	JX498940.1
+#	Sequence definition	Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	KP716974.1
+#	Sequence definition	Tick-borne encephalitis virus clone Hypr_IC, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_001672.1
+#	Sequence definition	Tick-borne encephalitis virus, complete genome (Neudoerfl)
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	L40361.3
+#	Sequence definition	Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MH188006
+#	Sequence definition	Culex flavivirus strain CFV/San Francisco, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473878.1
+#	Sequence definition	Crangon crangon flavivirus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_023424.1
+#	Sequence definition	Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MF776369.1
+#	Sequence definition	Cyclopterus lumpus virus isolate R170217-6L polyprotein gene, complete cds
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473877
+#	Sequence definition	Gammarus chevreuxi flavivirus isolate 100_1, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_005064.1
+#	Sequence definition	Kamiti River virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473881.1
+#	Sequence definition	Gammarus pulex flavivirus isolate GPCM, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473875.1
+#	Sequence definition	Southern pygmy squid flavivirus isolate 201405, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	NC_040555.1
+#	Sequence definition	Lumpfish flavivirus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	MK473876.1
+#	Sequence definition	Wenzhou shark flavivirus isolate InM PrM PoM polyprotein-like gene, complete sequence
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0
+#	Sequence accession	AF346759.1
+#	Sequence definition	Tamana bat virus, complete genome
+#	CSSD name	Mosquito-borne flaviviruses DB (YFVG)
+#	Job status	100% complete
+#	Hit count	0

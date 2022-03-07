@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="StructureSearchRun">
+  <name>HDV_ribozyme - structure</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate>
+    <begin>2021-09-23 16:06:16</begin>
+    <end>2021-09-23 16:06:16</end>
+  </searchDate>
+  <resultsDisplayColumnList>
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+</search>
+

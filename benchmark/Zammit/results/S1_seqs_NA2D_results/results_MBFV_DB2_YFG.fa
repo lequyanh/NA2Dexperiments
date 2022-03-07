@@ -1,0 +1,708 @@
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((................))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"34.00","enAbs":"-34.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((..............)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.60","enAbs":"-34.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((...(((....))).)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((.(..........).)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.60","enAbs":"-34.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((..(......)....)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.90","enAbs":"-34.30","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((((.......))...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.90","enAbs":"-35.30","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((.......))...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.80","enAbs":"-34.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((((.......))...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((((.(...).))...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"34.20","enAbs":"-34.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((.(...).))...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.10","enAbs":"-33.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((((.(...).))...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"33.10","enAbs":"-33.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......)))))))))))))((((............))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"34.50","enAbs":"-34.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))((((............))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"35.50","enAbs":"-35.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((((............))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))((((............))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"34.40","enAbs":"-34.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))((((............))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.60","enAbs":"-34.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((((...((....)).))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.00","enAbs":"-34.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((((..((......))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.60","enAbs":"-34.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))((((..(((....)))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.60","enAbs":"-35.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((((..(((....)))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.50","enAbs":"-33.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))((((..(((....)))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.80","enAbs":"-34.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))((((.(......)...))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))((((.(......)...))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"34.80","enAbs":"-35.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((((.(......)...))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((((.......)...))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.40","enAbs":"-34.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((.......)...))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((((.......)...))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((.(...).)...))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............--","enRel":"34.50","enAbs":"-34.90","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........)))))))..)))))))....))))......((((......)))).))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............--","enRel":"33.50","enAbs":"-33.90","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........))))))))..))))))....))))......((((......)))).))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............--","enRel":"33.10","enAbs":"-33.50","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((.((((((((((((((........)))))))..))))))).....)))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............--","enRel":"33.60","enAbs":"-34.00","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........))))))))..))))).....))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............--","enRel":"34.60","enAbs":"-35.00","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........)))))))..)))))).....))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"35.00","enAbs":"-35.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"36.40","enAbs":"-36.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"33.40","enAbs":"-33.80","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........)))))))..))))))....))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"34.40","enAbs":"-34.80","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))..)))))))....))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"37.40","enAbs":"-37.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"33.90","enAbs":"-34.30","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..))))....)))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"35.30","enAbs":"-35.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"36.30","enAbs":"-36.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........--","enRel":"33.30","enAbs":"-33.70","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))..))))))....)))))......((((......)))))))))))))(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"--...........---","enRel":"33.60","enAbs":"-34.00","score":"-160.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+.((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))).(((((..........)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((...(....).)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((...(.....))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((...((...)))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.10","enAbs":"-33.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((((..(...)...)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"34.10","enAbs":"-34.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((..(...)...)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((((..(.....).)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.60","enAbs":"-34.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((((..(.....).)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"34.70","enAbs":"-35.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((..(.....).)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.90","enAbs":"-34.30","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((..(......))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.50","enAbs":"-33.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((((..((....)))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.50","enAbs":"-34.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((((..((....)))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((((..((....)))))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((((((....)....)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.10","enAbs":"-33.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......)))))))))))))((((((......)..)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.50","enAbs":"-34.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))((((((......)..)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))((((((......)..)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"35.50","enAbs":"-35.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((((((......)..)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.40","enAbs":"-34.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))((((((......)..)))))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))....(.((........)).)
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))...........((.....))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"34.40","enAbs":"-34.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))...........((.....))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))...........((.....))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.80","enAbs":"-34.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))...........(((...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"34.80","enAbs":"-35.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))...........(((...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))...........(((...)))
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).((((.......))...)).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......))))))))))))).(((............))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.30","enAbs":"-34.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).(((............))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......))))))))))))).(((............))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).(((..(((....)))))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.60","enAbs":"-34.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).(((.(......)...))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).((((.......)...))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............----","enRel":"33.30","enAbs":"-33.70","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........)))))))..)))))))....))))......((((......)))).)))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............----","enRel":"33.40","enAbs":"-33.80","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........)))))))..)))))).....))))......((((......))))))))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.80","enAbs":"-34.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......))))))))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.20","enAbs":"-33.60","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))..)))))))....))))......((((......))))))))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"35.20","enAbs":"-35.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......))))))))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"36.20","enAbs":"-36.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.10","enAbs":"-34.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......))))))))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"35.10","enAbs":"-35.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......))))))))))))).((((..........)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.50","enAbs":"-33.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).((((..(.....).)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).((((..((....)))))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......))))))))))))).(((((......)..)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"34.30","enAbs":"-34.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).(((((......)..)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......))))))))))))).(((((......)..)))).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))............(.....).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))............((...)).
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))..(((..........)))..
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.60","enAbs":"-34.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))......((........))..
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.50","enAbs":"-33.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))......(((....)))....
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.00","enAbs":"-34.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))...((.......))......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.90","enAbs":"-34.30","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))...((.......))......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"35.00","enAbs":"-35.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))...((.......))......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.20","enAbs":"-33.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))...((.(...).))......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"34.30","enAbs":"-34.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))...((.(...).))......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))...((.(...).))......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............---","enRel":"33.50","enAbs":"-33.90","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........)))))))..)))))))....))))......((((......)))).))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............---","enRel":"33.60","enAbs":"-34.00","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........)))))))..)))))).....))))......((((......)))))))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"35.40","enAbs":"-35.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"34.00","enAbs":"-34.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......)))))))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.40","enAbs":"-33.80","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))..)))))))....))))......((((......)))))))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"36.40","enAbs":"-36.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"35.30","enAbs":"-35.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"34.30","enAbs":"-34.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))((.........)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"34.00","enAbs":"-34.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))((..(....).)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.50","enAbs":"-33.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((.....)..)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"34.40","enAbs":"-34.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((......).)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"35.40","enAbs":"-35.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((......).)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"34.30","enAbs":"-34.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((......).)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.30","enAbs":"-33.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))(((......).)).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"---...........----","enRel":"33.90","enAbs":"-34.30","score":"-159.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(.(((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))).)(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"---...........----","enRel":"34.00","enAbs":"-34.40","score":"-158.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((.((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))).))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............---","enRel":"33.30","enAbs":"-33.70","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........)))))))))..)))))....))))......((((......)))).))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............---","enRel":"34.70","enAbs":"-35.10","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........))))))))..))))))....))))......((((......)))).))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............---","enRel":"35.70","enAbs":"-36.10","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........)))))))..)))))))....))))......((((......)))).))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............---","enRel":"33.30","enAbs":"-33.70","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((.((((((((((((((........))))))))..)))))).....)))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............---","enRel":"34.30","enAbs":"-34.70","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((.((((((((((((((........)))))))..))))))).....)))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............---","enRel":"33.40","enAbs":"-33.80","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........)))))))))..)))).....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............---","enRel":"34.80","enAbs":"-35.20","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........))))))))..))))).....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............---","enRel":"35.80","enAbs":"-36.20","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........)))))))..)))))).....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.20","enAbs":"-33.60","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))))..)))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"36.20","enAbs":"-36.60","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.10","enAbs":"-33.50","score":"-167.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((............))))))..))))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"34.60","enAbs":"-35.00","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........)))))))..))))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"37.60","enAbs":"-38.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"34.10","enAbs":"-34.50","score":"-167.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((............)))))..)))))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"35.60","enAbs":"-36.00","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))..)))))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"38.60","enAbs":"-39.00","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............---","enRel":"33.20","enAbs":"-33.60","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((.((((((((((((........)))))))..))))).....)))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"35.10","enAbs":"-35.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..))))....)))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"33.50","enAbs":"-33.90","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........)))))))..)))))....)))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"36.50","enAbs":"-36.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"34.50","enAbs":"-34.90","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))..))))))....)))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........---","enRel":"37.50","enAbs":"-37.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"--...........----","enRel":"33.80","enAbs":"-34.20","score":"-160.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+.((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))).(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"--...........----","enRel":"34.80","enAbs":"-35.20","score":"-160.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+.((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))).(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"--...........----","enRel":"33.70","enAbs":"-34.10","score":"-160.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+.((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))).(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"--...........----","enRel":"33.70","enAbs":"-34.10","score":"-159.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+..(((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))..(((.......))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((..(...)))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............------","enRel":"33.10","enAbs":"-33.50","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........)))))))..)))))).....))))......((((......)))))))))))))(((.(...).))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.50","enAbs":"-33.90","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......)))))))))))))(((.(...).))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"34.90","enAbs":"-35.30","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((.(...).))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"35.90","enAbs":"-36.30","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((.(...).))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"33.80","enAbs":"-34.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))(((.(...).))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........------","enRel":"34.80","enAbs":"-35.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((.(...).))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"35.10","enAbs":"-35.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))(((.(....)))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"34.10","enAbs":"-34.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))(((.(....)))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-----","enRel":"34.00","enAbs":"-34.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))(((.(....)))).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.10","enAbs":"-34.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))....(.......).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.10","enAbs":"-33.50","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))....(.......).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-------","enRel":"33.40","enAbs":"-33.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))....(.(...).).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).....(......).......
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.80","enAbs":"-34.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......))))))))))))).((.......))........
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"34.80","enAbs":"-35.20","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......))))))))))))).((.......))........
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........----","enRel":"33.70","enAbs":"-34.10","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......))))))))))))).((.......))........
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-.............-","enRel":"33.50","enAbs":"-33.90","score":"-140.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+((((((((.((((.((((((((((((((........)))))))..)))))))....))))......((((......)))).))))))))....................
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-","enRel":"34.00","enAbs":"-34.40","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))))..)))))....))))......((((......)))))))))))))....................
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-","enRel":"35.40","enAbs":"-35.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..))))))....))))......((((......)))))))))))))....................
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-","enRel":"33.40","enAbs":"-33.80","score":"-164.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.(((((((((((((((((..........))))))..)))))))....))))......((((......)))))))))))))....................
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-............-","enRel":"33.60","enAbs":"-34.00","score":"-142.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((.(((((((((((((........)))))))..)))))).....))))......((((......)))))))))))))....................
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-","enRel":"36.40","enAbs":"-36.80","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..)))))))....))))......((((......)))))))))))))....................
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-","enRel":"35.30","enAbs":"-35.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........)))))))..))))))....)))))......((((......)))))))))))))....................
+>NC_005039.1 NKV-MBFV|Yokose virus, complete genome|{"mask":"-...........-","enRel":"34.30","enAbs":"-34.70","score":"-161.0","database":"MBFV_NKV_ISFV_DB_PK.fa","dbPos":"3","bnStart":"1"}
+GUAGGGGAGCCUCCGCCAAUGGUGGCUUUACAUAUUGAGCUACUGCAUUGGUCGAUGGGGACUAGCGGUUAGAGGAGACCCUCUCCUACGCAUGGAUUUUGCAAUAUGU
+(((((((((.((((((((((((((((((........))))))))..)))))....)))))......((((......)))))))))))))....................
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-............---","enRel":"23.13","enAbs":"-23.40","score":"-133.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.((((((((......)))..)))))......))))......((((......)))))))))))((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-............---","enRel":"22.43","enAbs":"-22.70","score":"-133.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.((((((((......))..))))))......))))......((((......)))))))))))((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-............---","enRel":"21.63","enAbs":"-21.90","score":"-133.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.((((((((......)..)))))))......))))......((((......)))))))))))((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-..........---","enRel":"23.33","enAbs":"-23.60","score":"-20.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.(((((((..........)))))))......))))......((((......)))))))))))((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--............----","enRel":"22.03","enAbs":"-22.30","score":"-132.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+.((((((.((((.((((((((......)))..)))))......))))......((((......)))))))))).((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--..........----","enRel":"22.23","enAbs":"-22.50","score":"-19.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+.((((((.((((.(((((((..........)))))))......))))......((((......)))))))))).((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--............----","enRel":"21.33","enAbs":"-21.60","score":"-132.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+.((((((.((((.((((((((......))..))))))......))))......((((......)))))))))).((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--............----","enRel":"20.93","enAbs":"-21.20","score":"-131.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+..(((((.((((.((((((((......))..))))))......))))......((((......)))))))))..((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--............----","enRel":"21.63","enAbs":"-21.90","score":"-131.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+..(((((.((((.((((((((......)))..)))))......))))......((((......)))))))))..((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--..........----","enRel":"21.83","enAbs":"-22.10","score":"-18.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+..(((((.((((.(((((((..........)))))))......))))......((((......)))))))))..((......))...
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-............-","enRel":"21.53","enAbs":"-21.80","score":"-133.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.((((((((......))..))))))......))))......((((......))))))))))).............
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-............-","enRel":"22.23","enAbs":"-22.50","score":"-133.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.((((((((......)))..)))))......))))......((((......))))))))))).............
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-............-","enRel":"20.73","enAbs":"-21.00","score":"-133.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.((((((((......)..)))))))......))))......((((......))))))))))).............
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"-..........-","enRel":"22.43","enAbs":"-22.70","score":"-20.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+(((((((.((((.(((((((..........)))))))......))))......((((......))))))))))).............
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--............-","enRel":"21.13","enAbs":"-21.40","score":"-132.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+.((((((.((((.((((((((......)))..)))))......))))......((((......))))))))))..............
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--..........-","enRel":"21.33","enAbs":"-21.60","score":"-19.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+.((((((.((((.(((((((..........)))))))......))))......((((......))))))))))..............
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--............-","enRel":"20.73","enAbs":"-21.00","score":"-131.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+..(((((.((((.((((((((......)))..)))))......))))......((((......)))))))))...............
+>KM361634.1 MBFV|Fitzroy River Virus strain K73884, complete genome|{"mask":"--..........-","enRel":"20.93","enAbs":"-21.20","score":"-18.0","database":"MBFV_DB2_PK1.fa","dbPos":"3","bnStart":"1"}
+UUGGGAGCCUCCACCCGUUGCCUCCGCGCACAACGGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCAUUUAAGCGGA
+..(((((.((((.(((((((..........)))))))......))))......((((......)))))))))...............
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........---","enRel":"19.44","enAbs":"-19.70","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))..........(......)
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"19.54","enAbs":"-19.80","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......))))))))......(.........).
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"20.64","enAbs":"-20.90","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))......(.........).
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........-------","enRel":"19.74","enAbs":"-20.00","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))......(..(...)..).
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"20.94","enAbs":"-21.20","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......))))))))......(........)..
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"22.04","enAbs":"-22.30","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))......(........)..
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........-------","enRel":"19.64","enAbs":"-19.90","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))......(.(....).)..
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"19.64","enAbs":"-19.90","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))..........(....)..
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"20.54","enAbs":"-20.80","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......))))))))......(.......)...
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"21.64","enAbs":"-21.90","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))......(.......)...
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-............----","enRel":"19.34","enAbs":"-19.60","score":"-91.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((.(((((((((......).))))))))......))))......((((......))))))))......((.....))...
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"21.74","enAbs":"-22.00","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......))))))))......((.....))...
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"22.84","enAbs":"-23.10","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))......((.....))...
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"19.44","enAbs":"-19.70","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))..(..........)....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"20.04","enAbs":"-20.30","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))....(........)....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........------","enRel":"19.44","enAbs":"-19.70","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))....(.(.....))....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-............----","enRel":"19.64","enAbs":"-19.90","score":"-91.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((.(((((((((......).))))))))......))))......((((......)))))))).....((.....))....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"22.04","enAbs":"-22.30","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......)))))))).....((.....))....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"23.14","enAbs":"-23.40","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......)))))))).....((.....))....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"19.44","enAbs":"-19.70","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......)))))))).......(.....)....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"19.84","enAbs":"-20.10","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))........(....)....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"20.34","enAbs":"-20.60","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......))))))))......(.....).....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"21.44","enAbs":"-21.70","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))......(.....).....
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........---","enRel":"19.64","enAbs":"-19.90","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))(.........).......
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"20.54","enAbs":"-20.80","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......)))))))).(........).......
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"19.44","enAbs":"-19.70","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......)))))))).(........).......
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"20.14","enAbs":"-20.40","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))..(.......).......
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"19.54","enAbs":"-19.80","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))...(......).......
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"19.74","enAbs":"-20.00","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))....(.....).......
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"19.54","enAbs":"-19.80","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......)))))))).....(....).......
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-............----","enRel":"19.44","enAbs":"-19.70","score":"-91.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((.(((((((((......).))))))))......))))......((((......)))))))).(....)...........
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"21.84","enAbs":"-22.10","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......)))))))).(....)...........
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"22.94","enAbs":"-23.20","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......)))))))).(....)...........
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........----","enRel":"19.44","enAbs":"-19.70","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......))))))))..(...)...........
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........----","enRel":"20.54","enAbs":"-20.80","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))..(...)...........
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-..........-","enRel":"19.94","enAbs":"-20.20","score":"-16.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((.((((((((.........))))))))......))))......((((......))))))))..................
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-............-","enRel":"21.04","enAbs":"-21.30","score":"-91.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((.(((((((((......).))))))))......))))......((((......))))))))..................
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-..........-","enRel":"19.54","enAbs":"-19.80","score":"-16.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((.(((((((.........)))))))......)))))......((((......))))))))..................
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-............-","enRel":"20.64","enAbs":"-20.90","score":"-91.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((.((((((((......).)))))))......)))))......((((......))))))))..................
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........-","enRel":"20.14","enAbs":"-20.40","score":"-38.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((...........))))))).....)))))......((((......))))))))..................
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-.........-","enRel":"23.44","enAbs":"-23.70","score":"-35.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.(((((((((((((.........)))))))).....)))))......((((......))))))))..................
+>NC_002031.1 MBFV|Yellow fever virus, complete genome|{"mask":"-...........-","enRel":"24.54","enAbs":"-24.80","score":"-110.0","database":"MBFV_DB2_PK1.fa","dbPos":"10","bnStart":"1"}
+GGAGCCUCCGCUACCACCCUCCCACGUGGUGGUAGAAAGACGGGGUCUAGAGGUUAGAGGAGACCCUCCAGGGAACAAAUAGUGGGA
+((((.((((((((((((((......).)))))))).....)))))......((((......))))))))..................
+>NC_008719.1 MBFV|Sepik virus, complete genome|{"mask":"-..........----","enRel":"27.96","enAbs":"-28.30","score":"-17.0","database":"MBFV_DB2_PK1.fa","dbPos":"14","bnStart":"1"}
+GGGAGCCUCCGCCUGCUGCGUCCGCGCGCAGCAGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCACUAUAGCGGA
+(((((.((((.((((((((((....))))))))))......))))......((((......))))))))).....((.....)).
+>NC_008719.1 MBFV|Sepik virus, complete genome|{"mask":"-..........----","enRel":"27.76","enAbs":"-28.10","score":"-17.0","database":"MBFV_DB2_PK1.fa","dbPos":"14","bnStart":"1"}
+GGGAGCCUCCGCCUGCUGCGUCCGCGCGCAGCAGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCACUAUAGCGGA
+(((((.((((.((((((((((....))))))))))......))))......((((......))))))))).....(......)..
+>NC_008719.1 MBFV|Sepik virus, complete genome|{"mask":"-..........----","enRel":"27.66","enAbs":"-28.00","score":"-15.0","database":"MBFV_DB2_PK1.fa","dbPos":"14","bnStart":"1"}
+GGGAGCCUCCGCCUGCUGCGUCCGCGCGCAGCAGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCACUAUAGCGGA
+(((((.((((.((((((((........))))))))......))))......((((......)))))))))..((......))...
+>NC_008719.1 MBFV|Sepik virus, complete genome|{"mask":"-..........----","enRel":"29.76","enAbs":"-30.10","score":"-12.0","database":"MBFV_DB2_PK1.fa","dbPos":"14","bnStart":"1"}
+GGGAGCCUCCGCCUGCUGCGUCCGCGCGCAGCAGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCACUAUAGCGGA
+(((((.((((.(((((((((......)))))))))......))))......((((......)))))))))..((......))...
+>NC_008719.1 MBFV|Sepik virus, complete genome|{"mask":"-..........----","enRel":"31.06","enAbs":"-31.40","score":"-17.0","database":"MBFV_DB2_PK1.fa","dbPos":"14","bnStart":"1"}
+GGGAGCCUCCGCCUGCUGCGUCCGCGCGCAGCAGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCACUAUAGCGGA
+(((((.((((.((((((((((....))))))))))......))))......((((......)))))))))..((......))...
+>NC_008719.1 MBFV|Sepik virus, complete genome|{"mask":"-..........-","enRel":"28.86","enAbs":"-29.20","score":"-12.0","database":"MBFV_DB2_PK1.fa","dbPos":"14","bnStart":"1"}
+GGGAGCCUCCGCCUGCUGCGUCCGCGCGCAGCAGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCACUAUAGCGGA
+(((((.((((.(((((((((......)))))))))......))))......((((......)))))))))...............
+>NC_008719.1 MBFV|Sepik virus, complete genome|{"mask":"-..........-","enRel":"30.16","enAbs":"-30.50","score":"-17.0","database":"MBFV_DB2_PK1.fa","dbPos":"14","bnStart":"1"}
+GGGAGCCUCCGCCUGCUGCGUCCGCGCGCAGCAGGAAAGAAGGGGUCUAGAGGUUAGAGGAGACCCUCCCGAGCACUAUAGCGGA
+(((((.((((.((((((((((....))))))))))......))))......((((......)))))))))...............
+>NC_012735.1 MBFV|Wesselsbron virus, complete genome|{"mask":"-..........---","enRel":"26.48","enAbs":"-26.80","score":"-36.0","database":"MBFV_DB2_PK1.fa","dbPos":"22","bnStart":"1"}
+GGGAGCCUCCACCCACCGUUACCGCGCACGGUGGGAAAGAUGGGGUCUAGAGGUUAGAGGAGACCCAUUCCCUCCCGAGCACACAUAGCGG
+(((((.(((((((((((((........)))))))).....)))))......((((......))))..)))))..(((...........)))
+>NC_012735.1 MBFV|Wesselsbron virus, complete genome|{"mask":"-..........----","enRel":"26.08","enAbs":"-26.40","score":"-36.0","database":"MBFV_DB2_PK1.fa","dbPos":"22","bnStart":"1"}
+GGGAGCCUCCACCCACCGUUACCGCGCACGGUGGGAAAGAUGGGGUCUAGAGGUUAGAGGAGACCCAUUCCCUCCCGAGCACACAUAGCGG
+(((((.(((((((((((((........)))))))).....)))))......((((......))))..)))))......((.......))..
+>NC_012735.1 MBFV|Wesselsbron virus, complete genome|{"mask":"-..........-","enRel":"25.78","enAbs":"-26.10","score":"-36.0","database":"MBFV_DB2_PK1.fa","dbPos":"22","bnStart":"1"}
+GGGAGCCUCCACCCACCGUUACCGCGCACGGUGGGAAAGAUGGGGUCUAGAGGUUAGAGGAGACCCAUUCCCUCCCGAGCACACAUAGCGG
+(((((.(((((((((((((........)))))))).....)))))......((((......))))..)))))...................

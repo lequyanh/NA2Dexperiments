@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="SequenceSearchRun" expandResultStructures="no">
+  <name>TBFV 5-GC SL - Zammit descriptor</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate>
+    <begin>2021-07-19 16:33:29</begin>
+    <end>2021-07-19 16:33:30</end>
+  </searchDate>
+  <resultsDisplayColumnList>
+    <column name="enRel" />
+    <column name="enAbs" />
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+  <genomeFold windowSize="33" suboptimalFoldEnergy="1.0" foldingMethod="SLIDING_WINDOW" foldingProgram="RNA_SUBOPT">
+    <windowStep value="50" type="RELATIVE" />
+    <windowOverlap value="50" type="RELATIVE" />
+  </genomeFold>
+</search>
+

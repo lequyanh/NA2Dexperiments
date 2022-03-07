@@ -1,0 +1,469 @@
+#	Sequence accession	KP688057.1
+#	Sequence definition	Mercadeo virus isolate ER-M31, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_024299.2
+#	Sequence definition	Nienokoue virus isolate B51/CI/2004, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_034204.1
+#	Sequence definition	Menghai flavivirus isolate MHAedFV1, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_012932
+#	Sequence definition	Aedes flavivirus genomic RNA, complete genome, strain: Narita-21
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KY460522.1
+#	Sequence definition	Karumba virus isolate KRBV 1892, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KC464457.1
+#	Sequence definition	Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_034017.1
+#	Sequence definition	Xishuangbanna aedes flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KX148546.1
+#	Sequence definition	Anopheles flavivirus variant 1, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MH899446.1
+#	Sequence definition	Sabethes flavivirus isolate Ms42, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_034242.1
+#	Sequence definition	Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KT192549.1
+#	Sequence definition	Parramatta River virus isolate 92-B115745, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_012671.1
+#	Sequence definition	Quang Binh virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_016997.1
+#	Sequence definition	Donggang virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MF139575.1
+#	Sequence definition	Nanay virus strain PRD316/PER/09, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	FJ606789.2
+#	Sequence definition	Lammi virus polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MF139576.1
+#	Sequence definition	Marisma mosquito virus strain HU4528/07, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_033715.1
+#	Sequence definition	Nounane virus polyprotein mRNA, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_017086.1
+#	Sequence definition	Chaoyang virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MG214905.1
+#	Sequence definition	Barkedji virus strain SQU29/Oman/2016, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KM225264.1
+#	Sequence definition	Bainyik virus strain MK7979, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_012534.1
+#	Sequence definition	Bagaza virus strain DakAr B209, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AY898809.1
+#	Sequence definition	Alfuy virus strain MRM3929, complete genome GenBank
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AY326407.1
+#	Sequence definition	Banzi virus strain SA H336 3' untranslated region, partial sequence
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_024017.1
+#	Sequence definition	Nhumirim virus strain BrMS-MQ10, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KX148547.1
+#	Sequence definition	Anopheles flavivirus variant 2, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_009026.2
+#	Sequence definition	Bussuquara virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	LN849009.1
+#	Sequence definition	Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001477.1
+#	Sequence definition	Dengue virus 1, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001474.2
+#	Sequence definition	Dengue virus 2, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001475.2
+#	Sequence definition	Dengue virus 3, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_002640.1
+#	Sequence definition	Dengue virus 4, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_009028.2
+#	Sequence definition	Ilheus virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AY632538.4
+#	Sequence definition	Iguape virus strain SPAn 71686, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_012533.1
+#	Sequence definition	Kedougou virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KX669688.1
+#	Sequence definition	Calbertado virus isolate 44-13 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KM361634.1
+#	Sequence definition	Fitzroy River Virus strain K73884, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001437.1
+#	Sequence definition	Japanese encephalitis virus, genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	L24512.1
+#	Sequence definition	Kunjin virus 3' UTR
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_009029.2
+#	Sequence definition	Kokobera virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_000943.1
+#	Sequence definition	Murray Valley encephalitis virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KC788512.1
+#	Sequence definition	New Mapoon virus strain CY1014 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	L48980.1
+#	Sequence definition	Koutango virus (strain DakAaD 5443) nonstructural protein (NS5) gene, 3' end of cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_018705.3
+#	Sequence definition	Ntaya virus, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_027999.1
+#	Sequence definition	Paraiso Escondido virus isolate Ecuador2012, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_008719.1
+#	Sequence definition	Sepik virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_007580.2
+#	Sequence definition	St. Louis encephalitis virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KM225263.1
+#	Sequence definition	Stratford virus strain C338, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_040776.1
+#	Sequence definition	Rocio virus strain SPH 34675, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001564.2
+#	Sequence definition	Cell fusing agent virus strain Galveston, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_034151.1
+#	Sequence definition	T'Ho virus strain T'Ho-Mex07, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_015843.2
+#	Sequence definition	Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_006551.1
+#	Sequence definition	Usutu virus, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AY326409.1
+#	Sequence definition	Uganda S virus 3' untranslated region, partial sequence
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_012735.1
+#	Sequence definition	Wesselsbron virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KM225265.1
+#	Sequence definition	Torres virus strain TS5273, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_008604.2
+#	Sequence definition	Culex flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_009942.1
+#	Sequence definition	West Nile virus lineage 1, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_002031.1
+#	Sequence definition	Yellow fever virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_012532.1
+#	Sequence definition	Zika virus isolate ZIKV/Monkey/Uganda/MR766/1947, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AJ299445.1
+#	Sequence definition	Montana myotis leukoencephalitis virus complete genomic RNA
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AF452050.1
+#	Sequence definition	Apoi virus 3' untranslated region, partial sequence
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	100% complete
+#	Hit count	1
+1	205
+1	-32.250000
+1	{{{{.:(((<<<<<<<___>>>>>>>,<~<<____[[_>>~>}}}})))::]]
+1	uccgcagugaggauugccgcaauccuuuggguagcgcccccacggacacgagc
+#	Sequence accession	JQ582840.1
+#	Sequence definition	Rio Bravo virus strain M64, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_003635.1
+#	Sequence definition	Modoc virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_008718.1
+#	Sequence definition	Entebbe bat virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AF331718.1
+#	Sequence definition	Alkhurma virus strain 1176 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	HE574574.1
+#	Sequence definition	Culex theileri flavivirus RP-2011 gene for viral polyprotein, genomic RNA, isolate 178
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AF311056.1
+#	Sequence definition	Deer tick virus strain ctb30 polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_005039.1
+#	Sequence definition	Yokose virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AY863002.1
+#	Sequence definition	Karshi virus strain LEIV 2247, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001809.1
+#	Sequence definition	Louping ill virus, complete genome NCBI Reference Sequence
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_023439.1
+#	Sequence definition	Kama virus strain LEIV-20776Tat polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_003690.1
+#	Sequence definition	Langat virus, complete genome NCBI Reference Sequence
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	HM055369.1
+#	Sequence definition	Kyasanur forest disease virus strain KFD P 9605, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KT224355.1
+#	Sequence definition	Negishi virus strain Negishi polyprotein precursor, gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KT599442.1
+#	Sequence definition	Culiseta flavivirus strain 502-13, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AY193805.1
+#	Sequence definition	Omsk hemorrhagic fever virus strain Bogoluvovska, complete genome,AY193805.1
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_003687.1
+#	Sequence definition	Powassan virus, complete genome NCBI Reference Sequence
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	KP716974.1
+#	Sequence definition	Tick-borne encephalitis virus clone Hypr_IC, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	L40361.3
+#	Sequence definition	Tick-borne encephalitis virus polyprotein gene, complete cds (Vasilchenko)
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_027709.1
+#	Sequence definition	Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	JX498940.1
+#	Sequence definition	Tick-borne encephalitis virus strain Sofjin polyprotein gene, complete cds,JX498940.1
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_001672.1
+#	Sequence definition	Tick-borne encephalitis virus, complete genome (Neudoerfl)
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_023424.1
+#	Sequence definition	Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MK473878.1
+#	Sequence definition	Crangon crangon flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MH188006
+#	Sequence definition	Culex flavivirus strain CFV/San Francisco, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MF776369.1
+#	Sequence definition	Cyclopterus lumpus virus isolate R170217-6L polyprotein gene, complete cds
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MK473877
+#	Sequence definition	Gammarus chevreuxi flavivirus isolate 100_1, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MK473881.1
+#	Sequence definition	Gammarus pulex flavivirus isolate GPCM, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_005064.1
+#	Sequence definition	Kamiti River virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	NC_040555.1
+#	Sequence definition	Lumpfish flavivirus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MK473875.1
+#	Sequence definition	Southern pygmy squid flavivirus isolate 201405, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	AF346759.1
+#	Sequence definition	Tamana bat virus, complete genome
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0
+#	Sequence accession	MK473876.1
+#	Sequence definition	Wenzhou shark flavivirus isolate InM PrM PoM polyprotein-like gene, complete sequence
+#	CSSD name	Tick-borne flaviviruses Y-SL
+#	Job status	0% complete
+#	Hit count	0

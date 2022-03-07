@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="SequenceSearchRun" expandResultStructures="no">
+  <name>HDV_ribozyme - sequence</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate />
+  <resultsDisplayColumnList>
+    <column name="enRel" />
+    <column name="enAbs" />
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+  <genomeFold windowSize="33" suboptimalFoldEnergy="4.0" foldingMethod="FOLD_WHOLE_SEQUENCE" foldingProgram="RNA_SUBOPT">
+    <windowStep value="50" type="RELATIVE" />
+    <windowOverlap value="50" type="RELATIVE" />
+  </genomeFold>
+</search>
+

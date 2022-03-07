@@ -1,0 +1,393 @@
+>AY632538.4 MBFV|Iguape virus strain SPAn 71686, complete genome|{"mask":"-..........","enRel":"11.57","enAbs":"-11.70","score":"-20.0","database":"MBFV_DB1_noPK.fa","dbPos":"0","bnStart":"1"}
+CCACGGCCAGAAUCAGAGUGGCGCGACUGAGGAAGGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((....((((..........)))).....))......((((......)))))))))
+>AY632538.4 MBFV|Iguape virus strain SPAn 71686, complete genome|{"mask":"-.............","enRel":"11.17","enAbs":"-11.30","score":"-103.0","database":"MBFV_DB1_noPK.fa","dbPos":"0","bnStart":"1"}
+CCACGGCCAGAAUCAGAGUGGCGCGACUGAGGAAGGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((....((((.(.....)..)))).....))......((((......)))))))))
+>AY632538.4 MBFV|Iguape virus strain SPAn 71686, complete genome|{"mask":"-.............","enRel":"12.37","enAbs":"-12.50","score":"-106.0","database":"MBFV_DB1_noPK.fa","dbPos":"0","bnStart":"1"}
+CCACGGCCAGAAUCAGAGUGGCGCGACUGAGGAAGGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((....((((.((...))..)))).....))......((((......)))))))))
+>AY632538.4 MBFV|Iguape virus strain SPAn 71686, complete genome|{"mask":"-.............","enRel":"11.17","enAbs":"-11.30","score":"-131.0","database":"MBFV_DB1_noPK.fa","dbPos":"0","bnStart":"1"}
+CCACGGCCAGAAUCAGAGUGGCGCGACUGAGGAAGGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((....((..(((......)))..))...))......((((......)))))))))
+>AY632538.4 MBFV|Iguape virus strain SPAn 71686, complete genome|{"mask":"--.............-","enRel":"10.57","enAbs":"-10.70","score":"-107.0","database":"MBFV_DB1_noPK.fa","dbPos":"0","bnStart":"1"}
+CCACGGCCAGAAUCAGAGUGGCGCGACUGAGGAAGGGACUAGAGGUUAGAGGAGACCCGUGG
+.((((.((....((((.((...))..)))).....))......((((......)))))))).
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-.............","enRel":"25.42","enAbs":"-25.70","score":"-128.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..((((((((..(......)..))))))))...))......((((......))))))))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-...........","enRel":"25.22","enAbs":"-25.50","score":"-17.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+(((((..((..(((((((((..........)))))))))...))......((((......)))).)))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-..........","enRel":"27.72","enAbs":"-28.00","score":"-16.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..(((((((((..........)))))))))...))......((((......))))))))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-.............","enRel":"25.62","enAbs":"-25.90","score":"-106.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..(((((((((.((...))..)))))))))...))......((((......))))))))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-.............","enRel":"26.62","enAbs":"-26.90","score":"-69.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..(((((((((.(......).)))))))))...))......((((......))))))))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-.........","enRel":"27.32","enAbs":"-27.60","score":"-38.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...(((((((((..........)))))))))...))......((((......))))))))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-............","enRel":"25.22","enAbs":"-25.50","score":"-128.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...(((((((((.((...))..)))))))))...))......((((......))))))))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"-............","enRel":"26.22","enAbs":"-26.50","score":"-91.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...(((((((((.(......).)))))))))...))......((((......))))))))))
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"--..........-","enRel":"25.92","enAbs":"-26.20","score":"-15.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+.(((((.((..(((((((((..........)))))))))...))......((((......))))))))).
+>AY898809.1 MBFV|Alfuy virus strain MRM3929, complete genome GenBank|{"mask":"--.........-","enRel":"25.52","enAbs":"-25.80","score":"-37.0","database":"MBFV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+CCACGGCCCGGGCCAUGAGUGAUGAUGUUAACUCAUGGCGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+.(((((((...(((((((((..........)))))))))...))......((((......))))))))).
+>KC788512.1 MBFV|New Mapoon virus strain CY1014 polyprotein gene, complete cds|{"mask":"-............","enRel":"25.63","enAbs":"-25.90","score":"-121.0","database":"MBFV_DB1_noPK.fa","dbPos":"2","bnStart":"1"}
+CCACGGCUGCAGCACUUCUCUUGCGGGAGAGAUAGUGUCACGCGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((((.((((.((((((....))))))..))))...))))......((((......))))))))))
+>KC788512.1 MBFV|New Mapoon virus strain CY1014 polyprotein gene, complete cds|{"mask":"-............","enRel":"25.33","enAbs":"-25.60","score":"-121.0","database":"MBFV_DB1_noPK.fa","dbPos":"2","bnStart":"1"}
+CCACGGCUGCAGCACUUCUCUUGCGGGAGAGAUAGUGUCACGCGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((((.(((((.(((((....)))))..)))))...))))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-..........","enRel":"20.77","enAbs":"-21.00","score":"-16.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((.((..(((((((............)))))))....))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-.............","enRel":"20.27","enAbs":"-20.50","score":"-125.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((.((..(((((((..(......)..)))))))....))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-..........","enRel":"22.07","enAbs":"-22.30","score":"-15.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((.(((.(((((((............)))))))...)))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-.............","enRel":"20.57","enAbs":"-20.80","score":"-129.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((.(((.(((((((...((....)).)))))))...)))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-.........","enRel":"21.07","enAbs":"-21.30","score":"-38.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((((...(((((((............)))))))....))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-.............","enRel":"21.07","enAbs":"-21.30","score":"-102.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((.(((.(((((((.(((...)))..)))))))...)))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-.............","enRel":"21.57","enAbs":"-21.80","score":"-124.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((.(((.(((((((..(......)..)))))))...)))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"-............","enRel":"20.57","enAbs":"-20.80","score":"-147.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+((((((((...(((((((..(......)..)))))))....))......((((......))))))))))
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"--..........-","enRel":"21.47","enAbs":"-21.70","score":"-14.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+.(((((.(((.(((((((............)))))))...)))......((((......))))))))).
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"--..........-","enRel":"20.17","enAbs":"-20.40","score":"-15.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+.(((((.((..(((((((............)))))))....))......((((......))))))))).
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"--.............-","enRel":"20.47","enAbs":"-20.70","score":"-101.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+.(((((.(((.(((((((.(((...)))..)))))))...)))......((((......))))))))).
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"--.............-","enRel":"20.97","enAbs":"-21.20","score":"-123.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+.(((((.(((.(((((((..(......)..)))))))...)))......((((......))))))))).
+>L24512.1 MBFV|Kunjin virus 3' UTR|{"mask":"--.........-","enRel":"20.47","enAbs":"-20.70","score":"-37.0","database":"MBFV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+ACGCGGCCCUAGCUCUGGCAAUGGUGUUAACCAGAGUGAAAGGACUAGAGGUUAGAGGAGACCCCGCGU
+.(((((((...(((((((............)))))))....))......((((......))))))))).
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-...........","enRel":"21.66","enAbs":"-21.90","score":"-16.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+(((((.((...((((((((...........))))))))....))......((((......)))).)))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-..........","enRel":"21.86","enAbs":"-22.10","score":"-18.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((.((..(((((((.............)))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-..........","enRel":"23.86","enAbs":"-24.10","score":"-15.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((.((..((((((((...........))))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-.............","enRel":"21.56","enAbs":"-21.80","score":"-68.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((.((..((((((((.(.......).))))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-.............","enRel":"23.56","enAbs":"-23.80","score":"-160.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((.((..((((((((..(....)...))))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-.........","enRel":"22.16","enAbs":"-22.40","score":"-40.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((((...(((((((.............)))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-............","enRel":"21.56","enAbs":"-21.80","score":"-98.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((.(((.((((((((...........)))))))).)..))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-.........","enRel":"24.16","enAbs":"-24.40","score":"-37.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((((...((((((((...........))))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-............","enRel":"23.86","enAbs":"-24.10","score":"-182.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((((...((((((((..(....)...))))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-............","enRel":"21.86","enAbs":"-22.10","score":"-90.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((((...((((((((.(.......).))))))))....))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"-............","enRel":"21.66","enAbs":"-21.90","score":"-98.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+((((((((.(.((((((((...........)))))))).)..))......((((......))))))))))
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"--..........-","enRel":"22.06","enAbs":"-22.30","score":"-14.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+.(((((.((..((((((((...........))))))))....))......((((......))))))))).
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"--.............-","enRel":"21.76","enAbs":"-22.00","score":"-159.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+.(((((.((..((((((((..(....)...))))))))....))......((((......))))))))).
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"--.........-","enRel":"22.36","enAbs":"-22.60","score":"-36.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+.(((((((...((((((((...........))))))))....))......((((......))))))))).
+>LN849009.1 MBFV|Cacipacore virus gene for polyprotein and partial 3' UTR, isolate BR/SP/CPCV/A. CAJENNENSE/1997|{"mask":"--............-","enRel":"22.06","enAbs":"-22.30","score":"-181.0","database":"MBFV_DB1_noPK.fa","dbPos":"4","bnStart":"1"}
+CCGCGGCCCAACCAGUUCAGACUGAUGCUAUGAACUGGGUAAGGACUAGAGGUUAGAGGAGACCCCGCGG
+.(((((((...((((((((..(....)...))))))))....))......((((......))))))))).
+>NC_000943.1 MBFV|Murray Valley encephalitis virus, complete genome|{"mask":"-..........","enRel":"24.24","enAbs":"-24.50","score":"-27.0","database":"MBFV_DB1_noPK.fa","dbPos":"5","bnStart":"1"}
+CCGCAGCCCGGGCCGGGAGGAGGUGAUGCAAACCCCGGCGAAGGACUAGAGGUUAGAGGAGACCCUGCGG
+((((((.((..((((((................))))))...))......((((......))))))))))
+>NC_000943.1 MBFV|Murray Valley encephalitis virus, complete genome|{"mask":"-.........","enRel":"23.84","enAbs":"-24.10","score":"-49.0","database":"MBFV_DB1_noPK.fa","dbPos":"5","bnStart":"1"}
+CCGCAGCCCGGGCCGGGAGGAGGUGAUGCAAACCCCGGCGAAGGACUAGAGGUUAGAGGAGACCCUGCGG
+((((((((...((((((................))))))...))......((((......))))))))))
+>NC_001437.1 MBFV|Japanese encephalitis virus, genome|{"mask":"-...........","enRel":"26.11","enAbs":"-26.40","score":"-12.0","database":"MBFV_DB1_noPK.fa","dbPos":"6","bnStart":"1"}
+CCACGGCCCAAGCCUCGUCUAGGAUGCAAUAGACGAGGUGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+(((((.((...((((((((((........))))))))))....))......((((......)))).)))))
+>NC_001437.1 MBFV|Japanese encephalitis virus, genome|{"mask":"-..........","enRel":"28.31","enAbs":"-28.60","score":"-11.0","database":"MBFV_DB1_noPK.fa","dbPos":"6","bnStart":"1"}
+CCACGGCCCAAGCCUCGUCUAGGAUGCAAUAGACGAGGUGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..((((((((((........))))))))))....))......((((......))))))))))
+>NC_001437.1 MBFV|Japanese encephalitis virus, genome|{"mask":"-............","enRel":"26.01","enAbs":"-26.30","score":"-94.0","database":"MBFV_DB1_noPK.fa","dbPos":"6","bnStart":"1"}
+CCACGGCCCAAGCCUCGUCUAGGAUGCAAUAGACGAGGUGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.(((.((((((((((........)))))))))).)..))......((((......))))))))))
+>NC_001437.1 MBFV|Japanese encephalitis virus, genome|{"mask":"-.........","enRel":"28.61","enAbs":"-28.90","score":"-33.0","database":"MBFV_DB1_noPK.fa","dbPos":"6","bnStart":"1"}
+CCACGGCCCAAGCCUCGUCUAGGAUGCAAUAGACGAGGUGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...((((((((((........))))))))))....))......((((......))))))))))
+>NC_001437.1 MBFV|Japanese encephalitis virus, genome|{"mask":"-............","enRel":"26.11","enAbs":"-26.40","score":"-94.0","database":"MBFV_DB1_noPK.fa","dbPos":"6","bnStart":"1"}
+CCACGGCCCAAGCCUCGUCUAGGAUGCAAUAGACGAGGUGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((.(.((((((((((........)))))))))).)..))......((((......))))))))))
+>NC_001437.1 MBFV|Japanese encephalitis virus, genome|{"mask":"--..........-","enRel":"26.51","enAbs":"-26.80","score":"-10.0","database":"MBFV_DB1_noPK.fa","dbPos":"6","bnStart":"1"}
+CCACGGCCCAAGCCUCGUCUAGGAUGCAAUAGACGAGGUGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+.(((((.((..((((((((((........))))))))))....))......((((......))))))))).
+>NC_001437.1 MBFV|Japanese encephalitis virus, genome|{"mask":"--.........-","enRel":"26.81","enAbs":"-27.10","score":"-32.0","database":"MBFV_DB1_noPK.fa","dbPos":"6","bnStart":"1"}
+CCACGGCCCAAGCCUCGUCUAGGAUGCAAUAGACGAGGUGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+.(((((((...((((((((((........))))))))))....))......((((......))))))))).
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"-..............","enRel":"21.26","enAbs":"-21.50","score":"-98.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+(((((.((...((((((((.((......))..))))))))....))......((((......)))).)))))
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"-.............","enRel":"22.16","enAbs":"-22.40","score":"-193.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..((((((((...((...))...))))))))....))......((((......))))))))))
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"-.........","enRel":"21.16","enAbs":"-21.40","score":"-41.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...((((((((.............))))))))....))......((((......))))))))))
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"-.............","enRel":"23.46","enAbs":"-23.70","score":"-97.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..((((((((.((......))..))))))))....))......((((......))))))))))
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"-............","enRel":"21.26","enAbs":"-21.50","score":"-210.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...((((((((...(.....)...))))))))....))......((((......))))))))))
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"-............","enRel":"22.46","enAbs":"-22.70","score":"-215.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...((((((((...((...))...))))))))....))......((((......))))))))))
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"-............","enRel":"23.76","enAbs":"-24.00","score":"-119.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...((((((((.((......))..))))))))....))......((((......))))))))))
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"--.............-","enRel":"21.66","enAbs":"-21.90","score":"-96.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+.(((((.((..((((((((.((......))..))))))))....))......((((......))))))))).
+>NC_006551.1 MBFV|Usutu virus, complete cds|{"mask":"--............-","enRel":"21.96","enAbs":"-22.20","score":"-118.0","database":"MBFV_DB1_noPK.fa","dbPos":"7","bnStart":"1"}
+CCACGGCCCAAGCGAACAGACGGUGAUGCGAACUGUUCGUGGAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+.(((((((...((((((((.((......))..))))))))....))......((((......))))))))).
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"-..........","enRel":"18.01","enAbs":"-18.20","score":"-15.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+((((((.((...((((((.........)))))).....))......((((......))))))))))
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"-.............","enRel":"16.61","enAbs":"-16.80","score":"-102.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+((((((.((...((((((.(....)..)))))).....))......((((......))))))))))
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"-............","enRel":"16.91","enAbs":"-17.10","score":"-152.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+((((((.(((..((((((.........))))))..)..))......((((......))))))))))
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"-.........","enRel":"18.31","enAbs":"-18.50","score":"-37.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+((((((((....((((((.........)))))).....))......((((......))))))))))
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"-............","enRel":"16.91","enAbs":"-17.10","score":"-124.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+((((((((....((((((.(....)..)))))).....))......((((......))))))))))
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"-............","enRel":"16.41","enAbs":"-16.60","score":"-124.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+((((((((..(.((((((.........))))))..)..))......((((......))))))))))
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"-............","enRel":"17.01","enAbs":"-17.20","score":"-152.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+((((((((.(..((((((.........))))))..)..))......((((......))))))))))
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"--..........-","enRel":"16.21","enAbs":"-16.40","score":"-14.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+.(((((.((...((((((.........)))))).....))......((((......))))))))).
+>NC_007580.2 MBFV|St. Louis encephalitis virus, complete genome|{"mask":"--.........-","enRel":"16.51","enAbs":"-16.70","score":"-36.0","database":"MBFV_DB1_noPK.fa","dbPos":"8","bnStart":"1"}
+CAGCGGCCCAAACCAUGGAGUGCGUGACCAUGGCGUAAGGACUAGAGGUUAGAGGAGACCCCGCUG
+.(((((((....((((((.........)))))).....))......((((......))))))))).
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-..............","enRel":"17.99","enAbs":"-18.20","score":"-73.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+((((..((..(((((((((.(.....).)))))))))...))......((((......)))).))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-..........","enRel":"17.99","enAbs":"-18.20","score":"-12.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((..((..((((((((.........))))))))....))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-.............","enRel":"18.29","enAbs":"-18.50","score":"-69.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((..((..((((((((.(.....).))))))))....))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-..........","enRel":"19.49","enAbs":"-19.70","score":"-13.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((..((.(((((((((.........)))))))))...))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-.............","enRel":"19.79","enAbs":"-20.00","score":"-70.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((..((.(((((((((.(.....).)))))))))...))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-..........","enRel":"18.29","enAbs":"-18.50","score":"-12.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((...((((((((.........))))))))....))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-.............","enRel":"18.59","enAbs":"-18.80","score":"-69.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((...((((((((.(.....).))))))))....))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-..........","enRel":"20.09","enAbs":"-20.30","score":"-13.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((..(((((((((.........)))))))))...))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"-.............","enRel":"20.39","enAbs":"-20.60","score":"-70.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+(((((.((..(((((((((.(.....).)))))))))...))......((((......)))))))))
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"--.............-","enRel":"17.99","enAbs":"-18.20","score":"-71.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+.((((..((.(((((((((.(.....).)))))))))...))......((((......)))))))).
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"--..........-","enRel":"18.29","enAbs":"-18.50","score":"-14.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+.((((.((..(((((((((.........)))))))))...))......((((......)))))))).
+>NC_009028.2 MBFV|Ilheus virus, complete genome|{"mask":"--.............-","enRel":"18.59","enAbs":"-18.80","score":"-71.0","database":"MBFV_DB1_noPK.fa","dbPos":"9","bnStart":"1"}
+CCACGGCCCAUUUCAGGAGACAGCGCGACUCCUGGAGGAAGGACUAGAGGUUAGAGGAGACCCGUGG
+.((((.((..(((((((((.(.....).)))))))))...))......((((......)))))))).
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"-..........","enRel":"22.77","enAbs":"-23.00","score":"-18.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+((((((..((..(((((((...........)))))))...))......((((......))))))))))
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"-.............","enRel":"22.47","enAbs":"-22.70","score":"-163.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+((((((..((..(((((((..(....)...)))))))...))......((((......))))))))))
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"-.............","enRel":"21.77","enAbs":"-22.00","score":"-163.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+((((((.((...(((((((..(....)...)))))))...))......((((......))))))))))
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"-..........","enRel":"22.07","enAbs":"-22.30","score":"-18.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+((((((.((...(((((((...........)))))))...))......((((......))))))))))
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--..........-","enRel":"22.27","enAbs":"-22.50","score":"-17.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+.(((((..((..(((((((...........)))))))...))......((((......))))))))).
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--..........-","enRel":"21.57","enAbs":"-21.80","score":"-17.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+.(((((.((...(((((((...........)))))))...))......((((......))))))))).
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--.............-","enRel":"21.27","enAbs":"-21.50","score":"-162.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+.(((((.((...(((((((..(....)...)))))))...))......((((......))))))))).
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--.............-","enRel":"21.97","enAbs":"-22.20","score":"-162.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+.(((((..((..(((((((..(....)...)))))))...))......((((......))))))))).
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--..........-","enRel":"20.57","enAbs":"-20.80","score":"-18.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+..((((.((...(((((((...........)))))))...))......((((......))))))))..
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--..........-","enRel":"21.27","enAbs":"-21.50","score":"-18.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+..((((..((..(((((((...........)))))))...))......((((......))))))))..
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--.............-","enRel":"20.97","enAbs":"-21.20","score":"-163.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+..((((..((..(((((((..(....)...)))))))...))......((((......))))))))..
+>NC_009029.2 MBFV|Kokobera virus, complete genome|{"mask":"--.............-","enRel":"20.27","enAbs":"-20.50","score":"-163.0","database":"MBFV_DB1_noPK.fa","dbPos":"10","bnStart":"1"}
+AUCACGGCCCGAGGGGGAGAAGAACGCGAACUCCCCCAAAGGACUAGAGGUUAGAGGAGACCCGUGAU
+..((((.((...(((((((..(....)...)))))))...))......((((......))))))))..
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"-..............","enRel":"18.69","enAbs":"-18.90","score":"-73.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+((((..(((.((((.(((..........))).))))...)))......((((......)))).))))
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"-.............","enRel":"19.89","enAbs":"-20.10","score":"-71.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+(((((.((..((((.(((..........))).))))....))......((((......)))))))))
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"-.............","enRel":"19.39","enAbs":"-19.60","score":"-75.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+(((((.(((.((((.((............)).))))...)))......((((......)))))))))
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"-.............","enRel":"21.19","enAbs":"-21.40","score":"-70.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+(((((.(((.((((.(((..........))).))))...)))......((((......)))))))))
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"-............","enRel":"20.19","enAbs":"-20.40","score":"-93.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+(((((((...((((.(((..........))).))))....))......((((......)))))))))
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"--.............-","enRel":"18.99","enAbs":"-19.20","score":"-72.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+.((((.((..((((.(((..........))).))))....))......((((......)))))))).
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"--.............-","enRel":"20.29","enAbs":"-20.50","score":"-71.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+.((((.(((.((((.(((..........))).))))...)))......((((......)))))))).
+>NC_009942.1 MBFV|West Nile virus lineage 1, complete genome|{"mask":"--............-","enRel":"19.29","enAbs":"-19.50","score":"-94.0","database":"MBFV_DB1_noPK.fa","dbPos":"11","bnStart":"1"}
+CGCGGCCCUAGCCCCGGUAAUGGUGUUAACCAGGGCGAAAGGACUAGAGGUUAGAGGAGACCCCGCG
+.((((((...((((.(((..........))).))))....))......((((......)))))))).
+>NC_015843.2 MBFV|Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds|{"mask":"-............","enRel":"19.58","enAbs":"-19.80","score":"-121.0","database":"MBFV_DB1_noPK.fa","dbPos":"12","bnStart":"1"}
+CACGGCCUGAAAUGAUGGAGCUGGUGUGACCAUCAUGGAGGGACUAGAGGUUAGAGGAGACCCCGUG
+((((((((....((((((.((....))..))))))....)))......((((......)))))))))
+>NC_015843.2 MBFV|Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds|{"mask":"-..............","enRel":"19.48","enAbs":"-19.70","score":"-103.0","database":"MBFV_DB1_noPK.fa","dbPos":"12","bnStart":"1"}
+CACGGCCUGAAAUGAUGGAGCUGGUGUGACCAUCAUGGAGGGACUAGAGGUUAGAGGAGACCCCGUG
+((((.(((...(((((((.((....))..)))))))...)))......((((......)))).))))
+>NC_015843.2 MBFV|Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds|{"mask":"-............","enRel":"21.98","enAbs":"-22.20","score":"-122.0","database":"MBFV_DB1_noPK.fa","dbPos":"12","bnStart":"1"}
+CACGGCCUGAAAUGAUGGAGCUGGUGUGACCAUCAUGGAGGGACUAGAGGUUAGAGGAGACCCCGUG
+((((((((...(((((((.((....))..)))))))...)))......((((......)))))))))
+>NC_015843.2 MBFV|Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds|{"mask":"--............-","enRel":"20.18","enAbs":"-20.40","score":"-123.0","database":"MBFV_DB1_noPK.fa","dbPos":"12","bnStart":"1"}
+CACGGCCUGAAAUGAUGGAGCUGGUGUGACCAUCAUGGAGGGACUAGAGGUUAGAGGAGACCCCGUG
+.(((((((...(((((((.((....))..)))))))...)))......((((......)))))))).
+>NC_018705.3 MBFV|Ntaya virus, complete cds|{"mask":"-.........","enRel":"22.76","enAbs":"-23.00","score":"-34.0","database":"MBFV_DB1_noPK.fa","dbPos":"13","bnStart":"1"}
+CCGCGGCCCAAGCAAGGGAAUGGUGUGCCCCUUGUGGAAGGUCUAGAGGUUAGAGGAGACCCCGCGG
+((((((((...(((((((..........)))))))....))......((((......))))))))))
+>NC_018705.3 MBFV|Ntaya virus, complete cds|{"mask":"-..........","enRel":"22.16","enAbs":"-22.40","score":"-12.0","database":"MBFV_DB1_noPK.fa","dbPos":"13","bnStart":"1"}
+CCGCGGCCCAAGCAAGGGAAUGGUGUGCCCCUUGUGGAAGGUCUAGAGGUUAGAGGAGACCCCGCGG
+((((((.((..(((((((..........)))))))....))......((((......))))))))))
+>NC_034151.1 MBFV|T'Ho virus strain T'Ho-Mex07, complete genome|{"mask":"-..........","enRel":"20.97","enAbs":"-21.20","score":"-10.0","database":"MBFV_DB1_noPK.fa","dbPos":"14","bnStart":"1"}
+CCACGGCCCAAUCUUGGGAGGGCGUGGCCCAAGAGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((.((..(((((((.........)))))))....))......((((......))))))))))
+>NC_034151.1 MBFV|T'Ho virus strain T'Ho-Mex07, complete genome|{"mask":"-.........","enRel":"21.27","enAbs":"-21.50","score":"-32.0","database":"MBFV_DB1_noPK.fa","dbPos":"14","bnStart":"1"}
+CCACGGCCCAAUCUUGGGAGGGCGUGGCCCAAGAGUAAGGACUAGAGGUUAGAGGAGACCCCGUGG
+((((((((...(((((((.........)))))))....))......((((......))))))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"-...........","enRel":"18.98","enAbs":"-19.20","score":"-20.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+GAGAUGGGAGGCCCGAAGCAAAGCUGAAAGGACUAGCGGUUAGAGGAGACCCCUUCCAUCUC
+((((((((((..((..(((...)))....))......((((......)))).))))))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"-..........","enRel":"21.48","enAbs":"-21.70","score":"-19.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+GAGAUGGGAGGCCCGAAGCAAAGCUGAAAGGACUAGCGGUUAGAGGAGACCCCUUCCAUCUC
+(((((((((((.((..(((...)))....))......((((......)))))))))))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"-.........","enRel":"20.78","enAbs":"-21.00","score":"-41.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+GAGAUGGGAGGCCCGAAGCAAAGCUGAAAGGACUAGCGGUUAGAGGAGACCCCUUCCAUCUC
+(((((((((((((...(((...)))....))......((((......)))))))))))))))
+>AJ299445.1 NKV|Montana myotis leukoencephalitis virus complete genomic RNA|{"mask":"--..........-","enRel":"19.28","enAbs":"-19.50","score":"-18.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"1","bnStart":"1"}
+GAGAUGGGAGGCCCGAAGCAAAGCUGAAAGGACUAGCGGUUAGAGGAGACCCCUUCCAUCUC
+.((((((((((.((..(((...)))....))......((((......)))))))))))))).
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"-.............","enRel":"30.49","enAbs":"-30.80","score":"-131.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+((((((((((.((..(((((..(((.....)))..)))))....))......((((......))))))))))))))
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"-.............","enRel":"29.19","enAbs":"-29.50","score":"-104.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+((((((((((.((..(((((..((((....)))).)))))....))......((((......))))))))))))))
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"-............","enRel":"30.79","enAbs":"-31.10","score":"-153.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+((((((((((((...(((((..(((.....)))..)))))....))......((((......))))))))))))))
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"-............","enRel":"29.49","enAbs":"-29.80","score":"-126.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+((((((((((((...(((((..((((....)))).)))))....))......((((......))))))))))))))
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--..............-","enRel":"28.49","enAbs":"-28.80","score":"-131.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+.((((((((.((...(((((..(((.....)))..)))))....))......((((......)))).)))))))).
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.............-","enRel":"29.39","enAbs":"-29.70","score":"-103.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+.(((((((((.((..(((((..((((....)))).)))))....))......((((......))))))))))))).
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.............-","enRel":"30.69","enAbs":"-31.00","score":"-130.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+.(((((((((.((..(((((..(((.....)))..)))))....))......((((......))))))))))))).
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--............-","enRel":"30.99","enAbs":"-31.30","score":"-152.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+.(((((((((((...(((((..(((.....)))..)))))....))......((((......))))))))))))).
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--............-","enRel":"29.69","enAbs":"-30.00","score":"-125.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+.(((((((((((...(((((..((((....)))).)))))....))......((((......))))))))))))).
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.............-","enRel":"28.89","enAbs":"-29.20","score":"-102.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+..((((((((.((..(((((..((((....)))).)))))....))......((((......))))))))))))..
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.............-","enRel":"30.19","enAbs":"-30.50","score":"-129.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+..((((((((.((..(((((..(((.....)))..)))))....))......((((......))))))))))))..
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--............-","enRel":"30.49","enAbs":"-30.80","score":"-151.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+..((((((((((...(((((..(((.....)))..)))))....))......((((......))))))))))))..
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--............-","enRel":"29.19","enAbs":"-29.50","score":"-124.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+..((((((((((...(((((..((((....)))).)))))....))......((((......))))))))))))..
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--.............-","enRel":"28.89","enAbs":"-29.20","score":"-128.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+...(((((((.((..(((((..(((.....)))..)))))....))......((((......)))))))))))...
+>NC_003635.1 NKV|Modoc virus, complete genome|{"mask":"--............-","enRel":"29.19","enAbs":"-29.50","score":"-150.0","database":"TBFV_NKV_DB1_noPK.fa","dbPos":"3","bnStart":"1"}
+GGGAGCCGGGCCCAACCCAGCUAGGGAUAGCCUUUCUGGGGUAAGGACUAGAGGUUAGUGGAGACCCCCGGCUUUU
+...(((((((((...(((((..(((.....)))..)))))....))......((((......)))))))))))...

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search type="SequenceSearchRun" expandResultStructures="no">
+  <name>MBFV YFV DB2 - Zammit descriptor</name>
+  <databaseList />
+  <preferences>
+    <resultsSaveType>FILE</resultsSaveType>
+    <searchMirrorStructure>no</searchMirrorStructure>
+    <searchMirrorStructureReverseComplement>no</searchMirrorStructureReverseComplement>
+    <useCustomScore>no</useCustomScore>
+  </preferences>
+  <searchDate>
+    <begin>2021-08-10 16:20:33</begin>
+    <end>2021-08-10 16:20:43</end>
+  </searchDate>
+  <resultsDisplayColumnList>
+    <column name="enRel" />
+    <column name="enAbs" />
+    <column name="score" />
+  </resultsDisplayColumnList>
+  <searchResults id="0">
+    <name />
+    <filteredSearchResults />
+  </searchResults>
+  <genomeFold windowSize="70" suboptimalFoldEnergy="6.1" foldingMethod="SLIDING_WINDOW" foldingProgram="RNA_SUBOPT">
+    <windowStep value="20" type="RELATIVE" />
+    <windowOverlap value="20" type="RELATIVE" />
+  </genomeFold>
+</search>
+
