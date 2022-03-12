@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <search type="RNAmotifSearchRun">
   <name>Hammerhead_3 - RNAmotif</name>
-  <databaseList />
+  <databaseList>
+    <database filename="sequence/Hammerhead_3.fa" mode="FASTA_LIST" storeMode="STORE_IN_PROJECT">
+      <filter active="no" regexp="yes" pattern="" />
+    </database>
+  </databaseList>
   <preferences>
     <resultsSaveType>FILE</resultsSaveType>
     <useRMprune>yes</useRMprune>

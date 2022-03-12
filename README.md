@@ -1,10 +1,7 @@
 # Data, NA2DSearch projects, pre-processing and post-processing scripts used for demonstrating NA2DSearch capabilities.
 
 ## Data
-Data for published experiments are stored in the `benchmark` folder (see structure below). 
-* Each data-source then has its own sub-directory with its name. 
-  * here, *Zammit* denotes the 3'UTR Flavivirae database published by Zammit et. al. 2021 (https://pubmed.ncbi.nlm.nih.gov/32866223/)
-* Each data-source has been pre-processed differently. The pre-processing steps are described in README files within the respective directories
+Data used in the published experiments are stored in the `benchmark` folder (see structure below). 
 
 ```
 ├── benchmark
@@ -13,18 +10,24 @@ Data for published experiments are stored in the `benchmark` folder (see structu
 │   ├── Zammit
 ```
 
-## NA2DSearch projects
-NA2DSearch application can be downloaded from http://labtools.cz/na2dsearch/ (Java 7 or 8 is required for successful installation).
+* The sub-directories carry the name of the datasource. 
+  * *Zammit* denotes the 3'UTR Flavivirae database published by *Zammit et. al. 2021* (https://pubmed.ncbi.nlm.nih.gov/32866223/)
+* Each datasource has been pre-processed differently. The pre-processing steps are listed in README files within the respective directories
 
-NA2DSearch bundles queries and search parameters in a functional unit called *project*.
+## NA2DSearch projects
+NA2DSearch application can be downloaded from http://labtools.cz/na2dsearch/ (Java 7 and above is required for successful installation).
+
+NA2DSearch bundles query descriptors and search parameters in a functional unit called a *project*.
 Projects ensure transferability as they are ready to use right away, once downloaded.
 
-There are two NA2Dsearch projects - the first holding queries for both *bpRNA* and *tRNAdb* data-sources (they both contain tRNA records),
+There are two NA2Dsearch projects - one holding queries for *bpRNA* and *tRNAdb* data-sources (they both contain tRNA records),
 and the second holding queries for the Zammit dataset. 
 ```
 ├── bpRNABenchmarkProject
 ├── ZammitBenchmarkProject
 ```
+
+For convenience, we include example databases in each query to test the search (e.g., a tRNA query has a FASTA of tRNA records pre-attached).
 
 ## Replicating the results
 ### Replicating search in the tRNAdb
@@ -56,9 +59,3 @@ To replicate the search in *Zammit* records:
     * **Note**: These searches will take considerably longer due to the folding sub-routine. To fasten the search, lower the ΔΔG
     folding parameter
 4. Run the search (Play button)
-
-## Additional experiments
-* To search/filter records of a particular RNA type (e.g., only SCARNA1 records), chose from FASTA files in the `benchmark/bpRNA/misc` directory
-  (e.g., mir_10.fst, SCARNA_1.fst)
-* The `misc` folder also contains FASTA files with sequence data only (*.fa). These can be supplied to sequence searches 
-  (e.g., the one titled *SCARNA_1 - sequence*) 

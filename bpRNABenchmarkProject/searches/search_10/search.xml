@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <search type="StructureSearchRun">
   <name>SECIS_1 - structure</name>
-  <databaseList />
+  <databaseList>
+    <database filename="structure/SECIS_1.fst" mode="FASTA_LIST" storeMode="STORE_IN_PROJECT">
+      <filter active="no" regexp="yes" pattern="" />
+    </database>
+  </databaseList>
   <preferences>
     <resultsSaveType>FILE</resultsSaveType>
     <searchMirrorStructure>no</searchMirrorStructure>

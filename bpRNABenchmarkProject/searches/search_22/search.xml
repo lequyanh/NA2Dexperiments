@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <search type="SequenceSearchRun" expandResultStructures="no">
   <name>TPP v.2 - sequence</name>
-  <databaseList />
+  <databaseList>
+    <database filename="sequence/TPP.fa" mode="FASTA_LIST" storeMode="STORE_IN_PROJECT">
+      <filter active="no" regexp="yes" pattern="" />
+    </database>
+  </databaseList>
   <preferences>
     <resultsSaveType>FILE</resultsSaveType>
     <searchMirrorStructure>no</searchMirrorStructure>

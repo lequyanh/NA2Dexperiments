@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <search type="StructureSearchRun">
   <name>HDV_ribozyme - structure</name>
-  <databaseList />
+  <databaseList>
+    <database filename="structure/HDV_ribozyme.fst" mode="FASTA_LIST" storeMode="STORE_IN_PROJECT">
+      <filter active="no" regexp="yes" pattern="" />
+    </database>
+  </databaseList>
   <preferences>
     <resultsSaveType>FILE</resultsSaveType>
     <searchMirrorStructure>no</searchMirrorStructure>

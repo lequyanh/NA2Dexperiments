@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <search type="SequenceSearchRun" expandResultStructures="no">
   <name>MBFV non-YFV DB2 - Zammit descriptor</name>
-  <databaseList />
+  <databaseList>
+    <database filename="MBFV_DB2_PK1.fa" mode="FASTA_LIST" storeMode="STORE_IN_PROJECT">
+      <filter active="no" regexp="yes" pattern="" />
+    </database>
+    <database filename="MBFV_DB2_PK2.fa" mode="FASTA_LIST" storeMode="STORE_IN_PROJECT">
+      <filter active="no" regexp="yes" pattern="" />
+    </database>
+    <database filename="MBFV_NKV_ISFV_DB_PK.fa" mode="FASTA_LIST" storeMode="STORE_IN_PROJECT">
+      <filter active="no" regexp="yes" pattern="" />
+    </database>
+  </databaseList>
   <preferences>
     <resultsSaveType>FILE</resultsSaveType>
     <searchMirrorStructure>no</searchMirrorStructure>
