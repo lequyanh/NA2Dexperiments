@@ -1,4 +1,4 @@
-# Data, NA2DSearch projects, pre-processing and post-processing scripts used for demonstrating NA2DSearch capabilities.
+#  NA2DSearch accompanying repository with data and instructions on how to replicate the published experiments 
 
 ## Data
 Data used in the published experiments are stored in the `benchmark` folder (see structure below). 
@@ -10,7 +10,7 @@ Data used in the published experiments are stored in the `benchmark` folder (see
 │   ├── Zammit
 ```
 
-* The sub-directories carry the name of the datasource. 
+* The names of sub-directories match the names of datasource. 
   * *Zammit* denotes the 3'UTR Flavivirae database published by *Zammit et. al. 2021* (https://pubmed.ncbi.nlm.nih.gov/32866223/)
 * Each datasource has been pre-processed differently. The pre-processing steps are listed in README files within the respective directories
 
